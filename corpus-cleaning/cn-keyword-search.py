@@ -3,7 +3,7 @@
 #import statements 
 import re #regular expressions, checks if a string matches a regular expression
 import os #operating system, accesses its information
-#import datetime #provides classes for working with dates and times
+#import datetime #provides classes for working with dates and times: use only if you need to alter date format
 import csv #provides classes for reading and writing data to a csv file
 
 #search for all instances of a keyword in each college news issue
@@ -26,7 +26,7 @@ for filename in os.listdir(directory): #for every file in the folder, do these s
         keywordcount = len(keyword_list) #count keyword instances found
         #match = re.search(r"\d{4}-\d{2}-\d{2}", filename) #search file name for date
         #date = datetime.datetime.strptime(match.group(), "%Y-%m-%d").date() #pull date from rest of file name
-        date = filename[2:15]
+        date = filename[2:15] # slice the filename to get date yyyy-mm-dd
         data = [filename, date, keyword, keywordcount] #group file name (minus issues/ and .txt parts), date, keyword, and keyword count in a list
         rows.append(data) #put data into rows variable
 
