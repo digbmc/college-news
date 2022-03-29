@@ -1,0 +1,94 @@
+place,total count,number of issues,variations
+Alabama,5,5,{'Alabama'}
+Alaska,1,1,{'Alaska'}
+Arizona,4,3,{'Arizona'}
+Arkansas,2,2,{'Arkansas'}
+California,43,21,"{'California', 'Los Angeles', 'Cali-  fornia', 'Calif', 'Califor-', 'Califor- nia', 'Cali-'}"
+Colorado,7,7,{'Colorado'}
+Connecticut,82,24,"{'Conn-', 'Stamford', 'folk', 'Hartford', 'Conn.', 'Connecticut', 'New Haven', 'Conn', 'Norwalk', 'West Hartford', 'Bloomfield'}"
+Delaware,12,9,"{'Del', 'Delaware', 'Del.', 'Wilmington'}"
+Florida,18,11,"{'Flor- ida', 'Miami', 'Florida'}"
+Georgia,12,8,"{'Ga.', 'Georgia'}"
+Hawaii,3,3,{'Hawaii'}
+Idaho,3,3,{'Idaho'}
+Illinois,90,24,"{'Lllinois', 'Ilinois', 'Illinois', 'Tilnois', 'Ill', 'Ill.'}"
+Indiana,20,15,"{'Ind.', 'Indiana'}"
+Iowa,6,5,{'Iowa'}
+Kansas,5,4,{'Kansas'}
+Kentucky,6,6,"{'Louisville', 'Kentucky'}"
+Louisiana,6,4,{'Louisiana'}
+Maine,8,5,{'Maine'}
+Maryland,113,24,"{'Maryland', 'Mary-', 'Md.', 'Matyland'}"
+Massachusetts,161,25,"{'Massachusetts', 'Massachu- setts', 'Massa- chusetts', 'Mas-', 'sachusetts', 'Massachu setts', 'Massachu-', 'Massa-', 'Massachu- setts*', 'Massachu-  wetta', 'Massa- chusetts.', 'Massacusetts', 'Mass.', 'Mas'}"
+Michigan,20,9,"{'Michigan', 'naw', 'Michi- gan', 'Mich- igan'}"
+Minnesota,16,11,"{'Minn.', 'Minnesota', 'Minne- sota', 'Minnescta'}"
+Missouri,30,20,"{'Mo.', 'Mo', 'Missouri', 'Mis-  souri', 'ouri', 'Mis- souri'}"
+Montana,2,1,{'Montana'}
+Nebraska,3,3,{'Nebraska'}
+New Hampshire,12,10,"{'New Hamp-', 'Hampshire', 'New Hampshire'}"
+New Jersey,145,24,"{'Jersey', 'New  Jersey', 'New  _Jersey', 'New*  Jersey', 'Ocean City', 'New Jer-', 'New Jersey', 'Moorestown', 'New Jeffley', 'N. J.'}"
+New Mexico,1,1,{'New Mexico'}
+New York,486,25,"{'New â€˜York', 'New york', 'New â€˜York City', 'New: York', 'New York City', 'New, York', 'Newâ€™ York', 'New YÃ©rk', 'N. Y.', 'New Yorkâ€™', 'N. Y. A.B.', 'York', 'Newâ€™  York', 'New  York', 'Newâ„¢', 'New. York', 'N. Y', 'New York'}"
+North Carolina,19,11,"{'North Car -', 'farolina', 'North Car-', 'North Carolina', 'North', 'North â€˜Carolina.'}"
+North Dakota,1,1,{'North'}
+Ohio,99,25,{'Ohio'}
+Oklahoma,12,8,"{'Oklahoma', 'Okla.', 'Okla- homa'}"
+Oregon,5,4,"{'Oregon', 'Portland'}"
+Pennsylvania,401,25,"{'Pefinsylvania', 'Pennsylvania', 'Penn-  sylvania', 'Pefnsylvania', 'Pennsyl- vania*', 'Perinsyl-  svania', 'Pennsyl vania', 'Pa.', 'Pennsyl-  ania', 'Panmyivania', 'Pennsyl-  vania', 'vania', 'Pennsylva- nia', 'Pennsyl- vania', 'Pennsylvapia', 'Pennsylvariia', 'Pennsyl-  Vania', 'Penn-'}"
+Rhode Island,26,16,"{'Providence', 'Rhode', 'Rhode Island', 'Rhode Is-'}"
+South Carolina,8,5,"{'South', 'South Carolina', 'Greenville', 'Charleston', 'South Caro-'}"
+Tennessee,10,8,"{'Tennes-', 'Tennessee'}"
+Texas,17,10,{'Texas'}
+Utah,1,1,{'Utah'}
+Vermont,2,2,{'Vermont'}
+Virginia,45,22,"{'Roanoke', 'Virginia', 'Vir- ginia', 'Richmond'}"
+Washington,27,14,"{'Washing- ton', 'Washington'}"
+Washington D.C.,52,20,"{'the District of Columbia*', 'Washington D.C.', 'District of Columbia', 'the District OF Columbia', 'D. C.', 'the District of Columbia', 'the Dis- trict of Colombia', 'the Dis- trict of Columbia', 'D.C.', 'Washing-', 'D. C.â€”A.B.'}"
+West Virginia,10,7,"{'West Virginia', 'West'}"
+Wisconsin,14,8,"{'Wiscon-', 'Wis.', 'Wisconsin', 'Milwaukee', 'Madison'}"
+Wyoming,1,1,{'Wyoming'}
+"48 US LOCATIONS including Washington D.C.; no Mississippi, Nevada, or South Dakota",,,
+,,,
+Argentina,4,4,{'Argentina'}
+Austria,1,1,{'Austria'}
+Belgium,1,1,{'Belgium'}
+Bolivia,1,1,{'Bolivia'}
+Brazil,3,3,{'Brazil'}
+Canada,13,9,"{'Ontario', 'Alberta', 'Canada'}"
+Chile,1,1,{'Chile'}
+China,10,7,"{'Chekiang', 'China'}"
+Colombia,1,1,{'Columbia'}
+Cuba,3,2,"{'Cienfuegos', 'Cuba'}"
+Czechoslovakia,1,1,{'Czechoslovakia'}
+Dominican Republic,1,1,{'the Dominican Republic'}
+Ecuador,1,1,{'Ecuador'}
+Egypt,1,1,{'Egypt'}
+England,2,2,{'England'}
+France,8,6,{'France'}
+Germany,3,3,{'Germany'}
+Greece,2,2,{'Greece'}
+India,3,3,{'India'}
+Italy,2,2,{'Italy'}
+Japan,3,3,{'Japan'}
+Kenya,1,1,{'Kenya'}
+Mexico,5,5,{'Mexico'}
+Netherlands,1,1,{'The Nether- lands'}
+Nigeria,1,1,{'Nigeria'}
+Pakistan,1,1,{'Pakistan'}
+Peru,1,1,{'Peru'}
+Puerto Rico,2,2,{'Puerto Rico'}
+Sweden,1,1,{'Sweden'}
+Switzerland,2,2,"{'Zurich', 'Switz-'}"
+Taiwan,1,1,{'Taiwan'}
+Turkey,5,5,"{'Turkey', 'Istanbul'}"
+Uruguay,2,2,"{'Uruguay', 'Uru- guay'}"
+Venezuela,1,1,{'Venezuela'}
+34 NON-US LOCATIONS,,,
+,,,
+,,,
+LED light,range,count,color
+1,1 to 10 ,56,either blue
+2,11 to 20,12,yellow
+3,21 to 50,5,dark green
+4,51 to 100,4,gray
+5,101 to 500,5,either pink or magenta

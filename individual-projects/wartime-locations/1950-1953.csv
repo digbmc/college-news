@@ -1,0 +1,4962 @@
+filename,GPE,GPE_clean,count
+cn1950-01-11.txt,BRYN MAWR,Bryn Mawr,1
+cn1950-01-11.txt,PA,Pennsylvania,1
+cn1950-01-11.txt,the Soviet Union,Soviet Union,1
+cn1950-01-11.txt,Bryn Mawr,Bryn Mawr,9
+cn1950-01-11.txt,the United States,United States,3
+cn1950-01-11.txt,Yugoslavia,Yugoslavia,7
+cn1950-01-11.txt,Moscow,Moscow,5
+cn1950-01-11.txt,Haverford,Haverford,3
+cn1950-01-11.txt,New,New UNKNOWN,1
+cn1950-01-11.txt,Ardmore,Ardmore,2
+cn1950-01-11.txt,Pa.,Pennsylvania,5
+cn1950-01-11.txt,China,China,7
+cn1950-01-11.txt,Formosa,Formosa,1
+cn1950-01-11.txt,Britain,Britain,1
+cn1950-01-11.txt,The United States,United States,1
+cn1950-01-11.txt,Hollywood,Hollywood,1
+cn1950-01-11.txt,Paris,Paris,1
+cn1950-01-11.txt,Philadel- phia’s,Philadelphia PLURAL,1
+cn1950-01-11.txt,Philadelphia,Philadelphia,4
+cn1950-01-11.txt,Askelon,Askelon,1
+cn1950-01-11.txt,Spain,Spain,1
+cn1950-01-11.txt,Nice,Nice,1
+cn1950-01-11.txt,Grenoble,Grenoble,1
+cn1950-01-11.txt,Russia,Russia,4
+cn1950-01-11.txt,Swarthmore,Swarthmore,1
+cn1950-01-11.txt,New Haven,New Haven,2
+cn1950-01-11.txt,Conn.,Connecticut,1
+cn1950-01-11.txt,New York,New York,2
+cn1950-01-11.txt,Harrison,Harrison,1
+cn1950-01-11.txt,Salem,Salem,1
+cn1950-01-11.txt,America,United States,1
+cn1950-01-11.txt,California,California,1
+cn1950-01-11.txt,JEANETTE,Jeanette,1
+cn1950-01-11.txt,CHESTERFIELD,Chesterfield,1
+cn1950-01-18.txt,ARDMORE,Ardmore,1
+cn1950-01-18.txt,BRYN MAWR,Bryn Mawr,2
+cn1950-01-18.txt,PA,Pennsylvania,2
+cn1950-01-18.txt,Bryn Mawr,Bryn Mawr,11
+cn1950-01-18.txt,Denmark,Denmark,3
+cn1950-01-18.txt,Germany,Germany,1
+cn1950-01-18.txt,Norway,Norway,1
+cn1950-01-18.txt,England,England,2
+cn1950-01-18.txt,Russia,Russia,2
+cn1950-01-18.txt,America,United States,1
+cn1950-01-18.txt,Copenhagen,Copenhagen,1
+cn1950-01-18.txt,the U. S.,United States,1
+cn1950-01-18.txt,Charleston,Charleston,1
+cn1950-01-18.txt,Oxford,Oxford,1
+cn1950-01-18.txt,Spain,Spain,2
+cn1950-01-18.txt,Germantown,Germantown,1
+cn1950-01-18.txt,Pa.,Pennsylvania,3
+cn1950-01-18.txt,Mamiltes,Mamiltes,1
+cn1950-01-18.txt,Hamilton,Hamilton,2
+cn1950-01-18.txt,N. Y.,New York,1
+cn1950-01-18.txt,New York,New York,1
+cn1950-01-18.txt,Haverford,Haverford,2
+cn1950-01-18.txt,Duxbury,Duxbury,1
+cn1950-01-18.txt,Mass.,Massachusetts,1
+cn1950-01-18.txt,STOCKTON,Stockton,2
+cn1950-01-18.txt,Philadelphia,Philadelphia,1
+cn1950-01-18.txt,Prince William Sound,Prince William Sound,1
+cn1950-02-15.txt,PA,Pennsylvania,1
+cn1950-02-15.txt,Lilliput,Lilliput,1
+cn1950-02-15.txt,Ardmore,Ardmore,4
+cn1950-02-15.txt,Pa.,Pennsylvania,5
+cn1950-02-15.txt,Philadelphia,Philadelphia,1
+cn1950-02-15.txt,Park,Park,1
+cn1950-02-15.txt,America,United States,2
+cn1950-02-15.txt,Jersey,Jersey UKNOWN,1
+cn1950-02-15.txt,New York,New York,4
+cn1950-02-15.txt,Arden,Arden,1
+cn1950-02-15.txt,Bryn Mawr,Bryn Mawr,6
+cn1950-02-15.txt,Israel,Israel,2
+cn1950-02-15.txt,India,India,1
+cn1950-02-15.txt,New York 17,New York,1
+cn1950-02-15.txt,N. Y.,New York,2
+cn1950-02-15.txt,White Plains,White Plains,1
+cn1950-02-15.txt,the United,United States,1
+cn1950-02-15.txt,New York 23,New York,1
+cn1950-02-15.txt,Los Angeles,Los Angeles,2
+cn1950-02-15.txt,Russia,Russia,1
+cn1950-02-15.txt,China,China,1
+cn1950-02-15.txt,Switzerland,Switzerland,1
+cn1950-02-15.txt,Westport,Westport,1
+cn1950-02-15.txt,Connecticut,Connecticut,1
+cn1950-02-15.txt,NEW YORK 3,New York,1
+cn1950-02-15.txt,Phila,Philadelphia,1
+cn1950-02-15.txt,Haverford,Haverford,1
+cn1950-02-15.txt,Swarthmore,Swarthmore,1
+cn1950-02-15.txt,Chestnut Hill,Chestnut Hill,1
+cn1950-02-15.txt,Hiroshima,Hiroshima,1
+cn1950-02-15.txt,Harrison,Harrison,1
+cn1950-02-15.txt,CHESTERFIELD,Chesterfield,1
+cn1950-02-22.txt,BRYN MAWR,Bryn Mawr,1
+cn1950-02-22.txt,PA,Pennsylvania,2
+cn1950-02-22.txt,Alaska,Alaska,1
+cn1950-02-22.txt,Athens,Athens,1
+cn1950-02-22.txt,Ardmore,Ardmore,2
+cn1950-02-22.txt,Pa.,Pennsylvania,5
+cn1950-02-22.txt,Germany,Germany,5
+cn1950-02-22.txt,Canada,Canada,1
+cn1950-02-22.txt,China,China,1
+cn1950-02-22.txt,United States,United States,2
+cn1950-02-22.txt,U.S.,United States,1
+cn1950-02-22.txt,Lake Success,Lake Success,1
+cn1950-02-22.txt,Japan,Japan,1
+cn1950-02-22.txt,Austria,Austria,1
+cn1950-02-22.txt,Mayrhofen,Mayrhofen,1
+cn1950-02-22.txt,Salz,Salzburg,1
+cn1950-02-22.txt,Paris,Paris,1
+cn1950-02-22.txt,Normandy,Normandy,1
+cn1950-02-22.txt,Rock,Rock,1
+cn1950-02-22.txt,Basel,Basel,2
+cn1950-02-22.txt,Britain,Britain,2
+cn1950-02-22.txt,US,United States,1
+cn1950-02-22.txt,Minnesota,Minnesota,1
+cn1950-02-22.txt,Andover,Andover,1
+cn1950-02-22.txt,Ecuador,Ecuador,1
+cn1950-02-22.txt,Egypt,Egypt,1
+cn1950-02-22.txt,France,France,1
+cn1950-02-22.txt,Norway,Norway,1
+cn1950-02-22.txt,India,India,1
+cn1950-02-22.txt,Philippines,Philippines,1
+cn1950-02-22.txt,United Kingdom,United Kingdom,1
+cn1950-02-22.txt,Haverford,Haverford,1
+cn1950-02-22.txt,Bryn Mawr,Bryn Mawr,8
+cn1950-02-22.txt,USSR,Soviet Union,2
+cn1950-02-22.txt,Soviet,Soviet,1
+cn1950-02-22.txt,Russia,Russia,4
+cn1950-02-22.txt,SAN FRANCISCO,San Francisco,1
+cn1950-02-22.txt,CALIFORNIA,California,1
+cn1950-02-22.txt,Wilmington,Wilmington,1
+cn1950-02-22.txt,Del.,Delaware,1
+cn1950-02-22.txt,London,London,1
+cn1950-02-22.txt,N. Y.,New York,1
+cn1950-02-22.txt,New York City,New York City,2
+cn1950-02-22.txt,Arkansas,Arkansas,2
+cn1950-02-22.txt,Fayetteville,Fayetteville,2
+cn1950-02-22.txt,New York,New York,2
+cn1950-02-22.txt,Harrison,Harrison,1
+cn1950-02-22.txt,Oakley Ridge,Oakley Ridge,1
+cn1950-02-22.txt,MAWR,Mawr UNKNOWN,1
+cn1950-02-22.txt,Venice,Venice,1
+cn1950-02-22.txt,Bryn Mawr 1208,Bryn Mawr,1
+cn1950-02-22.txt,U. S.,United States,1
+cn1950-02-22.txt,NY,New York,1
+cn1950-02-22.txt,Chesterfield,Chesterfield,2
+cn1950-02-22.txt,CHESTERFIELD,Chesterfield,1
+cn1950-03-01.txt,ARDMORE,Ardmore,1
+cn1950-03-01.txt,BRYN MAWR,Bryn Mawr,1
+cn1950-03-01.txt,PA,Pennsylvania,1
+cn1950-03-01.txt,Ruwussia,Ruwussia,1
+cn1950-03-01.txt,the U. S.,United States,1
+cn1950-03-01.txt,U. S. S. R,Soviet Union,1
+cn1950-03-01.txt,Russia,Russia,2
+cn1950-03-01.txt,New York,New York,5
+cn1950-03-01.txt,the United States,United States,1
+cn1950-03-01.txt,London,London,2
+cn1950-03-01.txt,Palestine,Palestine,2
+cn1950-03-01.txt,Israel,Israel,2
+cn1950-03-01.txt,New York City,New York City,2
+cn1950-03-01.txt,Ardmore,Ardmore,2
+cn1950-03-01.txt,Pa.,Pennsylvania,3
+cn1950-03-01.txt,Bryn Mawr’s,Bryn Mawr PLURAL,1
+cn1950-03-01.txt,Britain,Britain,1
+cn1950-03-01.txt,the Soviet Union,Soviet Union,1
+cn1950-03-01.txt,S.S.'R.,Soviet Union,1
+cn1950-03-01.txt,England,England,3
+cn1950-03-01.txt,the U. S. S. R.,Soviet Union,1
+cn1950-03-01.txt,Bryn Mawr,Bryn Mawr,3
+cn1950-03-01.txt,U.S.F.,U.S.F.,1
+cn1950-03-01.txt,Mexico,Mexico,1
+cn1950-03-01.txt,Hollywood,Hollywood,2
+cn1950-03-01.txt,Virginia,Virginia,1
+cn1950-03-01.txt,Cali-,California,1
+cn1950-03-01.txt,Ohio,Ohio,1
+cn1950-03-01.txt,Chesterfield,Chesterfield,1
+cn1950-03-01.txt,Philadelphia,Philadelphia,2
+cn1950-03-01.txt,U. S.,United States,1
+cn1950-03-01.txt,Spain,Spain,1
+cn1950-03-01.txt,Italy,Italy,1
+cn1950-03-01.txt,America,United States,1
+cn1950-03-01.txt,NEW YORK 3,New York,1
+cn1950-03-01.txt,N. Y.,New York,1
+cn1950-03-08.txt,PA,Pennsylvania,1
+cn1950-03-08.txt,Smyrna,Smyrna,1
+cn1950-03-08.txt,Russia,Russia,1
+cn1950-03-08.txt,Prague,Prague,1
+cn1950-03-08.txt,Brussels,Brussels,2
+cn1950-03-08.txt,Belgrade,Belgrade,1
+cn1950-03-08.txt,Haverford,Haverford,3
+cn1950-03-08.txt,Bryn Mawr,Bryn Mawr,9
+cn1950-03-08.txt,Swarthmore,Swarthmore,1
+cn1950-03-08.txt,the United States,United States,2
+cn1950-03-08.txt,Ardmore,Ardmore,2
+cn1950-03-08.txt,Pa.,Pennsylvania,4
+cn1950-03-08.txt,Tokyo,Tokyo,1
+cn1950-03-08.txt,Japan,Japan,1
+cn1950-03-08.txt,Illinois,Illinois,1
+cn1950-03-08.txt,Paris,Paris,1
+cn1950-03-08.txt,Limousin,Limousin,1
+cn1950-03-08.txt,Belgium,Belgium,1
+cn1950-03-08.txt,London,London,2
+cn1950-03-08.txt,Milan,Milan,1
+cn1950-03-08.txt,Massachusetts,Massachusetts,1
+cn1950-03-08.txt,England,England,1
+cn1950-03-08.txt,San Francisco,San Francisco,1
+cn1950-03-08.txt,California,California,1
+cn1950-03-08.txt,Middleburg,Middleburg,1
+cn1950-03-08.txt,Texas,Texas,1
+cn1950-03-08.txt,Washington,Washington UNKNOWN,2
+cn1950-03-08.txt,Pennsylvania,Pennsylvania,1
+cn1950-03-08.txt,the State of Pennsylvania,Pennsylvania,1
+cn1950-03-08.txt,Ann Arbor,Ann Arbor,2
+cn1950-03-08.txt,Grand Rapids,Grand Rapids,1
+cn1950-03-08.txt,Farnsworth,Farnsworth,1
+cn1950-03-08.txt,New York 18,New York,2
+cn1950-03-08.txt,N. Y.,New York,1
+cn1950-03-08.txt,Gottingham,Nottingham,1
+cn1950-03-08.txt,Munich,Munich,1
+cn1950-03-08.txt,Spain,Spain,1
+cn1950-03-08.txt,N. Y.,New York,1
+cn1950-03-08.txt,Chesterfield,Chesterfield,1
+cn1950-03-15.txt,ARDMORE,Ardmore,1
+cn1950-03-15.txt,BRYN MAWR,Bryn Mawr,1
+cn1950-03-15.txt,PA,Pennsylvania,1
+cn1950-03-15.txt,Barnard,Barnard,2
+cn1950-03-15.txt,Swarthmore,Swarthmore,2
+cn1950-03-15.txt,Bryn Mawr,Bryn Mawr,8
+cn1950-03-15.txt,Iran,Iran,1
+cn1950-03-15.txt,Belgium,Belgium,1
+cn1950-03-15.txt,Puna,Puna,1
+cn1950-03-15.txt,England,England,1
+cn1950-03-15.txt,France,France,2
+cn1950-03-15.txt,America,United States,1
+cn1950-03-15.txt,Russia,Russia,1
+cn1950-03-15.txt,Algar,Algar,1
+cn1950-03-15.txt,Delhi,Delhi,1
+cn1950-03-15.txt,Aurangabad,Aurangabad,1
+cn1950-03-15.txt,Bengalore,Bengalore,1
+cn1950-03-15.txt,Haverford,Haverford,1
+cn1950-03-15.txt,New York,New York,2
+cn1950-03-15.txt,Ardmore,Ardmore,1
+cn1950-03-15.txt,Pa.,Pennsylvania,2
+cn1950-03-15.txt,India,India,3
+cn1950-03-15.txt,U. S.,United States,2
+cn1950-03-15.txt,Bryn (,Bryn UNKNOWN,1
+cn1950-03-15.txt,Mawr,Mawr UNKNOWN,1
+cn1950-03-15.txt,Philadelphia,Philadelphia,2
+cn1950-03-15.txt,Alaska,Alaska,2
+cn1950-03-15.txt,Nierstein,Nierstein,1
+cn1950-03-15.txt,Charleston,Charleston,1
+cn1950-03-15.txt,Annapolis,Annapolis,1
+cn1950-03-15.txt,Louisiana,Louisiana,1
+cn1950-03-15.txt,Baton Rouge,Baton Rouge,2
+cn1950-03-15.txt,London,London,3
+cn1950-03-15.txt,the United,United States,1
+cn1950-03-15.txt,New York 17,New York,1
+cn1950-03-15.txt,White Plains,White Plains,1
+cn1950-03-15.txt,N. Y.,New York,1
+cn1950-03-15.txt,East Orange,East Orange,1
+cn1950-03-15.txt,N. J.,New Jersey,1
+cn1950-03-15.txt,S.S. WASHINGTON,Washington UNKNOWN,1
+cn1950-03-15.txt,Paris,Paris,2
+cn1950-03-15.txt,Switzerland,Switzerland,2
+cn1950-03-15.txt,Italy,Italy,1
+cn1950-03-15.txt,Venice,Venice,1
+cn1950-03-15.txt,Florence,Florence,1
+cn1950-03-15.txt,Rome,Rome,1
+cn1950-03-15.txt,Naples,Naples,1
+cn1950-03-15.txt,N.Y.,New York,1
+cn1950-03-15.txt,Philadel- phia,Philadelphia,1
+cn1950-03-15.txt,Wilming- ton,Wilming- ton,1
+cn1950-03-15.txt,Mount Kisco,Mount Kisco,1
+cn1950-03-15.txt,NEW YORK 3,New York,1
+cn1950-03-15.txt,N. Y.    An,N. Y.    An,1
+cn1950-03-15.txt,CHESTERFIELD,Chesterfield,1
+cn1950-03-22.txt,Russia,Russia,3
+cn1950-03-22.txt,the U. S. S. R.,Soviet Union,1
+cn1950-03-22.txt,Russias,Russia,1
+cn1950-03-22.txt,U.S. S. R.,U.S. S. R.,1
+cn1950-03-22.txt,New York,New York,5
+cn1950-03-22.txt,PA,Pennsylvania,1
+cn1950-03-22.txt,Berlin,Berlin,1
+cn1950-03-22.txt,Germany,Germany,1
+cn1950-03-22.txt,the United,United States,1
+cn1950-03-22.txt,the United States,United States,3
+cn1950-03-22.txt,Washington,Washington UNKNOWN,2
+cn1950-03-22.txt,D. C.,Washington D.C.,1
+cn1950-03-22.txt,Ardmore,Ardmore,2
+cn1950-03-22.txt,Pa.,Pennsylvania,2
+cn1950-03-22.txt,Turkey,Turkey,1
+cn1950-03-22.txt,Belgium,Belgium,3
+cn1950-03-22.txt,Switzerland,Switzerland,1
+cn1950-03-22.txt,Bryn Mawr,Bryn Mawr,5
+cn1950-03-22.txt,USSR,Soviet Union,2
+cn1950-03-22.txt,North Carolina,North Carolina,1
+cn1950-03-22.txt,Haverford,Haverford,2
+cn1950-03-22.txt,Jerusalem,Jerusalem,1
+cn1950-03-22.txt,New Jersey,New Jersey,1
+cn1950-03-22.txt,Italy,Italy,1
+cn1950-03-22.txt,Manhattan,Manhattan,2
+cn1950-03-22.txt,Rome,Rome,2
+cn1950-03-22.txt,S.S. WASHINGTON—,Washington UNKNOWN,1
+cn1950-03-22.txt,Paris,Paris,1
+cn1950-03-22.txt,London,London,1
+cn1950-03-22.txt,Mississippi,Mississippi,1
+cn1950-03-22.txt,Phila,Philadelphia,1
+cn1950-03-22.txt,New York 18,New York,1
+cn1950-03-22.txt,N. Y.,New York,1
+cn1950-03-22.txt,SCOTLAND,Scotland,1
+cn1950-03-22.txt,N. Y.,New York,1
+cn1950-04-12.txt,PA,Pennsylvania,1
+cn1950-04-12.txt,Paris,Paris,2
+cn1950-04-12.txt,Philadelphia,Philadelphia,5
+cn1950-04-12.txt,Russia,Russia,2
+cn1950-04-12.txt,Maryland,Maryland,1
+cn1950-04-12.txt,Canada,Canada,1
+cn1950-04-12.txt,Egypt,Egypt,1
+cn1950-04-12.txt,China,China,1
+cn1950-04-12.txt,Ardmore,Ardmore,2
+cn1950-04-12.txt,Pa.,Pennsylvania,3
+cn1950-04-12.txt,Belgium,Belgium,1
+cn1950-04-12.txt,Bryn Mawr,Bryn Mawr,3
+cn1950-04-12.txt,England,England,1
+cn1950-04-12.txt,Malta,Malta,1
+cn1950-04-12.txt,Grasmere,Grasmere,1
+cn1950-04-12.txt,Princeton,Princeton,1
+cn1950-04-12.txt,America,United States,4
+cn1950-04-12.txt,Pennsylvania,Pennsylvania,4
+cn1950-04-12.txt,Hartford,Hartford,1
+cn1950-04-12.txt,St. Paul,St. Paul,1
+cn1950-04-12.txt,Washington,Washington UNKNOWN,2
+cn1950-04-12.txt,United,United,1
+cn1950-04-12.txt,Austria,Austria,1
+cn1950-04-12.txt,Harrison,Harrison,1
+cn1950-04-12.txt,Phila,Philadelphia,1
+cn1950-04-12.txt,New York 18,New York,1
+cn1950-04-12.txt,N. Y,New York,2
+cn1950-04-12.txt,United States Foreign Pol- icy,United States Foreign Pol- icy,1
+cn1950-04-12.txt,Williamstown,Williamstown,1
+cn1950-04-12.txt,Massachusetts,Massachusetts,1
+cn1950-04-12.txt,MONTCLAIR,Montclair,1
+cn1950-04-12.txt,WASHINGTON,Washington UNKNOWN,1
+cn1950-04-12.txt,London,London,1
+cn1950-04-12.txt,Oberammergau,Oberammergau,1
+cn1950-04-12.txt,Italy,Italy,1
+cn1950-04-12.txt,CHICAGO,Chicago,1
+cn1950-04-12.txt,BOSTON,Boston,1
+cn1950-04-12.txt,New York 22,New York,1
+cn1950-04-12.txt,N.Y.,New York,1
+cn1950-04-12.txt,State College,State College,1
+cn1950-04-12.txt,Zurich,Zurich,1
+cn1950-04-12.txt,New York 17,New York,1
+cn1950-04-12.txt,N. Y.,New York,1
+cn1950-04-12.txt,White Plains,White Plains,1
+cn1950-04-12.txt,Haverford,Haverford,1
+cn1950-04-12.txt,Ja-,Ja UNKNOWN,1
+cn1950-04-12.txt,maica,maica,1
+cn1950-04-12.txt,Flushing,Flushing,1
+cn1950-04-12.txt,Pocono Pines,Pocono Pines,1
+cn1950-04-12.txt,Union,Union,1
+cn1950-04-12.txt,Maine,Maine,1
+cn1950-04-12.txt,Sus-,Sus-,1
+cn1950-04-12.txt,N. J.,New Jersey,1
+cn1950-04-12.txt,Cleveland,Cleveland,1
+cn1950-04-12.txt,Ohio,Ohio,1
+cn1950-04-12.txt,N. Y.—re¢reational,N. Y.—re¢reational,1
+cn1950-04-12.txt,Mexico,Mexico,1
+cn1950-04-12.txt,Ocean City,Ocean City,1
+cn1950-04-12.txt,Mass.,Massachusetts,1
+cn1950-04-12.txt,Wisconsin,Wisconsin,1
+cn1950-04-19.txt,China,China,3
+cn1950-04-19.txt,the United States,United States,3
+cn1950-04-19.txt,U. S.,United States,2
+cn1950-04-19.txt,Bryn Mawr’s,Bryn Mawr PLURAL,1
+cn1950-04-19.txt,Ardmore,Ardmore,2
+cn1950-04-19.txt,Pa.,Pennsylvania,2
+cn1950-04-19.txt,Bryn Mawr,Bryn Mawr,4
+cn1950-04-19.txt,Wisconsin,Wisconsin,1
+cn1950-04-19.txt,Wheeling,Wheeling,1
+cn1950-04-19.txt,USSR,Soviet Union,1
+cn1950-04-19.txt,Seviet,Seviet,1
+cn1950-04-19.txt,St. Louis,St. Louis,1
+cn1950-04-19.txt,Los Angeles,Los Angeles,1
+cn1950-04-19.txt,New York,New York,1
+cn1950-04-19.txt,United States,United States,1
+cn1950-04-19.txt,US,United States,1
+cn1950-04-19.txt,Russia,Russia,4
+cn1950-04-19.txt,"Bryn Mawr,",Bryn Mawr,1
+cn1950-04-19.txt,Haverford,Haverford,1
+cn1950-04-19.txt,Hollins,Hollins,1
+cn1950-04-19.txt,Cheyney,Cheyney,1
+cn1950-04-19.txt,Haver-,Haver- UNKNOWN,1
+cn1950-04-19.txt,Swarthmore,Swarthmore,1
+cn1950-04-19.txt,Norrisown,Norristown,1
+cn1950-04-19.txt,Pennsylvania,Pennsylvania,1
+cn1950-04-19.txt,U.S.,United States,1
+cn1950-04-19.txt,Cincinnati,Cincinnati,1
+cn1950-04-19.txt,Vienna,Vienna,2
+cn1950-04-19.txt,San Francisco,San Francisco,1
+cn1950-04-19.txt,New York 18,New York,1
+cn1950-04-19.txt,BOSTON,Boston,1
+cn1950-04-19.txt,MEXICO,Mexico,1
+cn1950-04-19.txt,Chesterfield,Chesterfield,2
+cn1950-04-26.txt,PA,Pennsylvania,1
+cn1950-04-26.txt,Russia,Russia,2
+cn1950-04-26.txt,China,China,1
+cn1950-04-26.txt,Wheeling,Wheeling,1
+cn1950-04-26.txt,West Virginia,West Virginia,1
+cn1950-04-26.txt,Detroit,Detroit,1
+cn1950-04-26.txt,Bryn Mawr,Bryn Mawr,6
+cn1950-04-26.txt,Williamstown,Williamstown,1
+cn1950-04-26.txt,Massachusetts,Massachusetts,2
+cn1950-04-26.txt,Paris,Paris,4
+cn1950-04-26.txt,Phil-,Philadelphia,1
+cn1950-04-26.txt,Ardmore,Ardmore,2
+cn1950-04-26.txt,Pa.,Pennsylvania,3
+cn1950-04-26.txt,the United States,United States,1
+cn1950-04-26.txt,Philadelphia,Philadelphia,3
+cn1950-04-26.txt,Haverford,Haverford,4
+cn1950-04-26.txt,Swarthmore,Swarthmore,1
+cn1950-04-26.txt,Temple,Temple,1
+cn1950-04-26.txt,Pennsylvania,Pennsylvania,1
+cn1950-04-26.txt,New,New UNKNOWN,1
+cn1950-04-26.txt,Poughkeepsie,Poughkeepsie,1
+cn1950-04-26.txt,Atlantie City,Atlantic City,1
+cn1950-04-26.txt,Venice,Venice,1
+cn1950-04-26.txt,Hampshire,Hampshire,1
+cn1950-04-26.txt,Greece,Greece,1
+cn1950-04-26.txt,Rome,Rome,2
+cn1950-04-26.txt,Coatesville,Coatesville,2
+cn1950-04-26.txt,U. S.,United States,1
+cn1950-04-26.txt,Chicago,Chicago,1
+cn1950-04-26.txt,Ill.,Illinois,1
+cn1950-04-26.txt,Germany,Germany,6
+cn1950-04-26.txt,Harrison,Harrison,1
+cn1950-04-26.txt,Austria,Austria,1
+cn1950-04-26.txt,BOSTON,Boston,1
+cn1950-04-26.txt,JALISCO,JALISCO,1
+cn1950-04-26.txt,Worcester,Worcester,2
+cn1950-04-26.txt,Chesterfield,Chesterfield,1
+cn1950-04-26.txt,San Francisco,San Francisco,1
+cn1950-04-26.txt,New York,New York,2
+cn1950-04-26.txt,Washington,Washington UNKNOWN,1
+cn1950-04-26.txt,CHESTERFIELD,Chesterfield,1
+cn1950-05-01.txt,ARDMORE,Ardmore,1
+cn1950-05-01.txt,BRYN MAWR,Bryn Mawr,1
+cn1950-05-01.txt,PA,Pennsylvania,1
+cn1950-05-01.txt,Philadel- ‘phia,Philadel- ‘phia,1
+cn1950-05-01.txt,America,United States,1
+cn1950-05-01.txt,Forest Hills,Forest Hills,2
+cn1950-05-01.txt,Haverford,Haverford,3
+cn1950-05-01.txt,Litchfield,Litchfield,3
+cn1950-05-01.txt,Connecticut,Connecticut,7
+cn1950-05-01.txt,Andover,Andover,2
+cn1950-05-01.txt,Massachusetts,Massachusetts,8
+cn1950-05-01.txt,Scarsdale,Scarsdale,3
+cn1950-05-01.txt,New,New UNKNOWN,6
+cn1950-05-01.txt,New York,New York,27
+cn1950-05-01.txt,New York,New York,4
+cn1950-05-01.txt,Dobbs,Dobbs,1
+cn1950-05-01.txt,Long Island,Long Island,4
+cn1950-05-01.txt,Middlebury,Middlebury,1
+cn1950-05-01.txt,Virginia,Virginia,6
+cn1950-05-01.txt,Richmond,Richmond,2
+cn1950-05-01.txt,Glen Ridge,Glen Ridge,1
+cn1950-05-01.txt,New Jersey,New Jersey,5
+cn1950-05-01.txt,Summit,Summit,1
+cn1950-05-01.txt,Ardmore,Ardmore,4
+cn1950-05-01.txt,Pa.,Pennsylvania,4
+cn1950-05-01.txt,Bryn Mawr,Bryn Mawr,10
+cn1950-05-01.txt,Philadelphia,Philadelphia,13
+cn1950-05-01.txt,Pireaus,Pireaus,1
+cn1950-05-01.txt,India,India,1
+cn1950-05-01.txt,Forest,Forest,1
+cn1950-05-01.txt,Philadel- phia,Philadelphia,4
+cn1950-05-01.txt,Pennsylvania,Pennsylvania,45
+cn1950-05-01.txt,Saint Louis,Saint Louis,2
+cn1950-05-01.txt,Missouri,Missouri,4
+cn1950-05-01.txt,Dallas,Dallas,2
+cn1950-05-01.txt,Tex-,Texas,1
+cn1950-05-01.txt,Texas,Texas,1
+cn1950-05-01.txt,Bal-,Bal-,1
+cn1950-05-01.txt,Maryland,Maryland,6
+cn1950-05-01.txt,Swarth-,Swarthmore,1
+cn1950-05-01.txt,Baltimore,Baltimore,3
+cn1950-05-01.txt,New York City,New York City,5
+cn1950-05-01.txt,Maine,Maine,1
+cn1950-05-01.txt,Beverly,Beverly,1
+cn1950-05-01.txt,Chatham,Chatham,2
+cn1950-05-01.txt,Ellicott City,Ellicott City,1
+cn1950-05-01.txt,Hyattsville,Hyattsville,1
+cn1950-05-01.txt,Washington,Washington UNKNOWN,4
+cn1950-05-01.txt,Penngylvania,Pennsylvania,1
+cn1950-05-01.txt,Ridgely,Ridgely,1
+cn1950-05-01.txt,Marion,Marion,1
+cn1950-05-01.txt,D. C.,Washington D.C.,3
+cn1950-05-01.txt,Locust Valley,Locust Valley,1
+cn1950-05-01.txt,De-,De-,1
+cn1950-05-01.txt,troit,troit,1
+cn1950-05-01.txt,Michigan,Michigan,2
+cn1950-05-01.txt,Cranbrook,Cranbrook,1
+cn1950-05-01.txt,Bloomfield Hills,Bloomfield Hills,1
+cn1950-05-01.txt,Laurel,Laurel,1
+cn1950-05-01.txt,"Upper Darby,",Upper Darby,1
+cn1950-05-01.txt,Upper Darby,Upper Darby,1
+cn1950-05-01.txt,Haver- ford,Haverford,1
+cn1950-05-01.txt,Walling- ford,Walling- ford,1
+cn1950-05-01.txt,Swarthmore,Swarthmore,1
+cn1950-05-01.txt,Westtown,Westtown,1
+cn1950-05-01.txt,Phila- delphia,Philadelphia,2
+cn1950-05-01.txt,Pennsyl- vania,Pennsylvania,2
+cn1950-05-01.txt,Pasadena,Pasadena,3
+cn1950-05-01.txt,California,California,9
+cn1950-05-01.txt,San Fran-,San Francisco,1
+cn1950-05-01.txt,San,San UNKNOWN,2
+cn1950-05-01.txt,Pelham,Pelham,1
+cn1950-05-01.txt,Phil-,Philadelphia,2
+cn1950-05-01.txt,Brooklyn,Brooklyn,3
+cn1950-05-01.txt,Cata- sauqua,Cata- sauqua,1
+cn1950-05-01.txt,Catasauqua,Catasauqua,1
+cn1950-05-01.txt,Dedham,Dedham,1
+cn1950-05-01.txt,Milton,Milton,3
+cn1950-05-01.txt,Massa-,Massachusetts,1
+cn1950-05-01.txt,St. Johnsbury,St. Johnsbury,1
+cn1950-05-01.txt,Vermont,Vermont,1
+cn1950-05-01.txt,Scars-,Scars-,1
+cn1950-05-01.txt,Chicago Heights,Chicago Heights,1
+cn1950-05-01.txt,Illinois,Illinois,2
+cn1950-05-01.txt,Lin-,Lin UNKNOWN,1
+cn1950-05-01.txt,Nebraska,Nebraska,1
+cn1950-05-01.txt,New York Alumnae Regional Scholarship,New York Alumnae Regional Scholarship,4
+cn1950-05-01.txt,Mexico City,Mexico City,1
+cn1950-05-01.txt,Mexico,Mexico,1
+cn1950-05-01.txt,the City of New York,the City of New York,1
+cn1950-05-01.txt,Ja- maica Plain,Jamaica Plain,1
+cn1950-05-01.txt,Brookline,Brookline,1
+cn1950-05-01.txt,Masachusetts,Massachusetts,1
+cn1950-05-01.txt,Cambridge,Cambridge,1
+cn1950-05-01.txt,Massa- chusetts.,Massachusetts,1
+cn1950-05-01.txt,University City,University City,1
+cn1950-05-01.txt,Wash-,Washington UNKNOWN,1
+cn1950-05-01.txt,Valabreque,Valabreque,1
+cn1950-05-01.txt,Berkeley,Berkeley,1
+cn1950-05-01.txt,Charleston,Charleston,1
+cn1950-05-01.txt,West Virginia,West Virginia,2
+cn1950-05-01.txt,Ri,Rhode Island,1
+cn1950-05-01.txt,Tama- qua,Tama- qua,1
+cn1950-05-01.txt,Clarksburg,Clarksburg,1
+cn1950-05-01.txt,Peiping,Peiping,2
+cn1950-05-01.txt,China,China,3
+cn1950-05-01.txt,New Platz,New Platz,1
+cn1950-05-01.txt,Albany,Albany,1
+cn1950-05-01.txt,Balti- more,Baltimore,1
+cn1950-05-01.txt,Coopersburg,Coopersburg,1
+cn1950-05-01.txt,Pleasant Valley,Pleasant Valley,1
+cn1950-05-01.txt,Chatta- nooga,Chattanooga,1
+cn1950-05-01.txt,Tennessee,Tennessee,1
+cn1950-05-01.txt,Chatta-  nooga,Chattanooga,1
+cn1950-05-01.txt,Tennesee,Tennessee,1
+cn1950-05-01.txt,Switzerland,Switzerland,1
+cn1950-05-01.txt,Atlan- ta,Atlan- ta,1
+cn1950-05-01.txt,Georgia,Georgia,1
+cn1950-05-01.txt,Lan-,Lan-,1
+cn1950-05-01.txt,Ohio,Ohio,8
+cn1950-05-01.txt,Lancaster,Lancaster,2
+cn1950-05-01.txt,Old Greenwich,Old Greenwich,1
+cn1950-05-01.txt,Green-,Green VARIES,1
+cn1950-05-01.txt,New York Alumnae Regional Scholar,New York Alumnae Regional Scholar,1
+cn1950-05-01.txt,Orient,Orient,1
+cn1950-05-01.txt,Greenport,Greenport,1
+cn1950-05-01.txt,ia Island,ia Island,1
+cn1950-05-01.txt,hassett,hassett,1
+cn1950-05-01.txt,Winnetka,Winnetka,1
+cn1950-05-01.txt,Kenosha,Kenosha,1
+cn1950-05-01.txt,Wisconsin,Wisconsin,1
+cn1950-05-01.txt,Wayne,Wayne,2
+cn1950-05-01.txt,Bryn,Bryn UNKNOWN,1
+cn1950-05-01.txt,Harwich,Harwich,2
+cn1950-05-01.txt,Mass.,Massachusetts,1
+cn1950-05-01.txt,Cape Cod,Cape Cod,2
+cn1950-05-01.txt,Massachu-,Massachusetts,1
+cn1950-05-01.txt,New Hartford,New Hartford,1
+cn1950-05-01.txt,Mass-,Massachusetts,1
+cn1950-05-01.txt,Carmel,Carmel,1
+cn1950-05-01.txt,Cin- cinnati,Cincinnati,1
+cn1950-05-01.txt,Cincinnati,Cincinnati,1
+cn1950-05-01.txt,Lans-,Lans-,1
+cn1950-05-01.txt,Cleveland,Cleveland,2
+cn1950-05-01.txt,Scranton,Scranton,3
+cn1950-05-01.txt,Penn-,Penn VARIES,1
+cn1950-05-01.txt,Abington,Abington,1
+cn1950-05-01.txt,Providence,Providence,1
+cn1950-05-01.txt,Rhode Island,Rhode Island,2
+cn1950-05-01.txt,Lansdowne,Lansdowne,1
+cn1950-05-01.txt,delphia,Philadelphia,1
+cn1950-05-01.txt,Vienna,Vienna,2
+cn1950-05-01.txt,Austria,Austria,2
+cn1950-05-01.txt,Waterbury,Waterbury,1
+cn1950-05-01.txt,Virgina,Virginia,1
+cn1950-05-01.txt,Arlington,Arlington,1
+cn1950-05-01.txt,Hastings-on-Hudson,Hastings-on-Hudson,1
+cn1950-05-01.txt,South Pasa-,South Pasadena,1
+cn1950-05-01.txt,Cal-,California,1
+cn1950-05-01.txt,Toronto,Toronto,1
+cn1950-05-01.txt,Canada,Canada,1
+cn1950-05-01.txt,Cannes,Cannes,1
+cn1950-05-01.txt,France,France,1
+cn1950-05-01.txt,Peekskill,Peekskill,1
+cn1950-05-01.txt,Fischbach,Fischbach,1
+cn1950-05-01.txt,Nurnberg,Nurnberg,1
+cn1950-05-01.txt,many,many,1
+cn1950-05-01.txt,Columbus,Columbus,2
+cn1950-05-01.txt,Cranford,Cranford,3
+cn1950-05-01.txt,Des  Moines,Des Moines,1
+cn1950-05-01.txt,Iowa,Iowa,2
+cn1950-05-01.txt,Jenkinitown,Jenkintown,1
+cn1950-05-01.txt,Des Moines,Des Moines,1
+cn1950-05-01.txt,Alexandria,Alexandria,1
+cn1950-05-01.txt,Alexa,Alexa,1
+cn1950-05-01.txt,dria,dria,1
+cn1950-05-01.txt,D.C.,Washington D.C.,1
+cn1950-05-01.txt,Concord,Concord,2
+cn1950-05-01.txt,Massachu-,Massachusetts,1
+cn1950-05-01.txt,Ajijic,Ajijic,1
+cn1950-05-01.txt,JALISCO,JALISCO,1
+cn1950-05-01.txt,MEXICO,Mexico,1
+cn1950-05-01.txt,NEW YORK,New York,1
+cn1950-05-01.txt,BOSTON,Boston,1
+cn1950-05-01.txt,Florence,Florence,2
+cn1950-05-01.txt,Rome,Rome,2
+cn1950-05-01.txt,Evanston,Evanston,1
+cn1950-05-01.txt,Chicago,Chicago,1
+cn1950-05-01.txt,Ill.,Illinois,1
+cn1950-05-01.txt,U.S.A.,United States,1
+cn1950-05-01.txt,East Prussia,East Prussia,1
+cn1950-05-01.txt,Denmark,Denmark,1
+cn1950-05-01.txt,Hannover,Hannover,1
+cn1950-05-01.txt,Colby,Colby,2
+cn1950-05-01.txt,Kansas,Kansas,1
+cn1950-05-01.txt,Kan-,Kan UNKNOWN,1
+cn1950-05-01.txt,sas,sas,1
+cn1950-05-01.txt,Flushing,Flushing,1
+cn1950-05-01.txt,Nan-,Nan-,1
+cn1950-05-01.txt,San Mar-,San Mar-,1
+cn1950-05-01.txt,ino,ino,1
+cn1950-05-01.txt,South Pas-,South Pasadena,1
+cn1950-05-01.txt,Haute-Savoie,Haute-Savoie,1
+cn1950-05-01.txt,New York 18,New York,1
+cn1950-05-01.txt,N. Y.,New York,1
+cn1950-05-01.txt,CHESTERFIELD,Chesterfield,1
+cn1950-05-10.txt,PA,Pennsylvania,2
+cn1950-05-10.txt,Detroit,Detroit,2
+cn1950-05-10.txt,London,London,2
+cn1950-05-10.txt,Haverford,Haverford,4
+cn1950-05-10.txt,France,France,4
+cn1950-05-10.txt,South Africa,South Africa,2
+cn1950-05-10.txt,Bryn Mawr,Bryn Mawr,5
+cn1950-05-10.txt,Kent,Kent,1
+cn1950-05-10.txt,The United States,United States,1
+cn1950-05-10.txt,B,B,1
+cn1950-05-10.txt,Ardmore,Ardmore,2
+cn1950-05-10.txt,Pa.,Pennsylvania,2
+cn1950-05-10.txt,Israel,Israel,1
+cn1950-05-10.txt,Germany,Germany,1
+cn1950-05-10.txt,Italy,Italy,1
+cn1950-05-10.txt,the U. S.—but,the U. S.—but,1
+cn1950-05-10.txt,Washington,Washington UNKNOWN,3
+cn1950-05-10.txt,Pennsylvania,Pennsylvania,2
+cn1950-05-10.txt,Athens,Athens,2
+cn1950-05-10.txt,Chesterfield,Chesterfield,1
+cn1950-05-10.txt,Charleston,Charleston,2
+cn1950-05-10.txt,New York,New York,4
+cn1950-05-10.txt,Hollywood,Hollywood,1
+cn1950-05-10.txt,STOCKTON,Stockton,1
+cn1950-05-10.txt,NEW YORK,New York,1
+cn1950-05-10.txt,BOSTON,Boston,1
+cn1950-05-10.txt,America,United States,1
+cn1950-05-10.txt,CHESTERFIELD,Chesterfield,1
+cn1950-05-10.txt,Chesterfields,Chesterfield,1
+cn1950-05-10.txt,Oxford,Oxford,1
+cn1950-05-10.txt,Swarthmore,Swarthmore,1
+cn1950-05-10.txt,Chicago,Chicago,1
+cn1950-05-10.txt,St. Louis,St. Louis,1
+cn1950-05-10.txt,New York City,New York City,1
+cn1950-05-10.txt,the U. S. A.,United States OR A.S.U,1
+cn1950-05-17.txt,ARDMORE,Ardmore,1
+cn1950-05-17.txt,BRYN MAWR,Bryn Mawr,1
+cn1950-05-17.txt,PA,Pennsylvania,2
+cn1950-05-17.txt,Berlin,Berlin,1
+cn1950-05-17.txt,Paris,Paris,3
+cn1950-05-17.txt,France,France,1
+cn1950-05-17.txt,New,New UNKNOWN,1
+cn1950-05-17.txt,Valley Forge,Valley Forge,1
+cn1950-05-17.txt,Oxford,Oxford,1
+cn1950-05-17.txt,Bryn Mawr,Bryn Mawr,3
+cn1950-05-17.txt,Balti- more,Baltimore,1
+cn1950-05-17.txt,Maryland,Maryland,1
+cn1950-05-17.txt,New York,New York,2
+cn1950-05-17.txt,Rome,Rome,1
+cn1950-05-17.txt,Ardmore,Ardmore,2
+cn1950-05-17.txt,Pa.,Pennsylvania,2
+cn1950-05-17.txt,Strasbourg,Strasbourg,1
+cn1950-05-17.txt,the United States,United States,2
+cn1950-05-17.txt,Russia,Russia,1
+cn1950-05-17.txt,the U. S. A.,United States OR A.S.U,1
+cn1950-05-17.txt,Haverford,Haverford,3
+cn1950-05-17.txt,Philadelphia,Philadelphia,1
+cn1950-05-17.txt,Nebraska,Nebraska,1
+cn1950-05-17.txt,Mecca,Mecca,3
+cn1950-05-17.txt,Baghdad,Baghdad,2
+cn1950-05-17.txt,Westport,Westport,1
+cn1950-05-17.txt,New Orleans,New Orleans,2
+cn1950-05-17.txt,La.,Los Angeles,1
+cn1950-05-17.txt,Louisiana,Louisiana,1
+cn1950-05-17.txt,Phila,Philadelphia,1
+cn1950-05-17.txt,New York 18,New York,1
+cn1950-05-17.txt,N. Y.,New York,1
+cn1950-05-17.txt,Java,Java,1
+cn1950-05-17.txt,Yale,Yale,1
+cn1950-05-17.txt,Germany,Germany,1
+cn1950-05-17.txt,America,United States,1
+cn1950-05-17.txt,NEW YORK,New York,1
+cn1950-05-17.txt,BOSTON,Boston,1
+cn1950-05-17.txt,CHESTERFIELD,Chesterfield,1
+cn1950-06-06.txt,BRYN MAWR,Bryn Mawr,1
+cn1950-06-06.txt,PA,Pennsylvania,1
+cn1950-06-06.txt,Pennsylvania,Pennsylvania,30
+cn1950-06-06.txt,New York,New York,34
+cn1950-06-06.txt,New,New UNKNOWN,8
+cn1950-06-06.txt,Peru,Peru,1
+cn1950-06-06.txt,Delaware,Delaware,3
+cn1950-06-06.txt,New Jer-,New Jersey,3
+cn1950-06-06.txt,Penn-,Penn VARIES,4
+cn1950-06-06.txt,New Jersey,New Jersey,8
+cn1950-06-06.txt,Pennsyl vania,Pennsylvania,1
+cn1950-06-06.txt,Ohio,Ohio,3
+cn1950-06-06.txt,Turkey,Turkey,1
+cn1950-06-06.txt,France,France,4
+cn1950-06-06.txt,Massachusetts,Massachusetts,10
+cn1950-06-06.txt,Indiana,Indiana,1
+cn1950-06-06.txt,Greece,Greece,2
+cn1950-06-06.txt,New York City,New York City,3
+cn1950-06-06.txt,Athens,Athens,1
+cn1950-06-06.txt,Swarthmore,Swarthmore,1
+cn1950-06-06.txt,Philadel- phia,Philadelphia,1
+cn1950-06-06.txt,Ridley,Ridley,1
+cn1950-06-06.txt,Oregon,Oregon,1
+cn1950-06-06.txt,Philadelphia,Philadelphia,6
+cn1950-06-06.txt,Berwyn,Berwyn,1
+cn1950-06-06.txt,New Haven,New Haven,2
+cn1950-06-06.txt,Connecticut,Connecticut,5
+cn1950-06-06.txt,Washington,Washington UNKNOWN,1
+cn1950-06-06.txt,D. C.,Washington D.C.,1
+cn1950-06-06.txt,Manhattan,Manhattan,1
+cn1950-06-06.txt,Rome,Rome,2
+cn1950-06-06.txt,Bryn Mawr,Bryn Mawr,3
+cn1950-06-06.txt,Oxford,Oxford,2
+cn1950-06-06.txt,England,England,2
+cn1950-06-06.txt,Paris,Paris,2
+cn1950-06-06.txt,Ardmore,Ardmore,2
+cn1950-06-06.txt,Pa.,Pennsylvania,2
+cn1950-06-06.txt,Bryn Mawr’s,Bryn Mawr PLURAL,1
+cn1950-06-06.txt,Cali-,California,1
+cn1950-06-06.txt,Pennsyl- vania,Pennsylvania,2
+cn1950-06-06.txt,Massa- chusetts,Massachusetts,2
+cn1950-06-06.txt,Kansas,Kansas,1
+cn1950-06-06.txt,Maryland,Maryland,3
+cn1950-06-06.txt,Maine,Maine,2
+cn1950-06-06.txt,the District of Columbia,Washington D.C.,1
+cn1950-06-06.txt,Virginia,Virginia,1
+cn1950-06-06.txt,Illinois,Illinois,5
+cn1950-06-06.txt,Michi- gan,Michigan,1
+cn1950-06-06.txt,Colorado,Colorado,1
+cn1950-06-06.txt,Missouri,Missouri,2
+cn1950-06-06.txt,Hanna,Hanna,1
+cn1950-06-06.txt,Massachu-,Massachusetts,1
+cn1950-06-06.txt,York,York UNKNOWN,2
+cn1950-06-06.txt,Pennsyl-,Pennsylvania,2
+cn1950-06-06.txt,Massachu-,Massachusetts,1
+cn1950-06-06.txt,New,New UNKNOWN,2
+cn1950-06-06.txt,Baltimore,Baltimore,1
+cn1950-06-06.txt,Philadel phia,Philadelphia,1
+cn1950-06-06.txt,Nor-,Nor-,1
+cn1950-06-06.txt,Cai--,Cai--,1
+cn1950-06-06.txt,Egypt,Egypt,2
+cn1950-06-06.txt,Cairo,Cairo,2
+cn1950-06-06.txt,Berke-,Berke-,1
+cn1950-06-06.txt,California,California,1
+cn1950-06-06.txt,Marietta,Marietta,1
+cn1950-06-06.txt,Manchester,Manchester,1
+cn1950-06-06.txt,New Hampshire,New Hampshire,2
+cn1950-06-06.txt,Scran-  ton,Scranton,1
+cn1950-06-06.txt,Vandalia,Vandalia,1
+cn1950-06-06.txt,laston,Blaston,1
+cn1950-06-06.txt,City,City UNKNOWN,1
+cn1950-06-06.txt,town,town,1
+cn1950-06-06.txt,Michigan,Michigan,1
+cn1950-06-06.txt,Tennessee,Tennessee,2
+cn1950-06-06.txt,Mas-,Massachusetts,1
+cn1950-06-06.txt,Massachu,Massachusetts,1
+cn1950-06-06.txt,Massachu-,Massachusetts,1
+cn1950-06-06.txt,China,China,1
+cn1950-06-06.txt,Vermont,Vermont,2
+cn1950-06-06.txt,N.Y.,New York,1
+cn1950-06-06.txt,Methuen,Methuen,1
+cn1950-06-06.txt,Berlin,Berlin,1
+cn1950-06-06.txt,Germany,Germany,1
+cn1950-06-06.txt,Ontario,Ontario,2
+cn1950-06-06.txt,Canada,Canada,2
+cn1950-06-06.txt,York City,New York City,1
+cn1950-06-06.txt,Verdun,Verdun,1
+cn1950-06-06.txt,Geneva,Geneva,1
+cn1950-06-06.txt,Ken-  osha,Ken-  osha,1
+cn1950-06-06.txt,Wisconsin,Wisconsin,1
+cn1950-06-06.txt,Italy,Italy,1
+cn1950-06-06.txt,Fjorida,Fjorida,1
+cn1950-06-06.txt,Memphis,Memphis,1
+cn1950-06-06.txt,Beverly,Beverly,1
+cn1950-06-06.txt,Glencoe,Glencoe,1
+cn1950-06-06.txt,Phila-,Philadelphia,1
+cn1950-06-06.txt,Na-,Na-,1
+cn1950-06-06.txt,Phila- delphia,Philadelphia,1
+cn1950-06-06.txt,South Salem,South Salem,1
+cn1950-06-06.txt,Bos-,Boston,1
+cn1950-06-06.txt,New Can-,New Can-,1
+cn1950-06-06.txt,STOCKTON,Stockton,1
+cn1950-09-30.txt,PA,Pennsylvania,1
+cn1950-09-30.txt,Bryn Mawr,Bryn Mawr,3
+cn1950-09-30.txt,Bryn,Bryn UNKNOWN,1
+cn1950-09-30.txt,Ville,Ville UNKNOWN,1
+cn1950-09-30.txt,America,United States,3
+cn1950-09-30.txt,Munich,Munich,1
+cn1950-09-30.txt,eore eblo,eore eblo,1
+cn1950-09-30.txt,Colorado,Colorado,2
+cn1950-09-30.txt,Passaic,Passaic,1
+cn1950-09-30.txt,New Jersey,New Jersey,1
+cn1950-09-30.txt,Salis-|,Salisbury,1
+cn1950-09-30.txt,bury,bury,1
+cn1950-09-30.txt,Connecticut,Connecticut,1
+cn1950-09-30.txt,New York,New York,2
+cn1950-09-30.txt,Phila,Philadelphia,1
+cn1950-09-30.txt,Ardmore,Ardmore,4
+cn1950-09-30.txt,Pa.,Pennsylvania,2
+cn1950-09-30.txt,U.S.,United States,1
+cn1950-09-30.txt,DC,Washington D.C.,1
+cn1950-09-30.txt,Kansas,Kansas,1
+cn1950-09-30.txt,New Orleans,New Orleans,1
+cn1950-09-30.txt,Stockton,Stockton,1
+cn1950-09-30.txt,Bryn,Bryn UNKNOWN,1
+cn1950-09-30.txt,Bryn Mawr!|,Bryn Mawr,1
+cn1950-09-30.txt,Rock,Rock,2
+cn1950-10-11.txt,ARDMORE,Ardmore,1
+cn1950-10-11.txt,BRYN MAWR,Bryn Mawr,1
+cn1950-10-11.txt,PA,Pennsylvania,1
+cn1950-10-11.txt,Sicily,Sicily,1
+cn1950-10-11.txt,New York,New York,2
+cn1950-10-11.txt,the United States,United States,2
+cn1950-10-11.txt,Canada,Canada,1
+cn1950-10-11.txt,Great Britain,Great Britain,1
+cn1950-10-11.txt,Russia,Russia,1
+cn1950-10-11.txt,Ukraine,Ukraine,1
+cn1950-10-11.txt,Poland,Poland,1
+cn1950-10-11.txt,Germany,Germany,1
+cn1950-10-11.txt,Holland,Holland,1
+cn1950-10-11.txt,Belgium,Belgium,1
+cn1950-10-11.txt,Ardmore,Ardmore,2
+cn1950-10-11.txt,Pa.,Pennsylvania,2
+cn1950-10-11.txt,Haverford,Haverford,3
+cn1950-10-11.txt,Korea,Korea,8
+cn1950-10-11.txt,Potsdam,Potsdam,1
+cn1950-10-11.txt,Moscow,Moscow,1
+cn1950-10-11.txt,North Korea,North Korea,1
+cn1950-10-11.txt,Paris,Paris,1
+cn1950-10-11.txt,Bryn Mawr,Bryn Mawr,3
+cn1950-10-11.txt,New York’s,New York POSSESSIVE,1
+cn1950-10-11.txt,Buenos Aires,Buenos Aires,1
+cn1950-10-11.txt,Paoli,Paoli,1
+cn1950-10-11.txt,Ann Arbor,Ann Arbor,1
+cn1950-10-11.txt,America,United States,2
+cn1950-10-11.txt,Bryn Mawr’s,Bryn Mawr PLURAL,1
+cn1950-10-11.txt,England,England,1
+cn1950-10-11.txt,Philadelphia,Philadelphia,1
+cn1950-10-11.txt,berstadt,Eberstadt,1
+cn1950-10-11.txt,Evanston,Evanston,1
+cn1950-10-11.txt,Illinois,Illinois,1
+cn1950-10-11.txt,Fla.,Florida,1
+cn1950-10-11.txt,Farmington,Farmington,1
+cn1950-10-18.txt,PA,Pennsylvania,1
+cn1950-10-18.txt,Bryn Mawr,Bryn Mawr,2
+cn1950-10-18.txt,Chicago,Chicago,2
+cn1950-10-18.txt,the United Kingdom,United Kingdom,2
+cn1950-10-18.txt,France,France,8
+cn1950-10-18.txt,Greece,Greece,2
+cn1950-10-18.txt,Italy,Italy,3
+cn1950-10-18.txt,Nash-,Nash-,1
+cn1950-10-18.txt,New Hampshire,New Hampshire,1
+cn1950-10-18.txt,Athens,Athens,1
+cn1950-10-18.txt,Hamden,Hamden,1
+cn1950-10-18.txt,Connecticut,Connecticut,1
+cn1950-10-18.txt,Kingdom,Kingdom,1
+cn1950-10-18.txt,England,England,4
+cn1950-10-18.txt,London,London,3
+cn1950-10-18.txt,Cormwail,Cormwail,1
+cn1950-10-18.txt,Washington,Washington UNKNOWN,2
+cn1950-10-18.txt,Messina,Messina,1
+cn1950-10-18.txt,West Australia,West Australia,1
+cn1950-10-18.txt,Ardmore,Ardmore,3
+cn1950-10-18.txt,Pa.,Pennsylvania,3
+cn1950-10-18.txt,Cape May,Cape May,1
+cn1950-10-18.txt,New,New UNKNOWN,1
+cn1950-10-18.txt,United States,United States,1
+cn1950-10-18.txt,the United States,United States,5
+cn1950-10-18.txt,the United  States,United States,1
+cn1950-10-18.txt,Germany,Germany,2
+cn1950-10-18.txt,Paris,Paris,2
+cn1950-10-18.txt,Naw York,New York,1
+cn1950-10-18.txt,New Cas-,New Cas-,1
+cn1950-10-18.txt,Pennsylvania,Pennsylvania,1
+cn1950-10-18.txt,Baltimore,Baltimore,1
+cn1950-10-18.txt,Rome,Rome,1
+cn1950-10-18.txt,"the United, States",United States,1
+cn1950-10-18.txt,New York,New York,1
+cn1950-10-18.txt,Lankenau,Lankenau,1
+cn1950-10-18.txt,Philadelphia,Philadelphia,3
+cn1950-10-18.txt,Russia,Russia,2
+cn1950-10-18.txt,U.S.,United States,1
+cn1950-10-18.txt,California,California,1
+cn1950-10-18.txt,Iowa,Iowa,1
+cn1950-10-18.txt,Okla- homa,Oklahoma,1
+cn1950-10-18.txt,New York 18,New York,1
+cn1950-10-18.txt,N. Y.,New York,1
+cn1950-10-18.txt,Orono,Orono,2
+cn1950-10-18.txt,Maine,Maine,2
+cn1950-10-18.txt,Toulouse,Toulouse,1
+cn1950-10-18.txt,Toulon,Toulon,1
+cn1950-10-25.txt,ARDMORE,Ardmore,1
+cn1950-10-25.txt,BRYN MAWR,Bryn Mawr,1
+cn1950-10-25.txt,PA,Pennsylvania,1
+cn1950-10-25.txt,New York,New York,2
+cn1950-10-25.txt,Rome,Rome,2
+cn1950-10-25.txt,Valley Forge,Valley Forge,1
+cn1950-10-25.txt,Ardmore,Ardmore,2
+cn1950-10-25.txt,Pa.,Pennsylvania,2
+cn1950-10-25.txt,Bryn Mawr,Bryn Mawr,4
+cn1950-10-25.txt,the United States,United States,3
+cn1950-10-25.txt,Spain,Spain,5
+cn1950-10-25.txt,Holland,Holland,1
+cn1950-10-25.txt,Paris,Paris,2
+cn1950-10-25.txt,France,France,1
+cn1950-10-25.txt,Salamanca,Salamanca,1
+cn1950-10-25.txt,Ma- drid,Ma- drid,1
+cn1950-10-25.txt,Turkey,Turkey,1
+cn1950-10-25.txt,Athens,Athens,1
+cn1950-10-25.txt,Greece,Greece,2
+cn1950-10-25.txt,England,England,4
+cn1950-10-25.txt,Korea,Korea,1
+cn1950-10-25.txt,Lima,Lima,1
+cn1950-10-25.txt,Yugoslavia,Yugoslavia,2
+cn1950-10-25.txt,drid,drid,1
+cn1950-10-25.txt,Maiorca,Maiorca,1
+cn1950-10-25.txt,Mexico,Mexico,1
+cn1950-10-25.txt,Sipain,Sipain,1
+cn1950-10-25.txt,Chesterfield,Chesterfield,1
+cn1950-10-25.txt,New York 16,New York,1
+cn1950-10-25.txt,New,New UNKNOWN,1
+cn1950-10-25.txt,Brooklyn,Brooklyn,1
+cn1950-10-25.txt,Philadelphia,Philadelphia,1
+cn1950-10-25.txt,N. Y.,New York,1
+cn1950-10-25.txt,Bryn Mawr,Bryn Mawr,1
+cn1950-10-25.txt,Chesterfields,Chesterfield,1
+cn1950-11-01.txt,PA,Pennsylvania,2
+cn1950-11-01.txt,New York,New York,3
+cn1950-11-01.txt,Philadelphia,Philadelphia,3
+cn1950-11-01.txt,Baltimore,Baltimore,1
+cn1950-11-01.txt,Maryland,Maryland,1
+cn1950-11-01.txt,Korea,Korea,2
+cn1950-11-01.txt,China,China,5
+cn1950-11-01.txt,Tientsen,Tientsin,1
+cn1950-11-01.txt,Shanghai,Shanghai,1
+cn1950-11-01.txt,Peking,Peking,1
+cn1950-11-01.txt,Turkestan,Turkestan,1
+cn1950-11-01.txt,Mongolia,Mongolia,1
+cn1950-11-01.txt,Ardmore,Ardmore,2
+cn1950-11-01.txt,Pa.,Pennsylvania,2
+cn1950-11-01.txt,the Soviet Union,Soviet Union,1
+cn1950-11-01.txt,the United States,United States,1
+cn1950-11-01.txt,USSR,Soviet Union,3
+cn1950-11-01.txt,The Soviet Union,Soviet Union,1
+cn1950-11-01.txt,Paris,Paris,1
+cn1950-11-01.txt,Bryn Mawr’s,Bryn Mawr PLURAL,1
+cn1950-11-01.txt,Bryn Mawr,Bryn Mawr,9
+cn1950-11-01.txt,Ursinus,Ursinus,1
+cn1950-11-01.txt,New,New UNKNOWN,1
+cn1950-11-01.txt,America,United States,2
+cn1950-11-01.txt,Vassar,Vassar,1
+cn1950-11-01.txt,London,London,1
+cn1950-11-01.txt,Delaware,Delaware,1
+cn1950-11-01.txt,Washington,Washington UNKNOWN,1
+cn1950-11-01.txt,Haverford,Haverford,2
+cn1950-11-01.txt,New York 18,New York,1
+cn1950-11-01.txt,Princeton,Princeton,2
+cn1950-11-01.txt,New Jersey,New Jersey,2
+cn1950-11-01.txt,Mount Kisco,Mount Kisco,1
+cn1950-11-01.txt,Dallas,Dallas,1
+cn1950-11-01.txt,Texas,Texas,1
+cn1950-11-01.txt,San Francisco,San Francisco,1
+cn1950-11-01.txt,HAVERFORD,Haverford,1
+cn1950-11-08.txt,BRYN MAWR,Bryn Mawr,1
+cn1950-11-08.txt,PA,Pennsylvania,1
+cn1950-11-08.txt,Connecticut,Connecticut,1
+cn1950-11-08.txt,Bryn Mawr,Bryn Mawr,5
+cn1950-11-08.txt,China,China,13
+cn1950-11-08.txt,Japan,Japan,2
+cn1950-11-08.txt,Korea,Korea,7
+cn1950-11-08.txt,India,India,1
+cn1950-11-08.txt,Boston,Boston,1
+cn1950-11-08.txt,U.S.,United States,1
+cn1950-11-08.txt,America,United States,14
+cn1950-11-08.txt,the United States,United States,3
+cn1950-11-08.txt,France,France,4
+cn1950-11-08.txt,Formosa,Formosa,4
+cn1950-11-08.txt,Philippines,Philippines,2
+cn1950-11-08.txt,Ardmore,Ardmore,2
+cn1950-11-08.txt,Pa.,Pennsylvania,2
+cn1950-11-08.txt,The United States,United States,1
+cn1950-11-08.txt,Greece,Greece,3
+cn1950-11-08.txt,Rome,Rome,1
+cn1950-11-08.txt,Athens,Athens,1
+cn1950-11-08.txt,Delphi,Delphi,1
+cn1950-11-08.txt,Thessaus,Thessaus,1
+cn1950-11-08.txt,Istanbul,Istanbul,2
+cn1950-11-08.txt,state,State UNKNOWN,1
+cn1950-11-08.txt,Shanghai,Shanghai,1
+cn1950-11-08.txt,Peking,Peking,1
+cn1950-11-08.txt,Montgomery County is,Montgomery County is,1
+cn1950-11-08.txt,Detroit,Detroit,2
+cn1950-11-08.txt,Morocco,Morocco,1
+cn1950-11-08.txt,Italy,Italy,1
+cn1950-11-08.txt,Venice,Venice,1
+cn1950-11-08.txt,Michigan,Michigan,1
+cn1950-11-08.txt,Russia,Russia,2
+cn1950-11-08.txt,Haverford,Haverford,1
+cn1950-11-08.txt,Bryn Mawy,Bryn Mawr,1
+cn1950-11-08.txt,Winona,Winona,1
+cn1950-11-08.txt,Illinois,Illinois,1
+cn1950-11-08.txt,New York,New York,3
+cn1950-11-08.txt,New York City,New York City,1
+cn1950-11-08.txt,Superior,Superior,2
+cn1950-11-08.txt,Wisconsin,Wisconsin,2
+cn1950-11-08.txt,United States,United States,1
+cn1950-11-08.txt,Santiago,Santiago,1
+cn1950-11-08.txt,Spain,Spain,2
+cn1950-11-08.txt,Vienna,Vienna,1
+cn1950-11-08.txt,Indonesia,Indonesia,2
+cn1950-11-08.txt,Netherlands,Netherlands,1
+cn1950-11-08.txt,Tibet,Tibet,2
+cn1950-11-08.txt,North Korea,North Korea,1
+cn1950-11-08.txt,Great Britain’s,Great Britain,1
+cn1950-11-08.txt,Pakistan,Pakistan,2
+cn1950-11-08.txt,Britain,Britain,1
+cn1950-11-08.txt,Philadelphia,Philadelphia,1
+cn1950-11-08.txt,New York 18,New York,1
+cn1950-11-08.txt,N. Y.,New York,1
+cn1950-11-08.txt,Hedgerow,Hedgerow,1
+cn1950-11-08.txt,Germantown,Germantown,1
+cn1950-11-15.txt,PA,Pennsylvania,2
+cn1950-11-15.txt,New York,New York,3
+cn1950-11-15.txt,Athens,Athens,1
+cn1950-11-15.txt,Ardmore,Ardmore,2
+cn1950-11-15.txt,Pa.,Pennsylvania,2
+cn1950-11-15.txt,Germany,Germany,6
+cn1950-11-15.txt,Russia,Russia,2
+cn1950-11-15.txt,Paris,Paris,1
+cn1950-11-15.txt,Vienna,Vienna,1
+cn1950-11-15.txt,Bryn,Bryn UNKNOWN,1
+cn1950-11-15.txt,Mawr,Mawr UNKNOWN,1
+cn1950-11-15.txt,Philadelphia,Philadelphia,3
+cn1950-11-15.txt,Austria,Austria,1
+cn1950-11-15.txt,Bryn Mawr’s,Bryn Mawr PLURAL,1
+cn1950-11-15.txt,Bryn Mawr,Bryn Mawr,6
+cn1950-11-15.txt,New Mexico,New Mexico,1
+cn1950-11-15.txt,Sicily,Sicily,1
+cn1950-11-15.txt,Italy,Italy,3
+cn1950-11-15.txt,France,France,4
+cn1950-11-15.txt,England,England,2
+cn1950-11-15.txt,Illinois,Illinois,1
+cn1950-11-15.txt,Palermo,Palermo,1
+cn1950-11-15.txt,Pistola,Pistola,1
+cn1950-11-15.txt,Rome,Rome,1
+cn1950-11-15.txt,Florence,Florence,2
+cn1950-11-15.txt,the United States,United States,1
+cn1950-11-15.txt,Cannes,Cannes,1
+cn1950-11-15.txt,Pennsylvania,Pennsylvania,1
+cn1950-11-15.txt,New (,New UNKNOWN,1
+cn1950-11-15.txt,Mexico,Mexico,1
+cn1950-11-15.txt,America,United States,1
+cn1950-11-15.txt,United States,United States,1
+cn1950-11-15.txt,Spain,Spain,1
+cn1950-11-15.txt,Holland,Holland,2
+cn1950-11-15.txt,Flanders,Flanders,1
+cn1950-11-15.txt,Burma,Burma,1
+cn1950-11-15.txt,New York 18,New York,1
+cn1950-11-15.txt,N. Y.,New York,1
+cn1950-11-15.txt,STOCKTON,Stockton,1
+cn1950-11-15.txt,LANCASTER,Lancaster,1
+cn1950-11-15.txt,Chesterfield,Chesterfield,1
+cn1950-11-29.txt,PA,Pennsylvania,1
+cn1950-11-29.txt,the United States,United States,1
+cn1950-11-29.txt,Liverpool,Liverpool,1
+cn1950-11-29.txt,England,England,4
+cn1950-11-29.txt,Singapore,Singapore,1
+cn1950-11-29.txt,Bangkok,Bangkok,1
+cn1950-11-29.txt,Moulmein,Moulmein,1
+cn1950-11-29.txt,Malay,Malay,1
+cn1950-11-29.txt,Italy,Italy,1
+cn1950-11-29.txt,Cambridge,Cambridge,2
+cn1950-11-29.txt,New York City,New York City,2
+cn1950-11-29.txt,Vienna,Vienna,3
+cn1950-11-29.txt,China,China,1
+cn1950-11-29.txt,Ardmore,Ardmore,2
+cn1950-11-29.txt,Pa.,Pennsylvania,3
+cn1950-11-29.txt,Kentucky,Kentucky,1
+cn1950-11-29.txt,Washington,Washington UNKNOWN,1
+cn1950-11-29.txt,D. C.,Washington D.C.,1
+cn1950-11-29.txt,Arkansas,Arkansas,1
+cn1950-11-29.txt,Prague,Prague,1
+cn1950-11-29.txt,Rome,Rome,1
+cn1950-11-29.txt,Germantown,Germantown,1
+cn1950-11-29.txt,Philadelphia,Philadelphia,2
+cn1950-11-29.txt,NEW YORK CITY,New York City,2
+cn1950-11-29.txt,New York 7,New York,1
+cn1950-11-29.txt,Woodcliff Lake,Woodcliff Lake,1
+cn1950-11-29.txt,New Jersey,New Jersey,1
+cn1950-11-29.txt,Bryn Mawr,Bryn Mawr,1
+cn1950-11-29.txt,"OSWEGO,",Oswego,1
+cn1950-11-29.txt,N. Y.,New York,2
+cn1950-11-29.txt,Haverford,Haverford,1
+cn1950-11-29.txt,Wisconsin,Wisconsin,1
+cn1950-11-29.txt,New York 18,New York,1
+cn1950-11-29.txt,N. Y.,New York,1
+cn1950-11-29.txt,Chicago,Chicago,1
+cn1950-12-06.txt,PA,Pennsylvania,1
+cn1950-12-06.txt,Ireland,Ireland,2
+cn1950-12-06.txt,Haverford,Haverford,4
+cn1950-12-06.txt,the United States,United States,5
+cn1950-12-06.txt,Baltimore,Baltimore,1
+cn1950-12-06.txt,Ardmore,Ardmore,3
+cn1950-12-06.txt,Pa.,Pennsylvania,3
+cn1950-12-06.txt,Bryn Mawr,Bryn Mawr,1
+cn1950-12-06.txt,the Soviet Union,Soviet Union,3
+cn1950-12-06.txt,USSR,Soviet Union,2
+cn1950-12-06.txt,the U. S.,United States,2
+cn1950-12-06.txt,North Korea,North Korea,1
+cn1950-12-06.txt,Japan,Japan,1
+cn1950-12-06.txt,Beyn Mawr,Bryn Mawr,1
+cn1950-12-06.txt,New Haven,New Haven,1
+cn1950-12-06.txt,Boston,Boston,1
+cn1950-12-06.txt,New York,New York,1
+cn1950-12-06.txt,London,London,1
+cn1950-12-06.txt,Biarritz,Biarritz,1
+cn1950-12-06.txt,Krakow,Krakow,1
+cn1950-12-06.txt,Mexico,Mexico,4
+cn1950-12-06.txt,Rochester,Rochester,1
+cn1950-12-06.txt,Swarthmore,Swarthmore,1
+cn1950-12-06.txt,Greece,Greece,1
+cn1950-12-06.txt,Chicago,Chicago,1
+cn1950-12-06.txt,California,California,2
+cn1950-12-06.txt,Palestine,Palestine,1
+cn1950-12-06.txt,Philadelphia,Philadelphia,3
+cn1950-12-06.txt,Chesterfield,Chesterfield,2
+cn1950-12-06.txt,Germantown,Germantown,1
+cn1950-12-06.txt,N. Y.,New York,1
+cn1950-12-06.txt,NEW YORK CITY,New York City,1
+cn1950-12-06.txt,N. Y.,New York,1
+cn1950-12-06.txt,OSWEGO,Oswego,1
+cn1950-12-06.txt,N. Y.,New York,1
+cn1950-12-13.txt,PA,Pennsylvania,1
+cn1950-12-13.txt,Korea,Korea,2
+cn1950-12-13.txt,The United States,United States,2
+cn1950-12-13.txt,Germany,Germany,1
+cn1950-12-13.txt,Japan,Japan,1
+cn1950-12-13.txt,Jedermann,Jedermann,1
+cn1950-12-13.txt,Ardmore,Ardmore,3
+cn1950-12-13.txt,Pa.,Pennsylvania,3
+cn1950-12-13.txt,South Africa,South Africa,5
+cn1950-12-13.txt,Russia,Russia,1
+cn1950-12-13.txt,Philadelphia,Philadelphia,3
+cn1950-12-13.txt,India,India,1
+cn1950-12-13.txt,Dixie,Dixie,1
+cn1950-12-13.txt,Haverford,Haverford,1
+cn1950-12-13.txt,lin,Lin UNKNOWN,1
+cn1950-12-13.txt,New York,New York,3
+cn1950-12-13.txt,New York - N. Y.,New York,1
+cn1950-12-13.txt,New York 22,New York,1
+cn1950-12-13.txt,Germantowa,Germantown,1
+cn1950-12-13.txt,Suburban Philadelphia,Suburban Philadelphia,1
+cn1950-12-13.txt,Bryn Mawr,Bryn Mawr,1
+cn1950-12-13.txt,Lincoln,Lincoln,2
+cn1950-12-13.txt,Nebraska,Nebraska,2
+cn1950-12-13.txt,Hermie,Hermie,1
+cn1950-12-13.txt,New,New UNKNOWN,1
+cn1950-12-13.txt,New York 3,New York,1
+cn1950-12-13.txt,N. Y.,New York,1
+cn1950-12-13.txt,Chesterfield,Chesterfield,2
+cn1951-01-17.txt,BRYN MAWR,Bryn Mawr,1
+cn1951-01-17.txt,PA,Pennsylvania,1
+cn1951-01-17.txt,U.S.,United States,2
+cn1951-01-17.txt,Japan,Japan,8
+cn1951-01-17.txt,China,China,10
+cn1951-01-17.txt,Formosa,Formosa,2
+cn1951-01-17.txt,India,India,2
+cn1951-01-17.txt,Pakistan,Pakistan,1
+cn1951-01-17.txt,Korea,Korea,12
+cn1951-01-17.txt,United States,United States,3
+cn1951-01-17.txt,Cambridge,Cambridge,1
+cn1951-01-17.txt,Britain,Britain,2
+cn1951-01-17.txt,the United States,United States,9
+cn1951-01-17.txt,America,United States,1
+cn1951-01-17.txt,New,New UNKNOWN,1
+cn1951-01-17.txt,Ardmore,Ardmore,2
+cn1951-01-17.txt,Pa.,Pennsylvania,4
+cn1951-01-17.txt,Paris,Paris,2
+cn1951-01-17.txt,Germany,Germany,5
+cn1951-01-17.txt,Ruhr,Ruhr,2
+cn1951-01-17.txt,Russia,Russia,3
+cn1951-01-17.txt,US,United States,1
+cn1951-01-17.txt,Bryn Mawr,Bryn Mawr,3
+cn1951-01-17.txt,New York,New York,4
+cn1951-01-17.txt,Yugo- slavia,Yugo- slavia,1
+cn1951-01-17.txt,the Soviet Union,Soviet Union,4
+cn1951-01-17.txt,Philadelphia,Philadelphia,5
+cn1951-01-17.txt,Berchtesgaden,Berchtesgaden,1
+cn1951-01-17.txt,France,France,1
+cn1951-01-17.txt,Colorado,Colorado,1
+cn1951-01-17.txt,Philippines,Philippines,1
+cn1951-01-17.txt,Burma,Burma,1
+cn1951-01-17.txt,Thailand,Thailand,1
+cn1951-01-17.txt,Indonesia,Indonesia,1
+cn1951-01-17.txt,Malaya,Malaya,1
+cn1951-01-17.txt,Indo,Indo,1
+cn1951-01-17.txt,Laos,Laos,1
+cn1951-01-17.txt,Yugoslavia,Yugoslavia,1
+cn1951-01-17.txt,Kyushu,Kyushu,1
+cn1951-01-17.txt,El Paso,El Paso,1
+cn1951-01-17.txt,Texas,Texas,1
+cn1951-01-17.txt,Massachusetts,Massachusetts,1
+cn1951-01-17.txt,Ohio,Ohio,2
+cn1951-01-17.txt,Soviet Union,Soviet Union,1
+cn1951-01-17.txt,Haverford,Haverford,1
+cn1951-01-17.txt,Seattle,Seattle,1
+cn1951-01-17.txt,Washington,Washington UNKNOWN,1
+cn1951-01-17.txt,Rome,Rome,1
+cn1951-01-17.txt,Venice,Venice,1
+cn1951-01-17.txt,Holland,Holland,1
+cn1951-01-17.txt,England,England,1
+cn1951-01-17.txt,AUSTIN,Austin,1
+cn1951-01-17.txt,TEXAS,Texas,1
+cn1951-02-14.txt,BRYN MAWR,Bryn Mawr,1
+cn1951-02-14.txt,PA,Pennsylvania,1
+cn1951-02-14.txt,U.S.,United States,1
+cn1951-02-14.txt,Haverford,Haverford,1
+cn1951-02-14.txt,Britain,Britain,10
+cn1951-02-14.txt,the United States,United States,3
+cn1951-02-14.txt,The United States,United States,1
+cn1951-02-14.txt,Bryn Mawr,Bryn Mawr,5
+cn1951-02-14.txt,Nassau,Nassau,1
+cn1951-02-14.txt,Japan,Japan,15
+cn1951-02-14.txt,Ardmore,Ardmore,2
+cn1951-02-14.txt,Pa.,Pennsylvania,3
+cn1951-02-14.txt,Bryn Mawr,Bryn Mawr,1
+cn1951-02-14.txt,Philadelphia,Philadelphia,1
+cn1951-02-14.txt,New York,New York,4
+cn1951-02-14.txt,England,England,1
+cn1951-02-14.txt,Ireland,Ireland,1
+cn1951-02-14.txt,America,United States,1
+cn1951-02-14.txt,the United,United States,1
+cn1951-02-14.txt,the British Common- wealth,the British Common- wealth,1
+cn1951-02-14.txt,United States,United States,3
+cn1951-02-14.txt,New  York,New York,1
+cn1951-02-14.txt,N. Y.,New York,1
+cn1951-02-14.txt,Chestnut Hill,Chestnut Hill,1
+cn1951-02-14.txt,away,away,1
+cn1951-02-14.txt,AUSTIN,Austin,1
+cn1951-02-14.txt,TEXAS,Texas,1
+cn1951-02-14.txt,Spain,Spain,1
+cn1951-02-14.txt,NEW YORK,New York,1
+cn1951-02-14.txt,New,New UNKNOWN,1
+cn1951-02-14.txt,New York 3,New York,1
+cn1951-02-14.txt,N. Y.,New York,1
+cn1951-02-14.txt,Charleston,Charleston,2
+cn1951-02-14.txt,South Carolina,South Carolina,2
+cn1951-02-14.txt,France,France,1
+cn1951-02-14.txt,Russia,Russia,1
+cn1951-02-14.txt,China,China,1
+cn1951-02-21.txt,PA,Pennsylvania,1
+cn1951-02-21.txt,Korea,Korea,4
+cn1951-02-21.txt,China,China,12
+cn1951-02-21.txt,Ching and,Ching and,1
+cn1951-02-21.txt,Indo China,Indo China,1
+cn1951-02-21.txt,Phila- delphia,Philadelphia,1
+cn1951-02-21.txt,Haverford,Haverford,4
+cn1951-02-21.txt,Swarthmore,Swarthmore,1
+cn1951-02-21.txt,Bryn Mawr,Bryn Mawr,4
+cn1951-02-21.txt,Township,Township,1
+cn1951-02-21.txt,U. S.,United States,3
+cn1951-02-21.txt,Ardmore,Ardmore,2
+cn1951-02-21.txt,Pa.,Pennsylvania,3
+cn1951-02-21.txt,the United States,United States,5
+cn1951-02-21.txt,Germany,Germany,10
+cn1951-02-21.txt,Russia,Russia,10
+cn1951-02-21.txt,New York,New York,7
+cn1951-02-21.txt,Cambridge,Cambridge,2
+cn1951-02-21.txt,America,United States,6
+cn1951-02-21.txt,England,England,1
+cn1951-02-21.txt,Shrewsbury,Shrewsbury,1
+cn1951-02-21.txt,Gloucestershire,Gloucestershire,1
+cn1951-02-21.txt,Phila-,Philadelphia,1
+cn1951-02-21.txt,Florence,Florence,1
+cn1951-02-21.txt,ich,ich,1
+cn1951-02-21.txt,Paris,Paris,1
+cn1951-02-21.txt,London,London,2
+cn1951-02-21.txt,Stockholm,Stockholm,1
+cn1951-02-21.txt,Munich,Munich,1
+cn1951-02-21.txt,Bombay,Bombay,1
+cn1951-02-21.txt,Toyko,Toyko,1
+cn1951-02-21.txt,Racine,Racine,1
+cn1951-02-21.txt,Wisconsin,Wisconsin,1
+cn1951-02-21.txt,Philadelphia,Philadelphia,8
+cn1951-02-21.txt,Jersey,Jersey UKNOWN,1
+cn1951-02-21.txt,Hollywood,Hollywood,1
+cn1951-02-21.txt,Spain,Spain,1
+cn1951-02-21.txt,New York 18,New York,1
+cn1951-02-21.txt,N.Y.,New York,1
+cn1951-02-21.txt,Maryland,Maryland,2
+cn1951-02-21.txt,Balti- more,Baltimore,1
+cn1951-02-21.txt,Mass.,Massachusetts,5
+cn1951-02-21.txt,Pennsylvania,Pennsylvania,2
+cn1951-02-21.txt,Boston,Boston,1
+cn1951-02-21.txt,Baltimore,Baltimore,3
+cn1951-02-21.txt,Philadel,Philadelphia,1
+cn1951-02-21.txt,phia,phia,1
+cn1951-02-21.txt,Brooklyn,Brooklyn,1
+cn1951-02-21.txt,Schenectady,Schenectady,1
+cn1951-02-21.txt,N. Y.,New York,1
+cn1951-02-21.txt,Massachusetts,Massachusetts,1
+cn1951-02-21.txt,Gardner,Gardner,1
+cn1951-02-21.txt,Cosa,Cosa,2
+cn1951-02-21.txt,Etruria,Etruria,1
+cn1951-02-21.txt,Rome,Rome,2
+cn1951-02-21.txt,Chicago,Chicago,1
+cn1951-02-21.txt,Italy,Italy,2
+cn1951-02-21.txt,Greece,Greece,1
+cn1951-02-21.txt,Mawr,Mawr UNKNOWN,1
+cn1951-02-21.txt,Stillwater,Stillwater,1
+cn1951-02-21.txt,Oklahoma,Oklahoma,2
+cn1951-02-21.txt,Charleston,Charleston,1
+cn1951-02-21.txt,New York City,New York City,1
+cn1951-02-21.txt,Japan,Japan,4
+cn1951-02-21.txt,The United States,United States,1
+cn1951-02-21.txt,N. Y.,New York,1
+cn1951-02-21.txt,the District of Col- umbia,the District of Col- umbia,1
+cn1951-02-21.txt,India,India,1
+cn1951-02-21.txt,Formosa,Formosa,2
+cn1951-02-21.txt,Jugoslavia,Yugoslavia,1
+cn1951-02-28.txt,ARDMORE,Ardmore,1
+cn1951-02-28.txt,BRYN MAWR,Bryn Mawr,1
+cn1951-02-28.txt,PA,Pennsylvania,1
+cn1951-02-28.txt,New York,New York,2
+cn1951-02-28.txt,Haverford,Haverford,4
+cn1951-02-28.txt,Swarthmore,Swarthmore,1
+cn1951-02-28.txt,Philadelphia,Philadelphia,3
+cn1951-02-28.txt,Ardmore,Ardmore,2
+cn1951-02-28.txt,Pa.,Pennsylvania,3
+cn1951-02-28.txt,Bryn,Bryn UNKNOWN,1
+cn1951-02-28.txt,Bryn Mawr,Bryn Mawr,8
+cn1951-02-28.txt,Santuzza,Santuzza,1
+cn1951-02-28.txt,Lola,Lola,1
+cn1951-02-28.txt,Turrido,Turrido,2
+cn1951-02-28.txt,New Jersey,New Jersey,1
+cn1951-02-28.txt,China,China,8
+cn1951-02-28.txt,US,United States,1
+cn1951-02-28.txt,the British Empire,British Empire,1
+cn1951-02-28.txt,Long Island,Long Island,1
+cn1951-02-28.txt,Korea,Korea,1
+cn1951-02-28.txt,Formosa,Formosa,1
+cn1951-02-28.txt,Texas,Texas,2
+cn1951-02-28.txt,Lubbock,Lubbock,1
+cn1951-02-28.txt,Chestnut Hill,Chestnut Hill,4
+cn1951-02-28.txt,Chesterfield,Chesterfield,1
+cn1951-03-07.txt,BRYN MAWR,Bryn Mawr,2
+cn1951-03-07.txt,PA,Pennsylvania,2
+cn1951-03-07.txt,Germany,Germany,1
+cn1951-03-07.txt,Russia,Russia,4
+cn1951-03-07.txt,the United States,United States,6
+cn1951-03-07.txt,Carol,Carol,1
+cn1951-03-07.txt,United States,United States,1
+cn1951-03-07.txt,Philippines,Philippines,3
+cn1951-03-07.txt,Ardmore,Ardmore,1
+cn1951-03-07.txt,Pa.,Pennsylvania,2
+cn1951-03-07.txt,America,United States,7
+cn1951-03-07.txt,U. S.,United States,2
+cn1951-03-07.txt,the U. S.,United States,2
+cn1951-03-07.txt,France,France,2
+cn1951-03-07.txt,Italy,Italy,2
+cn1951-03-07.txt,the U. N.,the U. N.,1
+cn1951-03-07.txt,U.G.,U.G.,1
+cn1951-03-07.txt,Florida,Florida,1
+cn1951-03-07.txt,Syracuse,Syracuse,1
+cn1951-03-07.txt,Philadelphia,Philadelphia,1
+cn1951-03-07.txt,Vassar,Vassar,3
+cn1951-03-07.txt,Poughkeepsie,Poughkeepsie,1
+cn1951-03-07.txt,New York,New York,2
+cn1951-03-07.txt,N. Y.    INC.,N. Y.    INC.,1
+cn1951-03-07.txt,Bryn Mawr,Bryn Mawr,2
+cn1951-03-07.txt,Chicago,Chicago,2
+cn1951-03-07.txt,Illinois,Illinois,2
+cn1951-03-07.txt,Missouri,Missouri,1
+cn1951-03-07.txt,U.S.,United States,1
+cn1951-03-07.txt,Burma,Burma,1
+cn1951-03-07.txt,Malaya,Malaya,2
+cn1951-03-07.txt,Britain,Britain,1
+cn1951-03-07.txt,Japan,Japan,1
+cn1951-03-07.txt,Thailand,Thailand,2
+cn1951-03-07.txt,China,China,1
+cn1951-03-07.txt,Pennsylvania,Pennsylvania,1
+cn1951-03-07.txt,Indo-China,Indochina,1
+cn1951-03-07.txt,Indonesia,Indonesia,1
+cn1951-03-07.txt,the Soviet Union,Soviet Union,1
+cn1951-03-07.txt,Palestine,Palestine,1
+cn1951-03-07.txt,Korea,Korea,1
+cn1951-03-07.txt,Maine,Maine,1
+cn1951-03-07.txt,Haverford,Haverford,1
+cn1951-03-07.txt,Chesterfield,Chesterfield,1
+cn1951-03-14.txt,ARDMORE,Ardmore,1
+cn1951-03-14.txt,BRYN MAWR,Bryn Mawr,1
+cn1951-03-14.txt,PA,Pennsylvania,1
+cn1951-03-14.txt,U. S.,United States,1
+cn1951-03-14.txt,Yaddo,Yaddo,1
+cn1951-03-14.txt,Saratoga Springs,Saratoga Springs,1
+cn1951-03-14.txt,New York,New York,1
+cn1951-03-14.txt,the United States,United States,8
+cn1951-03-14.txt,Great,Great VARIES,1
+cn1951-03-14.txt,Britain,Britain,1
+cn1951-03-14.txt,Canada,Canada,1
+cn1951-03-14.txt,Washington,Washington UNKNOWN,1
+cn1951-03-14.txt,D. C.,Washington D.C.,1
+cn1951-03-14.txt,Wor-,Wor-,1
+cn1951-03-14.txt,Massachusetts,Massachusetts,1
+cn1951-03-14.txt,Russia,Russia,10
+cn1951-03-14.txt,Cambridge,Cambridge,2
+cn1951-03-14.txt,Lusanne,Lausanne,1
+cn1951-03-14.txt,France,France,2
+cn1951-03-14.txt,Ardmore,Ardmore,2
+cn1951-03-14.txt,Pa.,Pennsylvania,3
+cn1951-03-14.txt,Korea,Korea,1
+cn1951-03-14.txt,U.S.,United States,1
+cn1951-03-14.txt,Prague,Prague,1
+cn1951-03-14.txt,England,England,1
+cn1951-03-14.txt,Yugoslavia,Yugoslavia,1
+cn1951-03-14.txt,Holyoke,Holyoke,1
+cn1951-03-14.txt,Los Angeles,Los Angeles,2
+cn1951-03-14.txt,California,California,2
+cn1951-03-14.txt,Swarthmore,Swarthmore,1
+cn1951-03-14.txt,Bryn Mawr,Bryn Mawr,6
+cn1951-03-14.txt,Spain,Spain,1
+cn1951-03-14.txt,N.Y.,New York,1
+cn1951-03-14.txt,NEW YORK,New York,1
+cn1951-03-14.txt,New York 3,New York,1
+cn1951-03-14.txt,N. Y.,New York,1
+cn1951-03-14.txt,Philadelphia,Philadelphia,1
+cn1951-03-14.txt,New York 18,New York,1
+cn1951-03-14.txt,N. Y.    Pwd,N. Y.    Pwd,1
+cn1951-03-14.txt,Lederhosen,Lederhosen,1
+cn1951-03-14.txt,Haverford,Haverford,1
+cn1951-03-14.txt,Italy,Italy,1
+cn1951-03-21.txt,PA,Pennsylvania,1
+cn1951-03-21.txt,Pennsylvania,Pennsylvania,1
+cn1951-03-21.txt,Haverford,Haverford,6
+cn1951-03-21.txt,the Soviet Union,Soviet Union,2
+cn1951-03-21.txt,India,India,21
+cn1951-03-21.txt,Pakistan,Pakistan,5
+cn1951-03-21.txt,Cambridge,Cambridge,1
+cn1951-03-21.txt,U.S.,United States,1
+cn1951-03-21.txt,Washing- ton,Washington UNKNOWN,1
+cn1951-03-21.txt,the United States,United States,3
+cn1951-03-21.txt,Russia,Russia,14
+cn1951-03-21.txt,Korea,Korea,2
+cn1951-03-21.txt,Washington,Washington UNKNOWN,4
+cn1951-03-21.txt,Iran,Iran,2
+cn1951-03-21.txt,U. S.,United States,1
+cn1951-03-21.txt,America,United States,4
+cn1951-03-21.txt,United,United,1
+cn1951-03-21.txt,France,France,1
+cn1951-03-21.txt,the United Kingdom,United Kingdom,1
+cn1951-03-21.txt,Texas,Texas,2
+cn1951-03-21.txt,New York,New York,3
+cn1951-03-21.txt,Winchester,Winchester,1
+cn1951-03-21.txt,Ky.,Kentucky,1
+cn1951-03-21.txt,Kansas,Kansas,1
+cn1951-03-21.txt,Missouri,Missouri,1
+cn1951-03-21.txt,Nebraska,Nebraska,1
+cn1951-03-21.txt,Louisiana,Louisiana,1
+cn1951-03-21.txt,New Mexico,New Mexico,1
+cn1951-03-21.txt,Arizona,Arizona,1
+cn1951-03-21.txt,Oklahoma,Oklahoma,1
+cn1951-03-21.txt,California,California,1
+cn1951-03-21.txt,New York City,New York City,1
+cn1951-03-21.txt,Reno,Reno,1
+cn1951-03-21.txt,Philadelphia,Philadelphia,2
+cn1951-03-21.txt,Philadel-,Philadelphia,1
+cn1951-03-21.txt,England,England,1
+cn1951-03-21.txt,Ardmore,Ardmore,2
+cn1951-03-21.txt,Pa.,Pennsylvania,3
+cn1951-03-21.txt,China,China,1
+cn1951-03-21.txt,New York 18,New York,1
+cn1951-03-21.txt,N.Y.,New York,1
+cn1951-03-21.txt,N. Y.,New York,1
+cn1951-03-21.txt,Rock,Rock,1
+cn1951-03-21.txt,the Commonwealth of Pennsylvania,the Commonwealth of Pennsylvania,1
+cn1951-03-21.txt,Bryn Mawr,Bryn Mawr,1
+cn1951-03-21.txt,Swarthmore,Swarthmore,1
+cn1951-03-21.txt,Chicago,Chicago,2
+cn1951-03-21.txt,Illinois,Illinois,2
+cn1951-03-21.txt,the United (States,United States,1
+cn1951-03-21.txt,the Western Powers,the Western Powers,1
+cn1951-03-21.txt,Great Britain,Great Britain,1
+cn1951-03-21.txt,Japan,Japan,1
+cn1951-03-21.txt,Cape May,Cape May,1
+cn1951-03-21.txt,Jersey,Jersey UKNOWN,1
+cn1951-03-21.txt,Chesterfield,Chesterfield,3
+cn1951-04-11.txt,PA,Pennsylvania,1
+cn1951-04-11.txt,the United States,United States,2
+cn1951-04-11.txt,US,United States,1
+cn1951-04-11.txt,Russia,Russia,2
+cn1951-04-11.txt,Scotland,Scotland,2
+cn1951-04-11.txt,France,France,2
+cn1951-04-11.txt,England,England,3
+cn1951-04-11.txt,Ardmore,Ardmore,2
+cn1951-04-11.txt,Pa.,Pennsylvania,3
+cn1951-04-11.txt,Philadelphia,Philadelphia,2
+cn1951-04-11.txt,Pennsylvania,Pennsylvania,1
+cn1951-04-11.txt,New Jersey,New Jersey,1
+cn1951-04-11.txt,New,New UNKNOWN,1
+cn1951-04-11.txt,Camden,Camden,1
+cn1951-04-11.txt,the Emer- ald City,the Emer- ald City,1
+cn1951-04-11.txt,Ville,Ville UNKNOWN,1
+cn1951-04-11.txt,Haverford,Haverford,3
+cn1951-04-11.txt,Durham,Durham,2
+cn1951-04-11.txt,North Carolina,North Carolina,2
+cn1951-04-11.txt,Spain,Spain,1
+cn1951-04-11.txt,New York 18,New York,1
+cn1951-04-11.txt,N.Y.,New York,1
+cn1951-04-11.txt,Paris,Paris,1
+cn1951-04-11.txt,N.Y,New York,2
+cn1951-04-11.txt,Ave,Ave UNKNOWN,1
+cn1951-04-11.txt,White Plains,White Plains,1
+cn1951-04-11.txt,Yugoslavia,Yugoslavia,2
+cn1951-04-11.txt,China,China,1
+cn1951-04-11.txt,S.S.R.,Soviet Union,1
+cn1951-04-11.txt,Bryn Mawr’s,Bryn Mawr PLURAL,1
+cn1951-04-11.txt,NEW YORK:17,New York,1
+cn1951-04-11.txt,BOSTON.16,Boston,1
+cn1951-04-18.txt,PA,Pennsylvania,1
+cn1951-04-18.txt,India,India,1
+cn1951-04-18.txt,Turkey,Turkey,1
+cn1951-04-18.txt,Kenosha,Kenosha,2
+cn1951-04-18.txt,Wisconsin,Wisconsin,2
+cn1951-04-18.txt,Athens,Athens,1
+cn1951-04-18.txt,Rhode Island,Rhode Island,1
+cn1951-04-18.txt,Ardmore,Ardmore,2
+cn1951-04-18.txt,Pa.,Pennsylvania,2
+cn1951-04-18.txt,the United States,United States,1
+cn1951-04-18.txt,Philadelphia,Philadelphia,1
+cn1951-04-18.txt,Nigeria,Nigeria,1
+cn1951-04-18.txt,Haverford,Haverford,3
+cn1951-04-18.txt,Swarthmore,Swarthmore,1
+cn1951-04-18.txt,Spain,Spain,1
+cn1951-04-18.txt,Britain,Britain,1
+cn1951-04-18.txt,Ireland,Ireland,1
+cn1951-04-18.txt,New York,New York,1
+cn1951-04-18.txt,NEW YORK,New York,1
+cn1951-04-18.txt,BOSTON,Boston,1
+cn1951-04-18.txt,Tucson,Tucson,1
+cn1951-04-18.txt,Arizona,Arizona,1
+cn1951-04-18.txt,Berkeley,Berkeley,1
+cn1951-04-18.txt,California,California,1
+cn1951-04-18.txt,West Virginia,West Virginia,1
+cn1951-04-18.txt,Bel-,Bel-,1
+cn1951-04-18.txt,Massachusetts,Massachusetts,1
+cn1951-04-18.txt,Pennsylvania,Pennsylvania,1
+cn1951-04-18.txt,Jamaica,Jamaica,1
+cn1951-04-18.txt,New,New UNKNOWN,1
+cn1951-04-18.txt,England,England,1
+cn1951-04-25.txt,ARDMORE,Ardmore,1
+cn1951-04-25.txt,BRYN MAWR,Bryn Mawr,1
+cn1951-04-25.txt,PA,Pennsylvania,1
+cn1951-04-25.txt,America,United States,1
+cn1951-04-25.txt,Bryn Mawr,Bryn Mawr,4
+cn1951-04-25.txt,Italy,Italy,1
+cn1951-04-25.txt,Mount Vernon,Mount Vernon,1
+cn1951-04-25.txt,New,New UNKNOWN,1
+cn1951-04-25.txt,England,England,1
+cn1951-04-25.txt,the United States,United States,1
+cn1951-04-25.txt,Pa.,Pennsylvania,3
+cn1951-04-25.txt,Ardmore,Ardmore,1
+cn1951-04-25.txt,Russia,Russia,1
+cn1951-04-25.txt,France,France,4
+cn1951-04-25.txt,Pennsylvania,Pennsylvania,1
+cn1951-04-25.txt,New York,New York,1
+cn1951-04-25.txt,Maine,Maine,2
+cn1951-04-25.txt,Rangeley,Rangeley,1
+cn1951-04-25.txt,NEW YORK,New York,1
+cn1951-04-25.txt,MONTCLAI,Montclair,1
+cn1951-04-25.txt,CHICAGO,Chicago,1
+cn1951-04-25.txt,PROVIDENCE,Providence,1
+cn1951-04-25.txt,BOSTON,Boston,1
+cn1951-04-25.txt,Philadelphis,Philadelphia,1
+cn1951-04-25.txt,New York 18,New York,1
+cn1951-04-25.txt,N. Y.,New York,1
+cn1951-04-25.txt,Brooklyn,Brooklyn,2
+cn1951-04-25.txt,Haverford,Haverford,2
+cn1951-04-25.txt,Philadelphia,Philadelphia,1
+cn1951-04-25.txt,Rotterdam,Rotterdam,2
+cn1951-05-01.txt,ARDMORE,Ardmore,1
+cn1951-05-01.txt,PA,Pennsylvania,1
+cn1951-05-01.txt,Cedarhurst,Cedarhurst,1
+cn1951-05-01.txt,New York,New York,26
+cn1951-05-01.txt,Lawrence,Lawrence,1
+cn1951-05-01.txt,New,New UNKNOWN,7
+cn1951-05-01.txt,Venezuela,Venezuela,1
+cn1951-05-01.txt,New York City,New York City,5
+cn1951-05-01.txt,Peiping,Peiping,2
+cn1951-05-01.txt,China,China,2
+cn1951-05-01.txt,Cata- sauqua,Cata- sauqua,1
+cn1951-05-01.txt,Pennsylvania,Pennsylvania,36
+cn1951-05-01.txt,Catasauqua,Catasauqua,1
+cn1951-05-01.txt,Haverford,Haverford,7
+cn1951-05-01.txt,Ardmore,Ardmore,3
+cn1951-05-01.txt,Pa.,Pennsylvania,3
+cn1951-05-01.txt,Bryn Mawr,Bryn Mawr,2
+cn1951-05-01.txt,Harrisburg,Harrisburg,1
+cn1951-05-01.txt,Penn,Penn VARIES,2
+cn1951-05-01.txt,Temple,Temple,1
+cn1951-05-01.txt,Swarthmore,Swarthmore,1
+cn1951-05-01.txt,the United,United States,1
+cn1951-05-01.txt,Glendale,Glendale,1
+cn1951-05-01.txt,Ohio,Ohio,10
+cn1951-05-01.txt,Cincinnati,Cincinnati,2
+cn1951-05-01.txt,Brooklyn,Brooklyn,3
+cn1951-05-01.txt,Dedham,Dedham,1
+cn1951-05-01.txt,Massachusetts,Massachusetts,8
+cn1951-05-01.txt,Milton,Milton,3
+cn1951-05-01.txt,St. Johnsbury,St. Johnsbury,1
+cn1951-05-01.txt,Vermont,Vermont,2
+cn1951-05-01.txt,Scars-,Scars-,1
+cn1951-05-01.txt,Jamai- ca Plain,Jamai- ca Plain,1
+cn1951-05-01.txt,Chestnut,Chestnut,1
+cn1951-05-01.txt,Massachu-,Massachusetts,1
+cn1951-05-01.txt,Lincoln,Lincoln,2
+cn1951-05-01.txt,Nebraska,Nebraska,4
+cn1951-05-01.txt,Cam,Cambridge VARIES,1
+cn1951-05-01.txt,bridge,bridge,1
+cn1951-05-01.txt,Tacubaya,Tacubaya,1
+cn1951-05-01.txt,the City of New York,the City of New York,1
+cn1951-05-01.txt,University City,University City,2
+cn1951-05-01.txt,Missouri,Missouri,2
+cn1951-05-01.txt,Ber,Ber UNKNOWN,1
+cn1951-05-01.txt,keley,keley,1
+cn1951-05-01.txt,California,California,7
+cn1951-05-01.txt,San,San UNKNOWN,1
+cn1951-05-01.txt,Japan,Japan,2
+cn1951-05-01.txt,Tokyo,Tokyo,1
+cn1951-05-01.txt,Chatta-,Chatta-,1
+cn1951-05-01.txt,Tennessee,Tennessee,3
+cn1951-05-01.txt,Chattanooga,Chattanooga,1
+cn1951-05-01.txt,Phila-,Philadelphia,1
+cn1951-05-01.txt,Philadelphia,Philadelphia,7
+cn1951-05-01.txt,Zurich,Zurich,1
+cn1951-05-01.txt,Switzerland,Switzerland,1
+cn1951-05-01.txt,Pleasant Valley,Pleasant Valley,1
+cn1951-05-01.txt,sachusetts,Massachusetts,1
+cn1951-05-01.txt,Lancas-,Lancas-,1
+cn1951-05-01.txt,Lancaster,Lancaster,3
+cn1951-05-01.txt,Balti- more,Baltimore,1
+cn1951-05-01.txt,Maryland,Maryland,2
+cn1951-05-01.txt,Baltimore,Baltimore,1
+cn1951-05-01.txt,Fischbach,Fischbach,1
+cn1951-05-01.txt,Germany,Germany,2
+cn1951-05-01.txt,Greenport,Greenport,1
+cn1951-05-01.txt,New Paltz,New Paltz,1
+cn1951-05-01.txt,Atlan- ta,Atlan- ta,1
+cn1951-05-01.txt,Georgia,Georgia,1
+cn1951-05-01.txt,Philadel- phia,Philadelphia,3
+cn1951-05-01.txt,Paris,Paris,1
+cn1951-05-01.txt,France,France,3
+cn1951-05-01.txt,Long Island,Long Island,1
+cn1951-05-01.txt,Manhasset,Manhasset,1
+cn1951-05-01.txt,Phifla-,Phifla-,1
+cn1951-05-01.txt,Haver- ford,Haverford,1
+cn1951-05-01.txt,Primos,Primos,1
+cn1951-05-01.txt,York City,New York City,1
+cn1951-05-01.txt,Belgium,Belgium,1
+cn1951-05-01.txt,Forest,Forest,1
+cn1951-05-01.txt,Malaya,Malaya,1
+cn1951-05-01.txt,Australia,Australia,1
+cn1951-05-01.txt,India,India,1
+cn1951-05-01.txt,Spain,Spain,1
+cn1951-05-01.txt,Italy,Italy,3
+cn1951-05-01.txt,Philippines,Philippines,1
+cn1951-05-01.txt,Brazil,Brazil,1
+cn1951-05-01.txt,England,England,1
+cn1951-05-01.txt,Winnetka,Winnetka,1
+cn1951-05-01.txt,Kenosha,Kenosha,2
+cn1951-05-01.txt,Wisconsin,Wisconsin,2
+cn1951-05-01.txt,Lancas-,Lancas-,1
+cn1951-05-01.txt,Wayne,Wayne,1
+cn1951-05-01.txt,Bryn  Mawr,Bryn Mawr,1
+cn1951-05-01.txt,New Jersey,New Jersey,16
+cn1951-05-01.txt,Moun- tain Lakes,Moun- tain Lakes,1
+cn1951-05-01.txt,Karachi,Karachi,1
+cn1951-05-01.txt,Pakistan,Pakistan,1
+cn1951-05-01.txt,Virginia,Virginia,6
+cn1951-05-01.txt,Wellington,Wellington,1
+cn1951-05-01.txt,New Zealand,New Zealand,1
+cn1951-05-01.txt,Cin- cinnati,Cincinnati,1
+cn1951-05-01.txt,Pennsylvaia,Pennsylvania,1
+cn1951-05-01.txt,New York,New York,1
+cn1951-05-01.txt,Carmel,Carmel,1
+cn1951-05-01.txt,Lansdowne,Lansdowne,2
+cn1951-05-01.txt,Phila- delphia,Philadelphia,1
+cn1951-05-01.txt,Pennsyl- vania,Pennsylvania,1
+cn1951-05-01.txt,North Olmsted,North Olmsted,1
+cn1951-05-01.txt,Cleveland,Cleveland,1
+cn1951-05-01.txt,Abington,Abington,1
+cn1951-05-01.txt,Rhode Island,Rhode Island,2
+cn1951-05-01.txt,Scran- ton,Scranton,1
+cn1951-05-01.txt,Scranton,Scranton,1
+cn1951-05-01.txt,"Philadel- pjhia, Pennsylvania",Philadelphia,1
+cn1951-05-01.txt,Chatham,Chatham,1
+cn1951-05-01.txt,Columbus,Columbus,2
+cn1951-05-01.txt,bury,bury,1
+cn1951-05-01.txt,Connecticut,Connecticut,2
+cn1951-05-01.txt,Waterbury,Waterbury,1
+cn1951-05-01.txt,Hudson,Hudson,1
+cn1951-05-01.txt,Cranford,Cranford,2
+cn1951-05-01.txt,New,New UNKNOWN,1
+cn1951-05-01.txt,Hawaii,Hawaii,1
+cn1951-05-01.txt,Alaska,Alaska,1
+cn1951-05-01.txt,Waterville,Waterville,2
+cn1951-05-01.txt,Maine,Maine,2
+cn1951-05-01.txt,Philadel- ‘phia,Philadel- ‘phia,1
+cn1951-05-01.txt,Belvidere,Belvidere,1
+cn1951-05-01.txt,Washington,Washington UNKNOWN,2
+cn1951-05-01.txt,Berkeley,Berkeley,1
+cn1951-05-01.txt,Cali-,California,1
+cn1951-05-01.txt,Kansas,Kansas,4
+cn1951-05-01.txt,Colby,Colby,1
+cn1951-05-01.txt,Lancas- ter,Lancas- ter,1
+cn1951-05-01.txt,Des Moines,Des Moines,2
+cn1951-05-01.txt,Iowa,Iowa,2
+cn1951-05-01.txt,Jenkintown,Jenkintown,1
+cn1951-05-01.txt,Charles-,Charles-,1
+cn1951-05-01.txt,South Carolina,South Carolina,2
+cn1951-05-01.txt,Charleston,Charleston,1
+cn1951-05-01.txt,Concord,Concord,2
+cn1951-05-01.txt,Massachu-,Massachusetts,1
+cn1951-05-01.txt,Pasa- dena,Pasadena,2
+cn1951-05-01.txt,South Pasadena,South Pasadena,1
+cn1951-05-01.txt,Flushing,Flushing,1
+cn1951-05-01.txt,Nanking,Nanking,1
+cn1951-05-01.txt,Alexandria,Alexandria,1
+cn1951-05-01.txt,"D. C. Alumnae Regional Scholar,",Washington D.C.,1
+cn1951-05-01.txt,Jamaica,Jamaica,1
+cn1951-05-01.txt,Salisbury,Salisbury,1
+cn1951-05-01.txt,Schleissheim,Schleissheim,1
+cn1951-05-01.txt,Summit,Summit,1
+cn1951-05-01.txt,Pasadena,Pasadena,1
+cn1951-05-01.txt,West Bridge-,West Bridge-,1
+cn1951-05-01.txt,Evanston,Evanston,1
+cn1951-05-01.txt,Illinois,Illinois,1
+cn1951-05-01.txt,Paso,Paso,1
+cn1951-05-01.txt,Texas,Texas,2
+cn1951-05-01.txt,El Paso,El Paso,1
+cn1951-05-01.txt,New Cumberland,New Cumberland,1
+cn1951-05-01.txt,Penn-,Penn VARIES,1
+cn1951-05-01.txt,New York City.,New York City,1
+cn1951-05-01.txt,Riverdale,Riverdale,1
+cn1951-05-01.txt,Wichita,Wichita,2
+cn1951-05-01.txt,Kan-,Kan UNKNOWN,1
+cn1951-05-01.txt,Phil-,Philadelphia,2
+cn1951-05-01.txt,Nor-,Nor-,1
+cn1951-05-01.txt,Norwich,Norwich,2
+cn1951-05-01.txt,NEW YORK,New York,1
+cn1951-05-01.txt,PROVIDENCE,Providence,1
+cn1951-05-01.txt,BOSTON,Boston,1
+cn1951-05-01.txt,Rotterdam,Rotterdam,2
+cn1951-05-01.txt,Netherlands,Netherlands,1
+cn1951-05-01.txt,Princeton,Princeton,2
+cn1951-05-01.txt,Eliz- abethtown,Eliz- abethtown,1
+cn1951-05-01.txt,Whitemarsh,Whitemarsh,1
+cn1951-05-01.txt,Grand,Grand,2
+cn1951-05-01.txt,Phil- adelphia,Philadelphia,1
+cn1951-05-01.txt,rence,rence,1
+cn1951-05-01.txt,Bloomfield Hills,Bloomfield Hills,1
+cn1951-05-01.txt,Michigan,Michigan,1
+cn1951-05-01.txt,Falls Church,Falls Church,1
+cn1951-05-01.txt,Brookline,Brookline,1
+cn1951-05-01.txt,Boston,Boston,1
+cn1951-05-01.txt,Chesterfield,Chesterfield,1
+cn1951-05-09.txt,PA,Pennsylvania,1
+cn1951-05-09.txt,Haverford,Haverford,6
+cn1951-05-09.txt,US,United States,2
+cn1951-05-09.txt,Russia,Russia,3
+cn1951-05-09.txt,China,China,1
+cn1951-05-09.txt,the United States,United States,4
+cn1951-05-09.txt,England,England,3
+cn1951-05-09.txt,Englan,England,1
+cn1951-05-09.txt,Ardmore,Ardmore,2
+cn1951-05-09.txt,Pa.,Pennsylvania,2
+cn1951-05-09.txt,Togoland,Togoland,4
+cn1951-05-09.txt,Germany,Germany,2
+cn1951-05-09.txt,Britain,Britain,3
+cn1951-05-09.txt,France,France,1
+cn1951-05-09.txt,Togo-,Togo-,1
+cn1951-05-09.txt,New York,New York,7
+cn1951-05-09.txt,America,United States,2
+cn1951-05-09.txt,India,India,2
+cn1951-05-09.txt,Swarthmore,Swarthmore,2
+cn1951-05-09.txt,Pennsylvania,Pennsylvania,6
+cn1951-05-09.txt,New York City,New York City,2
+cn1951-05-09.txt,Philadel-,Philadelphia,1
+cn1951-05-09.txt,Philadel- phia,Philadelphia,1
+cn1951-05-09.txt,Bryn Mawr’s,Bryn Mawr PLURAL,1
+cn1951-05-09.txt,Philadelphia,Philadelphia,1
+cn1951-05-09.txt,Scarsdale,Scarsdale,1
+cn1951-05-09.txt,N. Y.,New York,1
+cn1951-05-09.txt,New,New UNKNOWN,1
+cn1951-05-09.txt,NEW YORK,New York,1
+cn1951-05-09.txt,BOSTON,Boston,1
+cn1951-05-09.txt,CHINA,China,1
+cn1951-05-09.txt,Rotterdam,Rotterdam,1
+cn1951-05-09.txt,Chicago,Chicago,1
+cn1951-05-09.txt,St. Louis,St. Louis,1
+cn1951-05-09.txt,Prairie,Prairie,2
+cn1951-05-09.txt,Mississippi,Mississippi,2
+cn1951-05-09.txt,Prague,Prague,1
+cn1951-05-09.txt,Bryn Mawr,Bryn Mawr,2
+cn1951-05-09.txt,Vassar,Vassar,1
+cn1951-05-09.txt,Italy,Italy,4
+cn1951-05-09.txt,Paris,Paris,6
+cn1951-05-09.txt,Switzerland,Switzerland,1
+cn1951-05-09.txt,Rome,Rome,4
+cn1951-05-09.txt,Florence,Florence,4
+cn1951-05-09.txt,Phila- delphia,Philadelphia,1
+cn1951-05-16.txt,BRYN MAWR,Bryn Mawr,1
+cn1951-05-16.txt,PA,Pennsylvania,1
+cn1951-05-16.txt,France,France,1
+cn1951-05-16.txt,Marseilles,Marseille,1
+cn1951-05-16.txt,the United States,United States,1
+cn1951-05-16.txt,New York City,New York City,1
+cn1951-05-16.txt,Ardmore,Ardmore,2
+cn1951-05-16.txt,Pa.,Pennsylvania,2
+cn1951-05-16.txt,Charleston,Charleston,1
+cn1951-05-16.txt,Salt Lake City,Salt Lake City,1
+cn1951-05-16.txt,Utah,Utah,1
+cn1951-05-16.txt,Swarthmore,Swarthmore,2
+cn1951-05-16.txt,Rotterdam,Rotterdam,2
+cn1951-05-16.txt,Philadelphia,Philadelphia,1
+cn1951-05-16.txt,Haverford,Haverford,1
+cn1951-05-16.txt,Hague,Hague,1
+cn1951-05-16.txt,INDIANA,Indiana,1
+cn1951-05-16.txt,Chesterfield,Chesterfield,1
+cn1951-06-05.txt,ARDMORE,Ardmore,1
+cn1951-06-05.txt,BRYN MAWR,Bryn Mawr,1
+cn1951-06-05.txt,PA,Pennsylvania,1
+cn1951-06-05.txt,Scotland,Scotland,1
+cn1951-06-05.txt,New York City,New York City,1
+cn1951-06-05.txt,Moylan,Moylan,1
+cn1951-06-05.txt,Pa.,Pennsylvania,3
+cn1951-06-05.txt,Ardmore,Ardmore,2
+cn1951-06-05.txt,Bryn Mawr,Bryn Mawr,4
+cn1951-06-05.txt,Philadelphia,Philadelphia,7
+cn1951-06-05.txt,Haverford,Haverford,2
+cn1951-06-05.txt,Bryn Mawr’s,Bryn Mawr PLURAL,1
+cn1951-06-05.txt,Michigan,Michigan,2
+cn1951-06-05.txt,China,China,2
+cn1951-06-05.txt,New,New UNKNOWN,9
+cn1951-06-05.txt,Ohio,Ohio,7
+cn1951-06-05.txt,Hampshire,Hampshire,1
+cn1951-06-05.txt,New York,New York,22
+cn1951-06-05.txt,Canada,Canada,6
+cn1951-06-05.txt,New,New UNKNOWN,2
+cn1951-06-05.txt,Pennsyl-  ania,Pennsyl-  ania,1
+cn1951-06-05.txt,the District of Columbia,Washington D.C.,1
+cn1951-06-05.txt,California,California,6
+cn1951-06-05.txt,Pennsyl- vania,Pennsylvania,3
+cn1951-06-05.txt,Texas,Texas,2
+cn1951-06-05.txt,Massa- chusetts.,Massachusetts,1
+cn1951-06-05.txt,Vir- ginia,Virginia,1
+cn1951-06-05.txt,Connecticut,Connecticut,2
+cn1951-06-05.txt,Illinois,Illinois,2
+cn1951-06-05.txt,Matyland,Matyland,1
+cn1951-06-05.txt,Maine,Maine,2
+cn1951-06-05.txt,France,France,3
+cn1951-06-05.txt,Jersey,Jersey UKNOWN,1
+cn1951-06-05.txt,Delaware,Delaware,2
+cn1951-06-05.txt,Maryland,Maryland,7
+cn1951-06-05.txt,Mas,Massachusetts,1
+cn1951-06-05.txt,sachusettss,sachusettss,1
+cn1951-06-05.txt,Mas-,Massachusetts,2
+cn1951-06-05.txt,Massa-,Massachusetts,3
+cn1951-06-05.txt,Mas-,Massachusetts,2
+cn1951-06-05.txt,Pennsyl-  Vania,Pennsylvania,1
+cn1951-06-05.txt,Wells,Wells,1
+cn1951-06-05.txt,sylvania,Sylvania,1
+cn1951-06-05.txt,New Jersey,New Jersey,5
+cn1951-06-05.txt,Pennsylvania,Pennsylvania,31
+cn1951-06-05.txt,Phila- delphia,Philadelphia,1
+cn1951-06-05.txt,Norristown,Norristown,1
+cn1951-06-05.txt,Phila-|,Philadelphia,1
+cn1951-06-05.txt,delphia,Philadelphia,1
+cn1951-06-05.txt,New York,New York,1
+cn1951-06-05.txt,Phil,Philadelphia,1
+cn1951-06-05.txt,adelphia,Philadelphia,1
+cn1951-06-05.txt,West Ches-,West Ches-,1
+cn1951-06-05.txt,Willow Grove,Willow Grove,1
+cn1951-06-05.txt,Philadel- phia,Philadelphia,1
+cn1951-06-05.txt,Lancaster,Lancaster,1
+cn1951-06-05.txt,Los Angeles,Los Angeles,2
+cn1951-06-05.txt,Hartsville,Hartsville,1
+cn1951-06-05.txt,Upper Darby,Upper Darby,1
+cn1951-06-05.txt,London,London,1
+cn1951-06-05.txt,England,England,1
+cn1951-06-05.txt,Toledo,Toledo,1
+cn1951-06-05.txt,Wynnewood,Wynnewood,1
+cn1951-06-05.txt,Athens,Athens,1
+cn1951-06-05.txt,Greece,Greece,1
+cn1951-06-05.txt,Brooklyn,Brooklyn,2
+cn1951-06-05.txt,Regina,Regina,1
+cn1951-06-05.txt,Saskatchewan,Saskatchewan,1
+cn1951-06-05.txt,Princeton,Princeton,1
+cn1951-06-05.txt,Rhode Is-,Rhode Is-,1
+cn1951-06-05.txt,Massachusetts,Massachusetts,1
+cn1951-06-05.txt,Miralotte,Miralotte,1
+cn1951-06-05.txt,India,India,2
+cn1951-06-05.txt,Mich-,Michigan,1
+cn1951-06-05.txt,West,West UNKNOWN,1
+cn1951-06-05.txt,Virginia,Virginia,1
+cn1951-06-05.txt,"Mex- ico City, Mexico",Mexico City,1
+cn1951-06-05.txt,Thonon,Thonon,1
+cn1951-06-05.txt,Lenox,Lenox,1
+cn1951-06-05.txt,Ottawa,Ottawa,1
+cn1951-06-05.txt,Ontario,Ontario,4
+cn1951-06-05.txt,Toronto,Toronto,2
+cn1951-06-05.txt,Highland Park,Highland Park,1
+cn1951-06-05.txt,Poona,Poona,1
+cn1951-06-05.txt,Paris,Paris,1
+cn1951-06-05.txt,Newark,Newark,1
+cn1951-06-05.txt,New,New UNKNOWN,1
+cn1951-06-05.txt,Cookeville,Cookeville,1
+cn1951-06-05.txt,Tennessee,Tennessee,1
+cn1951-06-05.txt,Kentucky,Kentucky,1
+cn1951-06-05.txt,Rhode Island,Rhode Island,1
+cn1951-06-05.txt,Santurce,Santurce,1
+cn1951-06-05.txt,Puerto Rico,Puerto Rico,1
+cn1951-06-05.txt,Hayward,Hayward,1
+cn1951-06-05.txt,D. C.,Washington D.C.,1
+cn1951-06-05.txt,Cairo,Cairo,1
+cn1951-06-05.txt,Egypt,Egypt,1
+cn1951-06-05.txt,New York 7,New York,1
+cn1951-06-05.txt,keley,keley,1
+cn1951-06-05.txt,Charleroi,Charleroi,1
+cn1951-06-05.txt,HIGH,HIGH,1
+cn1951-06-05.txt,Oswego,Oswego,1
+cn1951-06-05.txt,N. Y.,New York,1
+cn1951-06-05.txt,Italy,Italy,1
+cn1951-06-05.txt,Nurem- berg,Nuremberg,1
+cn1951-06-05.txt,Cologne,Cologne,1
+cn1951-09-24.txt,BRYN MAWR,Bryn Mawr,1
+cn1951-09-24.txt,PA,Pennsylvania,1
+cn1951-09-24.txt,Philadelphia,Philadelphia,1
+cn1951-09-24.txt,Italy,Italy,3
+cn1951-09-24.txt,Providence,Providence,1
+cn1951-09-24.txt,Rhode,Rhode,1
+cn1951-09-24.txt,Pennsylvania,Pennsylvania,1
+cn1951-09-24.txt,Haverford,Haverford,2
+cn1951-09-24.txt,Yarrow,Yarrow,1
+cn1951-09-24.txt,Ardmore,Ardmore,4
+cn1951-09-24.txt,Pa.,Pennsylvania,1
+cn1951-09-24.txt,Pa,Pennsylvania,1
+cn1951-09-24.txt,New York,New York,2
+cn1951-09-24.txt,France,France,1
+cn1951-09-24.txt,Tours,Tours,2
+cn1951-09-24.txt,Phila,Philadelphia,1
+cn1951-09-24.txt,New York 48,New York,1
+cn1951-09-24.txt,W,W,1
+cn1951-09-24.txt,Oklahoma,Oklahoma,1
+cn1951-09-24.txt,Boston,Boston,1
+cn1951-09-24.txt,Rumson,Rumson,1
+cn1951-09-24.txt,Jugo- slavia,Yugoslavia,1
+cn1951-09-24.txt,East,East,1
+cn1951-09-24.txt,CHESTERFIELD,Chesterfield,1
+cn1951-10-03.txt,PA,Pennsylvania,1
+cn1951-10-03.txt,Paris,Paris,1
+cn1951-10-03.txt,Germany,Germany,2
+cn1951-10-03.txt,Italy,Italy,2
+cn1951-10-03.txt,Maine,Maine,1
+cn1951-10-03.txt,Malta,Malta,1
+cn1951-10-03.txt,France,France,4
+cn1951-10-03.txt,Haverford,Haverford,2
+cn1951-10-03.txt,Swarthmore,Swarthmore,1
+cn1951-10-03.txt,Chicago,Chicago,2
+cn1951-10-03.txt,NYC,New York City,1
+cn1951-10-03.txt,New York City,New York City,2
+cn1951-10-03.txt,Vienna,Vienna,3
+cn1951-10-03.txt,the United States,United States,2
+cn1951-10-03.txt,Rome,Rome,1
+cn1951-10-03.txt,Turin,Turin,1
+cn1951-10-03.txt,Philadelphia,Philadelphia,4
+cn1951-10-03.txt,Austria,Austria,4
+cn1951-10-03.txt,Great,Great VARIES,1
+cn1951-10-03.txt,Britain,Britain,1
+cn1951-10-03.txt,China,China,1
+cn1951-10-03.txt,Czechoslovakia,Czechoslovakia,1
+cn1951-10-03.txt,Denmark,Denmark,1
+cn1951-10-03.txt,Holland,Holland,1
+cn1951-10-03.txt,Venezuela,Venezuela,1
+cn1951-10-03.txt,Great Britain,Great Britain,1
+cn1951-10-03.txt,Canada,Canada,1
+cn1951-10-03.txt,Norway,Norway,1
+cn1951-10-03.txt,Netherlands,Netherlands,1
+cn1951-10-03.txt,Stockholm,Stockholm,1
+cn1951-10-03.txt,Ardmore,Ardmore,2
+cn1951-10-03.txt,Pa.,Pennsylvania,4
+cn1951-10-03.txt,Pennsylvania,Pennsylvania,3
+cn1951-10-03.txt,Bryn Mawr,Bryn Mawr,4
+cn1951-10-03.txt,America,United States,1
+cn1951-10-03.txt,Styria,Styria,1
+cn1951-10-03.txt,England,England,3
+cn1951-10-03.txt,Felixtown,Felixtown,1
+cn1951-10-03.txt,Balti- more,Baltimore,1
+cn1951-10-03.txt,N. Y.,New York,1
+cn1951-10-03.txt,ryn Mawr,Bryn Mawr,1
+cn1951-10-03.txt,Princeton,Princeton,1
+cn1951-10-03.txt,Ohio,Ohio,1
+cn1951-10-03.txt,New York,New York,4
+cn1951-10-03.txt,New York 18,New York,1
+cn1951-10-03.txt,N. Y.,New York,2
+cn1951-10-03.txt,New York 22,New York,1
+cn1951-10-03.txt,Suffolk,Suffolk,1
+cn1951-10-03.txt,Finland,Finland,1
+cn1951-10-03.txt,Helsinki,Helsinki,1
+cn1951-10-03.txt,Minnesota,Minnesota,1
+cn1951-10-03.txt,Mt,Mt UNKNOWN,1
+cn1951-10-03.txt,Chesterfield,Chesterfield,1
+cn1951-10-10.txt,ARDMORE,Ardmore,1
+cn1951-10-10.txt,BRYN MAWR,Bryn Mawr,1
+cn1951-10-10.txt,PA,Pennsylvania,1
+cn1951-10-10.txt,New York,New York,3
+cn1951-10-10.txt,Buenos Aires,Buenos Aires,7
+cn1951-10-10.txt,States,States,1
+cn1951-10-10.txt,Bryn Mawr,Bryn Mawr,5
+cn1951-10-10.txt,Illinois,Illinois,1
+cn1951-10-10.txt,the Mid- dle Atlantic States,the Mid- dle Atlantic States,1
+cn1951-10-10.txt,Geneva,Geneva,1
+cn1951-10-10.txt,W.U.S.,W.U.S.,1
+cn1951-10-10.txt,Ardmore,Ardmore,3
+cn1951-10-10.txt,Pa.,Pennsylvania,4
+cn1951-10-10.txt,San Francisco,San Francisco,1
+cn1951-10-10.txt,Japan,Japan,9
+cn1951-10-10.txt,Russia,Russia,2
+cn1951-10-10.txt,Philippines,Philippines,1
+cn1951-10-10.txt,Indonesia,Indonesia,1
+cn1951-10-10.txt,Burma,Burma,1
+cn1951-10-10.txt,United States,United States,3
+cn1951-10-10.txt,China,China,1
+cn1951-10-10.txt,Pasadena,Pasadena,1
+cn1951-10-10.txt,Calif.,California,1
+cn1951-10-10.txt,Nashville,Nashville,1
+cn1951-10-10.txt,Tenn.,Tennessee,1
+cn1951-10-10.txt,Mich.,Michigan,1
+cn1951-10-10.txt,Great Britain,Great Britain,1
+cn1951-10-10.txt,East Berlin,East Berlin,1
+cn1951-10-10.txt,Hungary,Hungary,1
+cn1951-10-10.txt,"Locust Valley,",Locust Valley,1
+cn1951-10-10.txt,Long,Long,1
+cn1951-10-10.txt,New Orleans,New Orleans,1
+cn1951-10-10.txt,New York City,New York City,2
+cn1951-10-10.txt,New Jersey,New Jersey,1
+cn1951-10-10.txt,Daytona,Daytona,1
+cn1951-10-10.txt,Florida,Florida,1
+cn1951-10-10.txt,France,France,1
+cn1951-10-10.txt,Lima,Lima,1
+cn1951-10-10.txt,Peru,Peru,1
+cn1951-10-10.txt,Santiago,Santiago,3
+cn1951-10-10.txt,Chile,Chile,2
+cn1951-10-10.txt,Maine,Maine,1
+cn1951-10-10.txt,the United States,United States,1
+cn1951-10-10.txt,Pampas,Pampas,1
+cn1951-10-10.txt,Trinidad,Trinidad,1
+cn1951-10-10.txt,Tehran,Tehran,1
+cn1951-10-10.txt,Iran,Iran,2
+cn1951-10-10.txt,Paris,Paris,3
+cn1951-10-10.txt,India,India,1
+cn1951-10-10.txt,Germany,Germany,2
+cn1951-10-10.txt,Egypt,Egypt,1
+cn1951-10-10.txt,Cairo,Cairo,2
+cn1951-10-10.txt,Alexandria,Alexandria,1
+cn1951-10-10.txt,Npats,Npats,1
+cn1951-10-10.txt,Philadelphia,Philadelphia,1
+cn1951-10-10.txt,Northfield,Northfield,1
+cn1951-10-10.txt,Haverford,Haverford,2
+cn1951-10-10.txt,N. Y.,New York,1
+cn1951-10-10.txt,Argentina,Argentina,1
+cn1951-10-10.txt,Holland,Holland,1
+cn1951-10-10.txt,B. A.,B. A.,1
+cn1951-10-10.txt,WASHINGTON,Washington UNKNOWN,1
+cn1951-10-10.txt,Washington,Washington UNKNOWN,1
+cn1951-10-17.txt,ARDMORE,Ardmore,1
+cn1951-10-17.txt,BRYN MAWR,Bryn Mawr,1
+cn1951-10-17.txt,PA,Pennsylvania,1
+cn1951-10-17.txt,the United States,United States,5
+cn1951-10-17.txt,Bryn Mawr,Bryn Mawr,5
+cn1951-10-17.txt,Philadelphia,Philadelphia,7
+cn1951-10-17.txt,Haverford,Haverford,4
+cn1951-10-17.txt,Montgomery County,Montgomery County,1
+cn1951-10-17.txt,Rome,Rome,1
+cn1951-10-17.txt,Turin,Turin,1
+cn1951-10-17.txt,New York,New York,2
+cn1951-10-17.txt,Ardmore,Ardmore,2
+cn1951-10-17.txt,Pa.,Pennsylvania,2
+cn1951-10-17.txt,the United States’,United States,1
+cn1951-10-17.txt,Valetta,Valetta,2
+cn1951-10-17.txt,Malta,Malta,1
+cn1951-10-17.txt,Dublin,Dublin,1
+cn1951-10-17.txt,Norwich,Norwich,1
+cn1951-10-17.txt,Japan,Japan,2
+cn1951-10-17.txt,Greece,Greece,1
+cn1951-10-17.txt,India,India,2
+cn1951-10-17.txt,Germany,Germany,11
+cn1951-10-17.txt,Swarthmore,Swarthmore,1
+cn1951-10-17.txt,America,United States,1
+cn1951-10-17.txt,Washington,Washington UNKNOWN,1
+cn1951-10-17.txt,Korea,Korea,1
+cn1951-10-17.txt,Indonesia,Indonesia,2
+cn1951-10-17.txt,Palestine,Palestine,1
+cn1951-10-17.txt,France,France,3
+cn1951-10-17.txt,N. Y.,New York,1
+cn1951-10-17.txt,Paris,Paris,1
+cn1951-10-17.txt,Phila,Philadelphia,1
+cn1951-10-17.txt,delphia,Philadelphia,1
+cn1951-10-17.txt,N. Y.,New York,1
+cn1951-10-17.txt,N. Y.,New York,1
+cn1951-10-17.txt,Pittsburgh,Pittsburgh,1
+cn1951-10-24.txt,PA,Pennsylvania,1
+cn1951-10-24.txt,Greece,Greece,1
+cn1951-10-24.txt,Rome,Rome,1
+cn1951-10-24.txt,Bryn Mawr,Bryn Mawr,13
+cn1951-10-24.txt,Haverford,Haverford,6
+cn1951-10-24.txt,Manhattan District,Manhattan District,1
+cn1951-10-24.txt,Montgomery County,Montgomery County,1
+cn1951-10-24.txt,Philadelphia,Philadelphia,6
+cn1951-10-24.txt,Pennsylvania,Pennsylvania,1
+cn1951-10-24.txt,Frankford,Frankfort,1
+cn1951-10-24.txt,Lower Merion Township,Lower Merion Township,1
+cn1951-10-24.txt,New York,New York,3
+cn1951-10-24.txt,Washington,Washington UNKNOWN,2
+cn1951-10-24.txt,Baltimore,Baltimore,1
+cn1951-10-24.txt,Ardmore,Ardmore,2
+cn1951-10-24.txt,Pa.,Pennsylvania,4
+cn1951-10-24.txt,Rock,Rock,2
+cn1951-10-24.txt,New,New UNKNOWN,1
+cn1951-10-24.txt,England,England,1
+cn1951-10-24.txt,Harrisburg,Harrisburg,1
+cn1951-10-24.txt,France,France,3
+cn1951-10-24.txt,D. C.,Washington D.C.,1
+cn1951-10-24.txt,"Washington, D. C.",Washington D.C.,1
+cn1951-10-24.txt,Phil-,Philadelphia,1
+cn1951-10-24.txt,Swarthmore,Swarthmore,1
+cn1951-10-24.txt,India,India,1
+cn1951-10-24.txt,Florida,Florida,1
+cn1951-10-24.txt,Germany,Germany,6
+cn1951-10-24.txt,America,United States,5
+cn1951-10-24.txt,Prague,Prague,1
+cn1951-10-24.txt,Okla-,Oklahoma,1
+cn1951-10-24.txt,Phila- delphia,Philadelphia,1
+cn1951-10-24.txt,N. Y.,New York,3
+cn1951-10-24.txt,Paris,Paris,1
+cn1951-10-24.txt,Cambridge,Cambridge,1
+cn1951-10-24.txt,Phila,Philadelphia,1
+cn1951-10-24.txt,New York 18,New York,1
+cn1951-10-31.txt,PA,Pennsylvania,1
+cn1951-10-31.txt,Abing- ton,Abing- ton,1
+cn1951-10-31.txt,England,England,1
+cn1951-10-31.txt,Haarlem,Haarlem,1
+cn1951-10-31.txt,Netherlands,Netherlands,1
+cn1951-10-31.txt,Ardmore,Ardmore,3
+cn1951-10-31.txt,Pa.,Pennsylvania,3
+cn1951-10-31.txt,America,United States,2
+cn1951-10-31.txt,Washington,Washington UNKNOWN,2
+cn1951-10-31.txt,Canada,Canada,1
+cn1951-10-31.txt,Philadelphia,Philadelphia,5
+cn1951-10-31.txt,Vienna,Vienna,3
+cn1951-10-31.txt,Spain,Spain,2
+cn1951-10-31.txt,Italy,Italy,1
+cn1951-10-31.txt,Germany,Germany,2
+cn1951-10-31.txt,the Low Countries,the Low Countries,1
+cn1951-10-31.txt,Oklahoma,Oklahoma,1
+cn1951-10-31.txt,Texas,Texas,1
+cn1951-10-31.txt,Missouri,Missouri,1
+cn1951-10-31.txt,Kansas,Kansas,1
+cn1951-10-31.txt,Iowa,Iowa,1
+cn1951-10-31.txt,Nebraska,Nebraska,1
+cn1951-10-31.txt,New York,New York,1
+cn1951-10-31.txt,India,India,1
+cn1951-10-31.txt,the Soviet Union,Soviet Union,1
+cn1951-10-31.txt,Iran,Iran,3
+cn1951-10-31.txt,Greece,Greece,1
+cn1951-10-31.txt,Yugoslavia,Yugoslavia,2
+cn1951-10-31.txt,West Berlin,West Berlin,1
+cn1951-10-31.txt,Korea,Korea,2
+cn1951-10-31.txt,Ethiopia,Ethiopia,1
+cn1951-10-31.txt,Haverford,Haverford,1
+cn1951-10-31.txt,Pittsburgh,Pittsburgh,1
+cn1951-10-31.txt,Bryn Mawr,Bryn Mawr,1
+cn1951-10-31.txt,N. Y.,New York,1
+cn1951-10-31.txt,Paris,Paris,3
+cn1951-10-31.txt,Austria,Austria,1
+cn1951-10-31.txt,Chicago,Chicago,1
+cn1951-10-31.txt,Rome,Rome,2
+cn1951-10-31.txt,Bryn Mawr,Bryn Mawr,6
+cn1951-10-31.txt,Amsterdam,Amsterdam,1
+cn1951-10-31.txt,China,China,1
+cn1951-10-31.txt,Florida,Florida,1
+cn1951-10-31.txt,Dover,Dover,1
+cn1951-10-31.txt,Tarsus,Tarsus,1
+cn1951-10-31.txt,Turkey,Turkey,1
+cn1951-10-31.txt,Phila,Philadelphia,1
+cn1951-10-31.txt,United States,United States,1
+cn1951-10-31.txt,Russia,Russia,1
+cn1951-11-07.txt,PA,Pennsylvania,1
+cn1951-11-07.txt,Paris,Paris,3
+cn1951-11-07.txt,Italy,Italy,8
+cn1951-11-07.txt,Germany,Germany,5
+cn1951-11-07.txt,Austria,Austria,8
+cn1951-11-07.txt,England,England,7
+cn1951-11-07.txt,Haverford,Haverford,4
+cn1951-11-07.txt,US,United States,2
+cn1951-11-07.txt,Bryn Mawr,Bryn Mawr,10
+cn1951-11-07.txt,Delft,Delft,1
+cn1951-11-07.txt,Netherlands,Netherlands,1
+cn1951-11-07.txt,Rome,Rome,1
+cn1951-11-07.txt,Edinburgh,Edinburgh,1
+cn1951-11-07.txt,Zurich,Zurich,1
+cn1951-11-07.txt,Harrisburg,Harrisburg,1
+cn1951-11-07.txt,Pennsylvania,Pennsylvania,1
+cn1951-11-07.txt,Philadelphia,Philadelphia,11
+cn1951-11-07.txt,the U. S.,United States,1
+cn1951-11-07.txt,Hiroshima,Hiroshima,1
+cn1951-11-07.txt,Harris-,Harris-,1
+cn1951-11-07.txt,Phila,Philadelphia,1
+cn1951-11-07.txt,United States,United States,1
+cn1951-11-07.txt,France,France,9
+cn1951-11-07.txt,New York,New York,1
+cn1951-11-07.txt,the United States,United States,5
+cn1951-11-07.txt,USSR,Soviet Union,1
+cn1951-11-07.txt,Wellesley,Wellesley,1
+cn1951-11-07.txt,Vassar,Vassar,1
+cn1951-11-07.txt,Susser,Susser,1
+cn1951-11-07.txt,Ardmore,Ardmore,3
+cn1951-11-07.txt,Pa.,Pennsylvania,2
+cn1951-11-07.txt,the United,United States,1
+cn1951-11-07.txt,London,London,1
+cn1951-11-07.txt,Manchester,Manchester,1
+cn1951-11-07.txt,Korea,Korea,1
+cn1951-11-07.txt,Philadel- phia,Philadelphia,1
+cn1951-11-07.txt,Philadel-,Philadelphia,1
+cn1951-11-07.txt,New Hampshire,New Hampshire,1
+cn1951-11-07.txt,Holland,Holland,2
+cn1951-11-07.txt,America,United States,2
+cn1951-11-07.txt,U. S.,United States,1
+cn1951-11-07.txt,Innsbruck,Innsbruck,1
+cn1951-11-07.txt,Princeton,Princeton,1
+cn1951-11-07.txt,Pakistan,Pakistan,1
+cn1951-11-07.txt,Assam,Assam,1
+cn1951-11-07.txt,N. Y.,New York,1
+cn1951-11-07.txt,Alaska,Alaska,1
+cn1951-11-07.txt,NEW YORK,New York,1
+cn1951-11-07.txt,New York 19,New York,1
+cn1951-11-07.txt,N. Y.,New York,2
+cn1951-11-07.txt,N.Y.C.,New York City,1
+cn1951-11-07.txt,Spain,Spain,1
+cn1951-11-07.txt,New York 7,New York,1
+cn1951-11-07.txt,N. Y.,New York,1
+cn1951-11-07.txt,Wales,Wales,1
+cn1951-11-07.txt,Pa,Pennsylvania,1
+cn1951-11-07.txt,Chesterfield,Chesterfield,1
+cn1951-11-14.txt,BRYN MAWR,Bryn Mawr,1
+cn1951-11-14.txt,PA,Pennsylvania,1
+cn1951-11-14.txt,Perry,Perry,1
+cn1951-11-14.txt,New York,New York,2
+cn1951-11-14.txt,Hous-,Hous-,1
+cn1951-11-14.txt,Texas,Texas,1
+cn1951-11-14.txt,Haverford,Haverford,5
+cn1951-11-14.txt,California,California,1
+cn1951-11-14.txt,Amherst,Amherst,1
+cn1951-11-14.txt,erford,erford,1
+cn1951-11-14.txt,Bryn Mawr,Bryn Mawr,8
+cn1951-11-14.txt,Bennington,Bennington,1
+cn1951-11-14.txt,Swarthmore,Swarthmore,1
+cn1951-11-14.txt,Wellesley,Wellesley,1
+cn1951-11-14.txt,Vassar,Vassar,1
+cn1951-11-14.txt,Holyoke,Holyoke,1
+cn1951-11-14.txt,the United States,United States,4
+cn1951-11-14.txt,the United  States,United States,1
+cn1951-11-14.txt,Mt. Holyoke,Mount Holyoke College,1
+cn1951-11-14.txt,Rock,Rock,1
+cn1951-11-14.txt,Ardmore,Ardmore,3
+cn1951-11-14.txt,Pa.,Pennsylvania,3
+cn1951-11-14.txt,Iran,Iran,26
+cn1951-11-14.txt,Egypt,Egypt,3
+cn1951-11-14.txt,Abadan,Abadan,2
+cn1951-11-14.txt,Al-,Alabama,1
+cn1951-11-14.txt,Va.,Virginia,1
+cn1951-11-14.txt,U. S.,United States,1
+cn1951-11-14.txt,Britain,Britain,2
+cn1951-11-14.txt,Paris,Paris,1
+cn1951-11-14.txt,Madrid,Madrid,1
+cn1951-11-14.txt,London,London,1
+cn1951-11-14.txt,Brussels,Brussels,2
+cn1951-11-14.txt,San Francisco,San Francisco,1
+cn1951-11-14.txt,United-States,United States,1
+cn1951-11-14.txt,Japen,Japen,1
+cn1951-11-14.txt,Tokyo,Tokyo,1
+cn1951-11-14.txt,Tours,Tours,1
+cn1951-11-14.txt,US,United States,1
+cn1951-11-14.txt,States,States,1
+cn1951-11-14.txt,Soviet Union,Soviet Union,1
+cn1951-11-14.txt,England,England,10
+cn1951-11-14.txt,France,France,3
+cn1951-11-14.txt,Germany,Germany,1
+cn1951-11-14.txt,Tran,Tran,1
+cn1951-11-14.txt,Russia,Russia,12
+cn1951-11-14.txt,India,India,2
+cn1951-11-14.txt,the Soviet Union,Soviet Union,1
+cn1951-11-14.txt,Athens,Athens,3
+cn1951-11-14.txt,Sparta,Sparta,1
+cn1951-11-14.txt,Vienna,Vienna,2
+cn1951-11-14.txt,Philadelphia,Philadelphia,1
+cn1951-11-14.txt,Tyrol,Tyrol,1
+cn1951-11-14.txt,Rome,Rome,1
+cn1951-11-14.txt,Austria,Austria,1
+cn1951-11-14.txt,United States,United States,1
+cn1951-11-14.txt,America,United States,3
+cn1951-11-14.txt,Moscow,Moscow,1
+cn1951-11-14.txt,Washington,Washington UNKNOWN,1
+cn1951-11-14.txt,China,China,2
+cn1951-11-14.txt,NEW YORK,New York,1
+cn1951-11-14.txt,Phila,Philadelphia,1
+cn1951-11-14.txt,New York 18,New York,1
+cn1951-11-14.txt,N.Y.,New York,1
+cn1951-11-14.txt,New York City,New York City,1
+cn1951-11-14.txt,Japan,Japan,2
+cn1951-11-28.txt,PA,Pennsylvania,2
+cn1951-11-28.txt,Philadelphia,Philadelphia,2
+cn1951-11-28.txt,the United  States,United States,1
+cn1951-11-28.txt,Bryn Mawr,Bryn Mawr,4
+cn1951-11-28.txt,Birming-,Birming-,1
+cn1951-11-28.txt,Houston,Houston,1
+cn1951-11-28.txt,Texas,Texas,1
+cn1951-11-28.txt,America,United States,2
+cn1951-11-28.txt,Birmingham,Birmingham,1
+cn1951-11-28.txt,England,England,5
+cn1951-11-28.txt,Boston,Boston,1
+cn1951-11-28.txt,Washington,Washington UNKNOWN,1
+cn1951-11-28.txt,D. C.,Washington D.C.,1
+cn1951-11-28.txt,New Mexico,New Mexico,1
+cn1951-11-28.txt,the United States,United States,3
+cn1951-11-28.txt,Haverford,Haverford,2
+cn1951-11-28.txt,Ardmore,Ardmore,3
+cn1951-11-28.txt,Pa.,Pennsylvania,2
+cn1951-11-28.txt,Grand,Grand,1
+cn1951-11-28.txt,Michigan,Michigan,1
+cn1951-11-28.txt,Mont- gomery County,Mont- gomery County,1
+cn1951-11-28.txt,At- lanta,At- lanta,1
+cn1951-11-28.txt,Georgia,Georgia,1
+cn1951-11-28.txt,United States,United States,2
+cn1951-11-28.txt,East Pakistan,East Pakistan,1
+cn1951-11-28.txt,India,India,1
+cn1951-11-28.txt,Pakistan,Pakistan,5
+cn1951-11-28.txt,N. Y.,New York,2
+cn1951-11-28.txt,ARDMORE,Ardmore,1
+cn1951-11-28.txt,New York 18,New York,1
+cn1951-11-28.txt,Schenectady,Schenectady,1
+cn1951-11-28.txt,Indiana,Indiana,1
+cn1951-11-28.txt,Ohio,Ohio,1
+cn1951-11-28.txt,Massachusetts,Massachusetts,1
+cn1951-11-28.txt,Brooklyn,Brooklyn,1
+cn1951-11-28.txt,ham,ham UNKNOWN,1
+cn1951-11-28.txt,Bennington,Bennington,1
+cn1951-11-28.txt,Wyrdham,Wyrdham,1
+cn1951-11-28.txt,CHESTERFIELD,Chesterfield,1
+cn1951-11-28.txt,AMERICA,United States,1
+cn1951-12-05.txt,PA,Pennsylvania,1
+cn1951-12-05.txt,Washington,Washington UNKNOWN,1
+cn1951-12-05.txt,Haverford,Haverford,2
+cn1951-12-05.txt,Birmingham,Birmingham,1
+cn1951-12-05.txt,England,England,1
+cn1951-12-05.txt,Phila- delphia,Philadelphia,1
+cn1951-12-05.txt,Ardmore,Ardmore,3
+cn1951-12-05.txt,Pa.,Pennsylvania,2
+cn1951-12-05.txt,Dixie,Dixie,1
+cn1951-12-05.txt,Philadelphia,Philadelphia,3
+cn1951-12-05.txt,Pennsylvania,Pennsylvania,1
+cn1951-12-05.txt,New York City,New York City,1
+cn1951-12-05.txt,Maryland,Maryland,1
+cn1951-12-05.txt,Vir- ginia,Virginia,1
+cn1951-12-05.txt,New Jersey,New Jersey,1
+cn1951-12-05.txt,Quantico,Quantico,2
+cn1951-12-05.txt,Va.,Virginia,2
+cn1951-12-05.txt,Belle- fontaine,Belle- fontaine,1
+cn1951-12-05.txt,Ohio,Ohio,2
+cn1951-12-05.txt,Granville,Granville,1
+cn1951-12-05.txt,Bryn Mawr,Bryn Mawr,2
+cn1951-12-05.txt,Paris,Paris,1
+cn1951-12-05.txt,Phila,Philadelphia,1
+cn1951-12-05.txt,CHESTERFIELD,Chesterfield,1
+cn1951-12-12.txt,PA,Pennsylvania,1
+cn1951-12-12.txt,Pakistan,Pakistan,5
+cn1951-12-12.txt,British India,British India,1
+cn1951-12-12.txt,India,India,1
+cn1951-12-12.txt,Birmingham,Birmingham,2
+cn1951-12-12.txt,England,England,1
+cn1951-12-12.txt,Prussia,Prussia,1
+cn1951-12-12.txt,Germany,Germany,1
+cn1951-12-12.txt,Scotland,Scotland,1
+cn1951-12-12.txt,Ardmore,Ardmore,3
+cn1951-12-12.txt,Pa.,Pennsylvania,3
+cn1951-12-12.txt,Pearre,Pearre,1
+cn1951-12-12.txt,Haverford,Haverford,2
+cn1951-12-12.txt,AVE,Ave UNKNOWN,1
+cn1951-12-12.txt,NEW YORK,New York,1
+cn1951-12-12.txt,Bryn Mawr,Bryn Mawr,2
+cn1951-12-12.txt,the Virgin Islands,Virgin Islands,1
+cn1951-12-12.txt,CHESTERFIELD,Chesterfield,1
+cn1952-01-09.txt,PA,Pennsylvania,1
+cn1952-01-09.txt,Wittingdon,Wittingdon,1
+cn1952-01-09.txt,Shropshire,Shropshire,1
+cn1952-01-09.txt,Bryn Mawr,Bryn Mawr,1
+cn1952-01-09.txt,Ardmore,Ardmore,2
+cn1952-01-09.txt,Pa.,Pennsylvania,3
+cn1952-01-09.txt,Illinois,Illinois,1
+cn1952-01-09.txt,New York,New York,3
+cn1952-01-09.txt,San,San UNKNOWN,1
+cn1952-01-09.txt,Los Angeles,Los Angeles,2
+cn1952-01-09.txt,Boston,Boston,2
+cn1952-01-09.txt,Mass.,Massachusetts,1
+cn1952-01-09.txt,San Francisco,San Francisco,1
+cn1952-01-09.txt,New York City,New York City,4
+cn1952-01-09.txt,Mena,Mena,1
+cn1952-01-09.txt,Arkansas,Arkansas,1
+cn1952-01-09.txt,U.S.A.,United States,1
+cn1952-01-09.txt,Tokyo,Tokyo,1
+cn1952-01-09.txt,Japan,Japan,2
+cn1952-01-09.txt,St. Louis,St. Louis,1
+cn1952-01-09.txt,Missouri,Missouri,1
+cn1952-01-09.txt,America,United States,2
+cn1952-01-09.txt,Haverford,Haverford,1
+cn1952-01-09.txt,New York 36,New York,1
+cn1952-01-09.txt,N. Y.,New York,2
+cn1952-01-09.txt,NEW YORK,New York,2
+cn1952-01-09.txt,Oklahoma,Oklahoma,1
+cn1952-01-09.txt,Seattle,Seattle,2
+cn1952-01-09.txt,Wash.,Washington UNKNOWN,1
+cn1952-01-09.txt,ne,Nebraska,1
+cn1952-01-09.txt,Massachusetts,Massachusetts,1
+cn1952-01-09.txt,Washington,Washington UNKNOWN,1
+cn1952-01-09.txt,Philadelphia,Philadelphia,1
+cn1952-01-09.txt,Newark,Newark,1
+cn1952-01-09.txt,New Jersey,New Jersey,1
+cn1952-01-09.txt,Chesterfield,Chesterfield,1
+cn1952-01-16.txt,PA,Pennsylvania,1
+cn1952-01-16.txt,America,United States,1
+cn1952-01-16.txt,New,New UNKNOWN,1
+cn1952-01-16.txt,Germany,Germany,7
+cn1952-01-16.txt,Russia,Russia,1
+cn1952-01-16.txt,N. C.,North Carolina,1
+cn1952-01-16.txt,Bryn Mawr,Bryn Mawr,4
+cn1952-01-16.txt,the United States,United States,1
+cn1952-01-16.txt,Prussia,Prussia,2
+cn1952-01-16.txt,Paris,Paris,2
+cn1952-01-16.txt,Toulouse-,Toulouse,1
+cn1952-01-16.txt,Ardmore,Ardmore,2
+cn1952-01-16.txt,Pa.,Pennsylvania,3
+cn1952-01-16.txt,Switzerland,Switzerland,2
+cn1952-01-16.txt,Edinburgh,Edinburgh,2
+cn1952-01-16.txt,Scotland,Scotland,1
+cn1952-01-16.txt,Rio de Janiero,Rio de Janiero,1
+cn1952-01-16.txt,Brazil,Brazil,1
+cn1952-01-16.txt,Edin- burgh,Edin- burgh,1
+cn1952-01-16.txt,Nottingham,Nottingham,1
+cn1952-01-16.txt,England,England,2
+cn1952-01-16.txt,Minn.,Minnesota,2
+cn1952-01-16.txt,Oxford,Oxford,1
+cn1952-01-16.txt,NEW YORK,New York,2
+cn1952-01-16.txt,New York,New York,1
+cn1952-01-16.txt,New York 3,New York,1
+cn1952-01-16.txt,N. Y.,New York,1
+cn1952-01-16.txt,Haverford,Haverford,1
+cn1952-01-16.txt,Denmark,Denmark,1
+cn1952-01-16.txt,Sweden,Sweden,1
+cn1952-01-16.txt,Holland,Holland,1
+cn1952-01-16.txt,Belgium,Belgium,1
+cn1952-01-16.txt,Luxembourg,Luxembourg,1
+cn1952-01-16.txt,France,France,1
+cn1952-01-16.txt,Italy,Italy,1
+cn1952-01-16.txt,Austria,Austria,2
+cn1952-01-16.txt,New York City,New York City,1
+cn1952-02-13.txt,PA,Pennsylvania,1
+cn1952-02-13.txt,San Francisco,San Francisco,1
+cn1952-02-13.txt,Ardmore,Ardmore,2
+cn1952-02-13.txt,Pa.,Pennsylvania,2
+cn1952-02-13.txt,America,United States,2
+cn1952-02-13.txt,Britain,Britain,6
+cn1952-02-13.txt,Washington,Washington UNKNOWN,1
+cn1952-02-13.txt,the United States,United States,1
+cn1952-02-13.txt,Paris,Paris,1
+cn1952-02-13.txt,Boston,Boston,1
+cn1952-02-13.txt,Bainbridge,Bainbridge,1
+cn1952-02-13.txt,Maryland,Maryland,1
+cn1952-02-13.txt,Philadelphia,Philadelphia,2
+cn1952-02-13.txt,United States,United States,1
+cn1952-02-13.txt,NEW YORK,New York,2
+cn1952-02-13.txt,New York,New York,2
+cn1952-02-13.txt,New York 3,New York,1
+cn1952-02-13.txt,N. Y.,New York,1
+cn1952-02-13.txt,Princeton,Princeton,1
+cn1952-02-13.txt,N. J.,New Jersey,1
+cn1952-02-13.txt,Bryn Mawr,Bryn Mawr,1
+cn1952-02-13.txt,Pa,Pennsylvania,1
+cn1952-02-13.txt,Great Britain,Great Britain,1
+cn1952-02-13.txt,N. Y.,New York,1
+cn1952-02-13.txt,Chicago,Chicago,1
+cn1952-02-13.txt,NEW YORK CITY,New York City,1
+cn1952-02-13.txt,CHESTERFIELD,Chesterfield,1
+cn1952-02-13.txt,AMERICA,United States,1
+cn1952-02-20.txt,PA,Pennsylvania,1
+cn1952-02-20.txt,Haverford,Haverford,4
+cn1952-02-20.txt,Haver-,Haver- UNKNOWN,1
+cn1952-02-20.txt,ford,ford UNKNOWN,1
+cn1952-02-20.txt,Bryn Mawr,Bryn Mawr,5
+cn1952-02-20.txt,Ruxton,Ruxton,1
+cn1952-02-20.txt,Maryland,Maryland,1
+cn1952-02-20.txt,Rome,Rome,1
+cn1952-02-20.txt,Ardmore,Ardmore,2
+cn1952-02-20.txt,Pa.,Pennsylvania,3
+cn1952-02-20.txt,San,San UNKNOWN,1
+cn1952-02-20.txt,California,California,1
+cn1952-02-20.txt,America,United States,5
+cn1952-02-20.txt,U. S.,United States,2
+cn1952-02-20.txt,New,New UNKNOWN,1
+cn1952-02-20.txt,United States,United States,1
+cn1952-02-20.txt,N. J.,New Jersey,2
+cn1952-02-20.txt,Pennsylvania,Pennsylvania,1
+cn1952-02-20.txt,Vienna,Vienna,2
+cn1952-02-20.txt,Austria,Austria,1
+cn1952-02-20.txt,Paris,Paris,4
+cn1952-02-20.txt,Maaave,Maaave,1
+cn1952-02-20.txt,N. Y.,New York,2
+cn1952-02-20.txt,White Plains,White Plains,1
+cn1952-02-20.txt,East Orange,East Orange,1
+cn1952-02-20.txt,Philadelphia,Philadelphia,2
+cn1952-02-20.txt,U.S.A.,United States,1
+cn1952-02-20.txt,U.S.,United States,3
+cn1952-02-20.txt,Russia,Russia,3
+cn1952-02-20.txt,Germany,Germany,2
+cn1952-02-20.txt,the U. S.,United States,1
+cn1952-02-20.txt,U.S.A,United States,1
+cn1952-02-20.txt,Iowa,Iowa,1
+cn1952-02-20.txt,Putney,Putney,1
+cn1952-02-20.txt,Vermont,Vermont,1
+cn1952-02-20.txt,Swarthmore,Swarthmore,1
+cn1952-02-20.txt,London,London,1
+cn1952-02-20.txt,France,France,1
+cn1952-02-20.txt,Italy,Italy,1
+cn1952-02-20.txt,the Soviet Union,Soviet Union,1
+cn1952-02-20.txt,United,United,1
+cn1952-02-20.txt,England,England,2
+cn1952-02-20.txt,Mysore,Mysore,1
+cn1952-02-20.txt,Berlin,Berlin,1
+cn1952-02-20.txt,the United States,United States,1
+cn1952-02-20.txt,Winston-Salem,Winston-Salem,1
+cn1952-02-20.txt,N. C,North Carolina,1
+cn1952-02-27.txt,PA,Pennsylvania,1
+cn1952-02-27.txt,United States,United States,2
+cn1952-02-27.txt,Washington,Washington UNKNOWN,4
+cn1952-02-27.txt,United,United,1
+cn1952-02-27.txt,Massachu-,Massachusetts,1
+cn1952-02-27.txt,Middlesex Coun-,Middlesex Coun-,1
+cn1952-02-27.txt,Massachusetts,Massachusetts,2
+cn1952-02-27.txt,Newton,Newton,1
+cn1952-02-27.txt,Berlin,Berlin,1
+cn1952-02-27.txt,Haverford,Haverford,3
+cn1952-02-27.txt,Ardinore,Ardinore,1
+cn1952-02-27.txt,Pa.,Pennsylvania,2
+cn1952-02-27.txt,Ardmore,Ardmore,2
+cn1952-02-27.txt,Philadelphia,Philadelphia,1
+cn1952-02-27.txt,Baltimore,Baltimore,1
+cn1952-02-27.txt,Andover,Andover,1
+cn1952-02-27.txt,Ber-,Ber UNKNOWN,2
+cn1952-02-27.txt,Bryn Mawr,Bryn Mawr,2
+cn1952-02-27.txt,Venice,Venice,2
+cn1952-02-27.txt,Germany,Germany,1
+cn1952-02-27.txt,Heidelberg,Heidelberg,1
+cn1952-02-27.txt,Frankfort,Frankfort,1
+cn1952-02-27.txt,Mexico,Mexico,1
+cn1952-02-27.txt,Mandrake Falls,Mandrake Falls,2
+cn1952-02-27.txt,New York,New York,5
+cn1952-02-27.txt,NEW YORK CITY,New York City,1
+cn1952-02-27.txt,Great Britain,Great Britain,1
+cn1952-02-27.txt,NEW YORK,New York,1
+cn1952-02-27.txt,America,United States,1
+cn1952-02-27.txt,New York City,New York City,1
+cn1952-02-27.txt,Union,Union,1
+cn1952-02-27.txt,Maine,Maine,1
+cn1952-02-27.txt,France,France,1
+cn1952-02-27.txt,Madagascar,Madagascar,1
+cn1952-02-27.txt,Rittenhouse,Rittenhouse,1
+cn1952-02-27.txt,AMERICA,United States,1
+cn1952-03-05.txt,PA,Pennsylvania,1
+cn1952-03-05.txt,Bryn Mawr,Bryn Mawr,6
+cn1952-03-05.txt,Vassar,Vassar,1
+cn1952-03-05.txt,Connecticut,Connecticut,1
+cn1952-03-05.txt,Yugosiavia,Yugosiavia,1
+cn1952-03-05.txt,Greece,Greece,3
+cn1952-03-05.txt,Israel,Israel,2
+cn1952-03-05.txt,Cyprus,Cyprus,1
+cn1952-03-05.txt,Zagreb,Zagreb,1
+cn1952-03-05.txt,Yugoslavia,Yugoslavia,1
+cn1952-03-05.txt,United States,United States,4
+cn1952-03-05.txt,Massachu- setts,Massachusetts,1
+cn1952-03-05.txt,New Hamp-,New Hampshire,1
+cn1952-03-05.txt,Haverford,Haverford,4
+cn1952-03-05.txt,Ardmore,Ardmore,2
+cn1952-03-05.txt,Pa.,Pennsylvania,2
+cn1952-03-05.txt,Haver- ford,Haverford,1
+cn1952-03-05.txt,Malta,Malta,1
+cn1952-03-05.txt,England,England,2
+cn1952-03-05.txt,Cambridge,Cambridge,1
+cn1952-03-05.txt,Athens,Athens,1
+cn1952-03-05.txt,France,France,9
+cn1952-03-05.txt,Rome,Rome,2
+cn1952-03-05.txt,Spain,Spain,6
+cn1952-03-05.txt,America,United States,1
+cn1952-03-05.txt,the U. S.,United States,1
+cn1952-03-05.txt,NEW YORK CITY,New York City,1
+cn1952-03-05.txt,Lisbon,Lisbon,1
+cn1952-03-05.txt,Germany,Germany,3
+cn1952-03-05.txt,Russia,Russia,2
+cn1952-03-05.txt,United,United,1
+cn1952-03-05.txt,Moscow,Moscow,1
+cn1952-03-05.txt,Philadelphia,Philadelphia,1
+cn1952-03-05.txt,Argentina,Argentina,1
+cn1952-03-05.txt,Bolivia,Bolivia,1
+cn1952-03-05.txt,Brazil,Brazil,1
+cn1952-03-05.txt,Canada,Canada,1
+cn1952-03-05.txt,Columbia,Columbia,1
+cn1952-03-05.txt,Costa Rica,Costa Rica,2
+cn1952-03-05.txt,Cuba,Cuba,3
+cn1952-03-05.txt,El Salvador,El Salvador,1
+cn1952-03-05.txt,Guatemala,Guatemala,1
+cn1952-03-05.txt,Hon-,Hon UNKNOWN,1
+cn1952-03-05.txt,duras,duras,1
+cn1952-03-05.txt,Nicaragua,Nicaragua,1
+cn1952-03-05.txt,Panama,Panama,2
+cn1952-03-05.txt,Para-,Para-,1
+cn1952-03-05.txt,guay,guay,1
+cn1952-03-05.txt,Peru,Peru,1
+cn1952-03-05.txt,Ur-,Ur-,1
+cn1952-03-05.txt,uguay,uguay,1
+cn1952-03-05.txt,Habana,Habana,1
+cn1952-03-05.txt,Honduras,Honduras,1
+cn1952-03-05.txt,Troy,Troy,1
+cn1952-03-05.txt,the United States,United States,1
+cn1952-03-05.txt,Hankow,Hankow,1
+cn1952-03-05.txt,China,China,1
+cn1952-03-12.txt,PA,Pennsylvania,1
+cn1952-03-12.txt,New Or-,New Orleans,1
+cn1952-03-12.txt,Hecuba,Hecuba UNKNOWN,1
+cn1952-03-12.txt,Yugoslavia,Yugoslavia,5
+cn1952-03-12.txt,Greece,Greece,4
+cn1952-03-12.txt,Turkey,Turkey,3
+cn1952-03-12.txt,Israel,Israel,2
+cn1952-03-12.txt,Cyprus,Cyprus,2
+cn1952-03-12.txt,Holyoke,Holyoke,1
+cn1952-03-12.txt,Ardmore,Ardmore,2
+cn1952-03-12.txt,Pa.,Pennsylvania,2
+cn1952-03-12.txt,England,England,1
+cn1952-03-12.txt,Athens,Athens,1
+cn1952-03-12.txt,Bulgaria,Bulgaria,1
+cn1952-03-12.txt,Ireland,Ireland,1
+cn1952-03-12.txt,Philadelphia,Philadelphia,3
+cn1952-03-12.txt,Bryn Mawr,Bryn Mawr,6
+cn1952-03-12.txt,Elmira,Elmira,1
+cn1952-03-12.txt,New York City’s,New York City,1
+cn1952-03-12.txt,Paris,Paris,2
+cn1952-03-12.txt,Swarthmore,Swarthmore,1
+cn1952-03-12.txt,Haverford,Haverford,1
+cn1952-03-12.txt,Georgia,Georgia,1
+cn1952-03-12.txt,Norristown,Norristown,1
+cn1952-03-19.txt,PA,Pennsylvania,1
+cn1952-03-19.txt,Illinois,Illinois,1
+cn1952-03-19.txt,the United States,United States,2
+cn1952-03-19.txt,Bryn Mawr,Bryn Mawr,6
+cn1952-03-19.txt,Princeton,Princeton,1
+cn1952-03-19.txt,New York,New York,2
+cn1952-03-19.txt,Greece,Greece,1
+cn1952-03-19.txt,Paris,Paris,2
+cn1952-03-19.txt,Jersey City,Jersey City,1
+cn1952-03-19.txt,Seattle,Seattle,1
+cn1952-03-19.txt,the Cau- casus,the Cau- casus,1
+cn1952-03-19.txt,Pennsylvania,Pennsylvania,1
+cn1952-03-19.txt,France,France,2
+cn1952-03-19.txt,Aberdeen,Aberdeen,1
+cn1952-03-19.txt,Scotland,Scotland,3
+cn1952-03-19.txt,America,United States,4
+cn1952-03-19.txt,Spain,Spain,3
+cn1952-03-19.txt,Ardmore,Ardmore,2
+cn1952-03-19.txt,Pa.,Pennsylvania,3
+cn1952-03-19.txt,Poland,Poland,1
+cn1952-03-19.txt,Brooklyn,Brooklyn,2
+cn1952-03-19.txt,Denmark,Denmark,5
+cn1952-03-19.txt,Copenhagen,Copenhagen,2
+cn1952-03-19.txt,Park,Park,1
+cn1952-03-19.txt,New York in the darkness,New York in the darkness,1
+cn1952-03-19.txt,Manhat- ten,Manhat- ten,1
+cn1952-03-19.txt,Philadelphia,Philadelphia,5
+cn1952-03-19.txt,New York 17,New York,1
+cn1952-03-19.txt,N. Y.,New York,2
+cn1952-03-19.txt,White Plains,White Plains,1
+cn1952-03-19.txt,East Orange,East Orange,1
+cn1952-03-19.txt,N. J.,New Jersey,1
+cn1952-03-19.txt,Britain,Britain,1
+cn1952-03-19.txt,Philadel- phia,Philadelphia,1
+cn1952-03-19.txt,NEW YORK CITY,New York City,1
+cn1952-03-19.txt,NEW YORK,New York,1
+cn1952-03-19.txt,Haverford,Haverford,2
+cn1952-03-19.txt,Stockton,Stockton,1
+cn1952-03-19.txt,The United States,United States,1
+cn1952-03-19.txt,Germany,Germany,1
+cn1952-03-19.txt,England,England,1
+cn1952-03-19.txt,China,China,1
+cn1952-03-19.txt,United States,United States,1
+cn1952-03-19.txt,Hecuba,Hecuba UNKNOWN,1
+cn1952-03-19.txt,ARDMORE,Ardmore,1
+cn1952-03-26.txt,PA,Pennsylvania,1
+cn1952-03-26.txt,the United States,United States,1
+cn1952-03-26.txt,Spain,Spain,4
+cn1952-03-26.txt,France,France,2
+cn1952-03-26.txt,England,England,1
+cn1952-03-26.txt,Ardmore,Ardmore,3
+cn1952-03-26.txt,Pa.,Pennsylvania,2
+cn1952-03-26.txt,Haverford,Haverford,1
+cn1952-03-26.txt,Canada,Canada,1
+cn1952-03-26.txt,NEW YORK CITY,New York City,1
+cn1952-03-26.txt,NEW YORK,New York,1
+cn1952-03-26.txt,Elkins Park,Elkins Park,1
+cn1952-03-26.txt,Bryn Mawr,Bryn Mawr,1
+cn1952-04-16.txt,PA,Pennsylvania,1
+cn1952-04-16.txt,Baltimore,Baltimore,1
+cn1952-04-16.txt,Rome,Rome,1
+cn1952-04-16.txt,England,England,2
+cn1952-04-16.txt,Newfoundland,Newfoundland,1
+cn1952-04-16.txt,Canada,Canada,6
+cn1952-04-16.txt,Ottawa,Ottawa,1
+cn1952-04-16.txt,Edmon-  ton,Edmon-  ton,1
+cn1952-04-16.txt,Alberta,Alberta,1
+cn1952-04-16.txt,Belmont,Belmont,1
+cn1952-04-16.txt,woody,woody,1
+cn1952-04-16.txt,Georgia,Georgia,1
+cn1952-04-16.txt,York Mills,York Mills,1
+cn1952-04-16.txt,Ontario,Ontario,1
+cn1952-04-16.txt,Paris,Paris,1
+cn1952-04-16.txt,Kentucky,Kentucky,1
+cn1952-04-16.txt,N. Y. A.B. William Smith College,N. Y. A.B. William Smith College,1
+cn1952-04-16.txt,Little Rock,Little Rock,1
+cn1952-04-16.txt,Ark.,Ark.,2
+cn1952-04-16.txt,New Brunswick,New Brunswick,1
+cn1952-04-16.txt,Laconia,Laconia,1
+cn1952-04-16.txt,New York,New York,5
+cn1952-04-16.txt,Amsterdam,Amsterdam,1
+cn1952-04-16.txt,Forest Hills,Forest Hills,1
+cn1952-04-16.txt,Providence,Providence,1
+cn1952-04-16.txt,Lowell,Lowell,1
+cn1952-04-16.txt,Orangeburg,Orangeburg,1
+cn1952-04-16.txt,N. Y. A.B.,N. Y. A.B.,1
+cn1952-04-16.txt,Lincoln,Lincoln,1
+cn1952-04-16.txt,Fayetteville,Fayetteville,1
+cn1952-04-16.txt,New York City,New York City,1
+cn1952-04-16.txt,Los An-  goles,Los An-  goles,1
+cn1952-04-16.txt,Quincy,Quincy,1
+cn1952-04-16.txt,Mass.,Massachusetts,1
+cn1952-04-16.txt,Brook-,Brook-,1
+cn1952-04-16.txt,N. Y. B.S.,N. Y. B.S.,1
+cn1952-04-16.txt,Toron-  to,Toron-  to,1
+cn1952-04-16.txt,Milwaukee,Milwaukee,1
+cn1952-04-16.txt,Haverford,Haverford,3
+cn1952-04-16.txt,Ardmore,Ardmore,3
+cn1952-04-16.txt,Pa.,Pennsylvania,2
+cn1952-04-16.txt,Philadelphia,Philadelphia,7
+cn1952-04-16.txt,Bryn Mawr,Bryn Mawr,1
+cn1952-04-16.txt,the United States,United States,1
+cn1952-04-16.txt,Cambridge,Cambridge,1
+cn1952-04-16.txt,Illinois,Illinois,1
+cn1952-04-16.txt,Australia,Australia,1
+cn1952-04-16.txt,United States,United States,1
+cn1952-04-16.txt,Cairo,Cairo,2
+cn1952-04-16.txt,New York,New York,1
+cn1952-04-16.txt,averford,Haverford,1
+cn1952-04-16.txt,BOSTON,Boston,1
+cn1952-04-16.txt,NEW YORK,New York,1
+cn1952-04-16.txt,MONTCLAIR,Montclair,1
+cn1952-04-16.txt,America,United States,1
+cn1952-04-16.txt,Pennsylvania,Pennsylvania,1
+cn1952-04-16.txt,Oakland,Oakland,1
+cn1952-04-16.txt,Califor-,Califor-,1
+cn1952-04-16.txt,Madison,Madison,1
+cn1952-04-16.txt,Denmark,Denmark,1
+cn1952-04-16.txt,Boston,Boston,1
+cn1952-04-16.txt,Scotland,Scotland,1
+cn1952-04-16.txt,London,London,1
+cn1952-04-16.txt,New York 17,New York,1
+cn1952-04-16.txt,N.Y.,New York,1
+cn1952-04-16.txt,rinburg,rinburg,1
+cn1952-04-16.txt,N.C,North Carolina,1
+cn1952-04-16.txt,lyn,lyn,1
+cn1952-04-16.txt,N. Y. AvB.,N. Y. AvB.,1
+cn1952-04-16.txt,rolltown,rolltown,1
+cn1952-04-16.txt,Penna,Pennsylvania,1
+cn1952-04-16.txt,N. Y.,New York,2
+cn1952-04-16.txt,White Plains,White Plains,1
+cn1952-04-16.txt,East Orange,East Orange,1
+cn1952-04-16.txt,N. J.,New Jersey,1
+cn1952-04-23.txt,PA,Pennsylvania,1
+cn1952-04-23.txt,Haverford,Haverford,5
+cn1952-04-23.txt,U.S.,United States,1
+cn1952-04-23.txt,the United States,United States,2
+cn1952-04-23.txt,Ardmore,Ardmore,3
+cn1952-04-23.txt,Pa.,Pennsylvania,3
+cn1952-04-23.txt,Rome,Rome,1
+cn1952-04-23.txt,The United States,United States,1
+cn1952-04-23.txt,Germany,Germany,6
+cn1952-04-23.txt,the Soviet Union,Soviet Union,2
+cn1952-04-23.txt,United States,United States,3
+cn1952-04-23.txt,England,England,2
+cn1952-04-23.txt,France,France,3
+cn1952-04-23.txt,Russia,Russia,5
+cn1952-04-23.txt,the United States’,United States,1
+cn1952-04-23.txt,Philadelphia,Philadelphia,2
+cn1952-04-23.txt,Bryn Mawr,Bryn Mawr,1
+cn1952-04-23.txt,Pennsylvania,Pennsylvania,1
+cn1952-04-23.txt,China,China,1
+cn1952-04-23.txt,New,New UNKNOWN,1
+cn1952-04-23.txt,Chicopee,Chicopee,1
+cn1952-04-23.txt,London,London,1
+cn1952-04-23.txt,Frankfurt,Frankfurt,1
+cn1952-04-23.txt,Spain,Spain,1
+cn1952-04-23.txt,Pittsburgh,Pittsburgh,1
+cn1952-04-23.txt,America,United States,1
+cn1952-05-01.txt,PA,Pennsylvania,1
+cn1952-05-01.txt,Brno,Brno,2
+cn1952-05-01.txt,Czecho- slovakia,Czechoslovakia,1
+cn1952-05-01.txt,Beaver,Beaver,1
+cn1952-05-01.txt,Wisconsin,Wisconsin,2
+cn1952-05-01.txt,Rome,Rome,1
+cn1952-05-01.txt,Nashville,Nashville,1
+cn1952-05-01.txt,Tennessee,Tennessee,1
+cn1952-05-01.txt,Czechoslovakia,Czechoslovakia,3
+cn1952-05-01.txt,Chlad-  kova,Chlad-  kova,1
+cn1952-05-01.txt,New Jersey,New Jersey,1
+cn1952-05-01.txt,Bryn Mawr,Bryn Mawr,7
+cn1952-05-01.txt,Illinois,Illinois,1
+cn1952-05-01.txt,Haverford,Haverford,6
+cn1952-05-01.txt,Missouri,Missouri,2
+cn1952-05-01.txt,Czechoslova- kia,Czechoslovakia,1
+cn1952-05-01.txt,Spain,Spain,1
+cn1952-05-01.txt,Russia,Russia,1
+cn1952-05-01.txt,China,China,1
+cn1952-05-01.txt,India,India,1
+cn1952-05-01.txt,Paris,Paris,2
+cn1952-05-01.txt,Ardmore,Ardmore,3
+cn1952-05-01.txt,Pa.,Pennsylvania,5
+cn1952-05-01.txt,Chicago,Chicago,2
+cn1952-05-01.txt,Ill,Illinois,1
+cn1952-05-01.txt,Boston,Boston,1
+cn1952-05-01.txt,Cleveland,Cleveland,3
+cn1952-05-01.txt,Mirneapolis,Minneapolis,1
+cn1952-05-01.txt,Kansas City,Kansas City,1
+cn1952-05-01.txt,Atlanta,Atlanta,1
+cn1952-05-01.txt,Rye Beach,Rye Beach,1
+cn1952-05-01.txt,New,New UNKNOWN,1
+cn1952-05-01.txt,Hampshire,Hampshire,1
+cn1952-05-01.txt,Califor-,Califor-,1
+cn1952-05-01.txt,Gloucester,Gloucester,1
+cn1952-05-01.txt,Mass.,Massachusetts,5
+cn1952-05-01.txt,Cambridge,Cambridge,1
+cn1952-05-01.txt,New York City,New York City,8
+cn1952-05-01.txt,Conn.,Connecticut,3
+cn1952-05-01.txt,Washing,Washington UNKNOWN,1
+cn1952-05-01.txt,D. C.,Washington D.C.,4
+cn1952-05-01.txt,St. Louis,St. Louis,2
+cn1952-05-01.txt,New Vork City,New York City,1
+cn1952-05-01.txt,Philadelphia,Philadelphia,14
+cn1952-05-01.txt,Phii- adelphia,Phii- adelphia,1
+cn1952-05-01.txt,Phila-,Philadelphia,1
+cn1952-05-01.txt,delpnia,delpnia,1
+cn1952-05-01.txt,Ohio,Ohio,5
+cn1952-05-01.txt,Westchester County,Westchester County,1
+cn1952-05-01.txt,Honesdale,Honesdale,1
+cn1952-05-01.txt,Washington,Washington UNKNOWN,2
+cn1952-05-01.txt,New York,New York,3
+cn1952-05-01.txt,Delaware,Delaware,1
+cn1952-05-01.txt,Tarleton,Tarleton,1
+cn1952-05-01.txt,Devon,Devon,1
+cn1952-05-01.txt,the United States,United States,2
+cn1952-05-01.txt,Philadelphia County,Philadelphia County,1
+cn1952-05-01.txt,Burlington,Burlington,1
+cn1952-05-01.txt,Vermont,Vermont,1
+cn1952-05-01.txt,Union,Union,1
+cn1952-05-01.txt,Maine,Maine,1
+cn1952-05-01.txt,Owaissa,Owaissa,1
+cn1952-05-01.txt,Ambler,Ambler,1
+cn1952-05-01.txt,Pennsylvania,Pennsylvania,1
+cn1952-05-01.txt,Bryn Mawr's,Bryn Mawr PLURAL,1
+cn1952-05-01.txt,Germantown,Germantown,1
+cn1952-05-01.txt,Athens,Athens,2
+cn1952-05-01.txt,Greecee,Greece,1
+cn1952-05-01.txt,Phila- delphia,Philadelphia,2
+cn1952-05-01.txt,Greece,Greece,1
+cn1952-05-01.txt,Cincinnati,Cincinnati,1
+cn1952-05-01.txt,Penna,Pennsylvania,17
+cn1952-05-01.txt,Lansdowne,Lansdowne,1
+cn1952-05-01.txt,North Olmsted,North Olmsted,1
+cn1952-05-01.txt,Columbus,Columbus,1
+cn1952-05-01.txt,Providence,Providence,1
+cn1952-05-01.txt,R. I.,Rhode Island,1
+cn1952-05-01.txt,Scranton,Scranton,1
+cn1952-05-01.txt,Arling-,Arling-,1
+cn1952-05-01.txt,Va.,Virginia,2
+cn1952-05-01.txt,Hastings-on-Hudson,Hastings-on-Hudson,1
+cn1952-05-01.txt,N. Y.,New York,8
+cn1952-05-01.txt,Philadel- phia,Philadelphia,1
+cn1952-05-01.txt,Montevideo,Montevideo,1
+cn1952-05-01.txt,Cranford,Cranford,1
+cn1952-05-01.txt,N. J.,New Jersey,6
+cn1952-05-01.txt,Belvidere,Belvidere,1
+cn1952-05-01.txt,N. J,New Jersey,1
+cn1952-05-01.txt,Berkeley,Berkeley,1
+cn1952-05-01.txt,Colby,Colby,1
+cn1952-05-01.txt,Kansas,Kansas,2
+cn1952-05-01.txt,Ann Arbor,Ann Arbor,1
+cn1952-05-01.txt,Mich.,Michigan,2
+cn1952-05-01.txt,Bareville,Bareville,1
+cn1952-05-01.txt,Des Moines,Des Moines,1
+cn1952-05-01.txt,Iowa,Iowa,1
+cn1952-05-01.txt,Hazelton,Hazelton,1
+cn1952-05-01.txt,Flushing,Flushing,1
+cn1952-05-01.txt,Long Island,Long Island,1
+cn1952-05-01.txt,Pasadena,Pasadena,1
+cn1952-05-01.txt,Calif.,California,3
+cn1952-05-01.txt,Jamaica,Jamaica,1
+cn1952-05-01.txt,Charleston,Charleston,1
+cn1952-05-01.txt,S. C.,S. C.,1
+cn1952-05-01.txt,Summit,Summit,1
+cn1952-05-01.txt,West Bridgewater,West Bridgewater,1
+cn1952-05-01.txt,Vt,Vermont,2
+cn1952-05-01.txt,Pasa- dena,Pasadena,1
+cn1952-05-01.txt,Omaha,Omaha,1
+cn1952-05-01.txt,Nebr.,Nebr.,1
+cn1952-05-01.txt,renna,renna,1
+cn1952-05-01.txt,El,El,1
+cn1952-05-01.txt,Texas,Texas,1
+cn1952-05-01.txt,Princeton,Princeton,1
+cn1952-05-01.txt,Wichita,Wichita,1
+cn1952-05-01.txt,Norwich,Norwich,1
+cn1952-05-01.txt,New Cum-,New Cumberland,1
+cn1952-05-01.txt,Lawrence,Lawrence,1
+cn1952-05-01.txt,Elizabethtown,Elizabethtown,1
+cn1952-05-01.txt,Tenn.,Tennessee,1
+cn1952-05-01.txt,Haddon Heights,Haddon Heights,1
+cn1952-05-01.txt,Montclair,Montclair,1
+cn1952-05-01.txt,Cold,Cold,1
+cn1952-05-01.txt,L. I.,L. I.,1
+cn1952-05-01.txt,Scarsdale,Scarsdale,1
+cn1952-05-01.txt,Chicopee,Chicopee,1
+cn1952-05-01.txt,Hillside,Hillside,1
+cn1952-05-01.txt,North Andover,North Andover,1
+cn1952-05-01.txt,Mo.,Missouri,2
+cn1952-05-01.txt,Beaver Dam,Beaver Dam,1
+cn1952-05-01.txt,Charlottesville,Charlottesville,1
+cn1952-05-01.txt,West Lawn,West Lawn,1
+cn1952-05-01.txt,Seattle,Seattle,1
+cn1952-05-01.txt,Wash.,Washington UNKNOWN,1
+cn1952-05-01.txt,Woodstock,Woodstock,1
+cn1952-05-01.txt,Rye,Rye,1
+cn1952-05-01.txt,New City,New City,1
+cn1952-05-01.txt,North Attle-,North Attle-,1
+cn1952-05-01.txt,Wauwatosa,Wauwatosa,1
+cn1952-05-01.txt,Wis.,Wisconsin,1
+cn1952-05-01.txt,Concord,Concord,1
+cn1952-05-01.txt,North Muskegon,North Muskegon,1
+cn1952-05-01.txt,Albany,Albany,1
+cn1952-05-01.txt,Little Neck,Little Neck,1
+cn1952-05-01.txt,N. Y,New York,1
+cn1952-05-01.txt,St. Joseph,St. Joseph,1
+cn1952-05-01.txt,Stanwood,Stanwood,1
+cn1952-05-01.txt,Michigan,Michigan,1
+cn1952-05-01.txt,Okla-,Oklahoma,1
+cn1952-05-01.txt,Okla.,Oklahoma,1
+cn1952-05-01.txt,Sharon,Sharon,2
+cn1952-05-01.txt,Palo Alto,Palo Alto,1
+cn1952-05-01.txt,Clinton,Clinton,1
+cn1952-05-01.txt,Colchester,Colchester,1
+cn1952-05-01.txt,EUROPE,Europe,1
+cn1952-05-01.txt,London,London,2
+cn1952-05-01.txt,NEW YORK 17,New York,1
+cn1952-05-01.txt,SHICAGO,Chicago,1
+cn1952-05-01.txt,MONTCLAIR,Montclair,1
+cn1952-05-07.txt,BRYN MAWR,Bryn Mawr,1
+cn1952-05-07.txt,PA,Pennsylvania,1
+cn1952-05-07.txt,Tamaqua,Tamaqua,3
+cn1952-05-07.txt,Haverford,Haverford,6
+cn1952-05-07.txt,Nova Scotia,Nova Scotia,1
+cn1952-05-07.txt,Rock,Rock,1
+cn1952-05-07.txt,Ardmore,Ardmore,3
+cn1952-05-07.txt,Pa.,Pennsylvania,6
+cn1952-05-07.txt,Alabama,Alabama,1
+cn1952-05-07.txt,Rome,Rome,2
+cn1952-05-07.txt,U. S,United States,1
+cn1952-05-07.txt,New York,New York,2
+cn1952-05-07.txt,the United States,United States,3
+cn1952-05-07.txt,Canada,Canada,1
+cn1952-05-07.txt,China,China,1
+cn1952-05-07.txt,Germany,Germany,1
+cn1952-05-07.txt,Bryn Mawr’s,Bryn Mawr PLURAL,1
+cn1952-05-07.txt,U.S.S.R.,Soviet Union,2
+cn1952-05-07.txt,The United States,United States,1
+cn1952-05-07.txt,United States,United States,1
+cn1952-05-07.txt,Bryn Mawr,Bryn Mawr,4
+cn1952-05-07.txt,Holyoke,Holyoke,1
+cn1952-05-07.txt,East Bengal,East Bengal,1
+cn1952-05-07.txt,Pakistan,Pakistan,1
+cn1952-05-07.txt,Italy,Italy,2
+cn1952-05-07.txt,Naples,Naples,1
+cn1952-05-07.txt,Czechoslovakia,Czechoslovakia,1
+cn1952-05-07.txt,phia,phia,1
+cn1952-05-07.txt,Philadelphia,Philadelphia,2
+cn1952-05-07.txt,Chicopee,Chicopee,1
+cn1952-05-07.txt,Lewisburg,Lewisburg,2
+cn1952-05-07.txt,Delaware County,Delaware County,1
+cn1952-05-07.txt,Drexel Hill,Drexel Hill,1
+cn1952-05-07.txt,Quantico,Quantico,1
+cn1952-05-07.txt,Virginia,Virginia,1
+cn1952-05-07.txt,Litchfield,Litchfield,1
+cn1952-05-07.txt,Connecticut,Connecticut,2
+cn1952-05-07.txt,Black Point,Black Point,1
+cn1952-05-07.txt,Windsor,Windsor,1
+cn1952-05-07.txt,Vermont,Vermont,1
+cn1952-05-07.txt,CHESTERFIELD,Chesterfield,1
+cn1952-06-03.txt,PA,Pennsylvania,1
+cn1952-06-03.txt,Pennsylvania,Pennsylvania,37
+cn1952-06-03.txt,New York,New York,34
+cn1952-06-03.txt,Maryland,Maryland,8
+cn1952-06-03.txt,China,China,3
+cn1952-06-03.txt,Ohio,Ohio,11
+cn1952-06-03.txt,Florida,Florida,1
+cn1952-06-03.txt,Tennes-  see ‘ >,Tennes-  see ‘ >,1
+cn1952-06-03.txt,Massachusetts,Massachusetts,6
+cn1952-06-03.txt,Illinois,Illinois,4
+cn1952-06-03.txt,Virginia,Virginia,5
+cn1952-06-03.txt,Indiana,Indiana,2
+cn1952-06-03.txt,Connecticut,Connecticut,4
+cn1952-06-03.txt,Pennsyl-  vania  Mary,Pennsyl-  vania  Mary,1
+cn1952-06-03.txt,New Jersey,New Jersey,8
+cn1952-06-03.txt,the District of Columbia  Barbara,the District of Columbia  Barbara,1
+cn1952-06-03.txt,Massachu- setts  Elizabeth,Massachu- setts  Elizabeth,1
+cn1952-06-03.txt,Japan,Japan,1
+cn1952-06-03.txt,New,New UNKNOWN,6
+cn1952-06-03.txt,Paris,Paris,2
+cn1952-06-03.txt,Philadei- phia,Philadei- phia,1
+cn1952-06-03.txt,Ipoh,Ipoh,1
+cn1952-06-03.txt,Malaya,Malaya,1
+cn1952-06-03.txt,New York City,New York City,3
+cn1952-06-03.txt,Darby,Darby,1
+cn1952-06-03.txt,Montreal,Montreal,1
+cn1952-06-03.txt,Que- bec,Que- bec,1
+cn1952-06-03.txt,Canada,Canada,3
+cn1952-06-03.txt,Cairo,Cairo,1
+cn1952-06-03.txt,Egypt,Egypt,1
+cn1952-06-03.txt,Ardmore,Ardmore,3
+cn1952-06-03.txt,Pa.,Pennsylvania,3
+cn1952-06-03.txt,Glen Cove,Glen Cove,1
+cn1952-06-03.txt,Glen Cove—4,Glen Cove,1
+cn1952-06-03.txt,NYC,New York City,1
+cn1952-06-03.txt,Ashland,Ashland,2
+cn1952-06-03.txt,Va.,Virginia,2
+cn1952-06-03.txt,Pasadena,Pasadena,1
+cn1952-06-03.txt,Calif.,California,1
+cn1952-06-03.txt,Cambridge,Cambridge,1
+cn1952-06-03.txt,Mass.,Massachusetts,1
+cn1952-06-03.txt,University City,University City,1
+cn1952-06-03.txt,Mo.,Missouri,1
+cn1952-06-03.txt,Brooklyn,Brooklyn,2
+cn1952-06-03.txt,N. Y.,New York,1
+cn1952-06-03.txt,Norfolk,Norfolk,1
+cn1952-06-03.txt,Edmond- ton,Edmond- ton,1
+cn1952-06-03.txt,Alberta,Alberta,2
+cn1952-06-03.txt,Belmont,Belmont,1
+cn1952-06-03.txt,Philadel- phia,Philadelphia,3
+cn1952-06-03.txt,Dunwoody,Dunwoody,1
+cn1952-06-03.txt,Georgia,Georgia,3
+cn1952-06-03.txt,To- ronto,To- ronto,1
+cn1952-06-03.txt,Ontario,Ontario,1
+cn1952-06-03.txt,King of Prussia,King of Prussia,1
+cn1952-06-03.txt,Fort,Fort,1
+cn1952-06-03.txt,Telford,Belford,1
+cn1952-06-03.txt,Phila-,Philadelphia,1
+cn1952-06-03.txt,Cynwyd,Cynwyd,1
+cn1952-06-03.txt,Bryn Mawr,Bryn Mawr,1
+cn1952-06-03.txt,Philadelphia,Philadelphia,1
+cn1952-06-03.txt,Erlton,Erlton,1
+cn1952-06-03.txt,Alexandria,Alexandria,1
+cn1952-06-03.txt,Bala-Cyn- wyd,Bala-Cyn- wyd,1
+cn1952-06-03.txt,New Bloomfield,New Bloomfield,1
+cn1952-06-03.txt,Phila- delphia,Philadelphia,1
+cn1952-06-03.txt,Wayne,Wayne,1
+cn1952-06-03.txt,Tarsus,Tarsus,1
+cn1952-06-03.txt,US,United States,1
+cn1952-06-03.txt,India,India,1
+cn1952-06-03.txt,BOSTON,Boston,1
+cn1952-06-03.txt,NEW YORK 17,New York,1
+cn1952-06-03.txt,CHICAGO,Chicago,1
+cn1952-06-03.txt,Rad-,Rad-,1
+cn1952-06-03.txt,Kentucky,Kentucky,1
+cn1952-06-03.txt,Cincin- nati,Cincin- nati,1
+cn1952-06-03.txt,Monkton,Monkton,1
+cn1952-06-03.txt,California,California,2
+cn1952-06-03.txt,Pennsyl-  vania,Pennsylvania,1
+cn1952-06-03.txt,New,New UNKNOWN,1
+cn1952-06-03.txt,Michigan,Michigan,5
+cn1952-06-03.txt,Okla- homa,Oklahoma,2
+cn1952-06-03.txt,West,West UNKNOWN,1
+cn1952-06-03.txt,Turkey,Turkey,1
+cn1952-06-03.txt,Germany,Germany,1
+cn1952-06-03.txt,Massachu- setts,Massachusetts,2
+cn1952-06-03.txt,Pennsyl- vania ‘,Pennsyl- vania ‘,1
+cn1952-06-03.txt,Missouri,Missouri,4
+cn1952-06-03.txt,West Virginia,West Virginia,1
+cn1952-06-03.txt,North Carolina,North Carolina,1
+cn1952-06-03.txt,Cuba,Cuba,1
+cn1952-06-03.txt,Pennsyl- vania,Pennsylvania,2
+cn1952-06-03.txt,Nebraska,Nebraska,1
+cn1952-06-03.txt,Oklahoma,Oklahoma,1
+cn1952-06-03.txt,Massachu-,Massachusetts,1
+cn1952-06-03.txt,Mexico,Mexico,1
+cn1952-06-03.txt,France,France,1
+cn1952-06-03.txt,Minnescta,Minnesota,1
+cn1952-06-03.txt,the District of Columbia,Washington D.C.,1
+cn1952-06-03.txt,Rhode Island,Rhode Island,1
+cn1952-06-03.txt,Pakistan,Pakistan,1
+cn1952-06-03.txt,Pennsyl- vania Sociology and Anthropology,Pennsyl- vania Sociology and Anthropology,1
+cn1952-09-28.txt,ARDMORE,Ardmore,1
+cn1952-09-28.txt,PA,Pennsylvania,1
+cn1952-09-28.txt,Chappaqua,Chappaqua,1
+cn1952-09-28.txt,New York,New York,3
+cn1952-09-28.txt,California,California,2
+cn1952-09-28.txt,Vir-,Vir-,1
+cn1952-09-28.txt,Germany,Germany,2
+cn1952-09-28.txt,Detwold,Detwold,1
+cn1952-09-28.txt,Ville,Ville UNKNOWN,2
+cn1952-09-28.txt,Philadelphia,Philadelphia,3
+cn1952-09-28.txt,Bryn Mawr,Bryn Mawr,6
+cn1952-09-28.txt,Haverford,Haverford,2
+cn1952-09-28.txt,Paoli,Paoli,1
+cn1952-09-28.txt,Berlin,Berlin,1
+cn1952-09-28.txt,Washington,Washington UNKNOWN,3
+cn1952-09-28.txt,D. C.,Washington D.C.,1
+cn1952-09-28.txt,Pakistan,Pakistan,4
+cn1952-09-28.txt,the United States,United States,1
+cn1952-09-28.txt,Ardmore,Ardmore,3
+cn1952-09-28.txt,Pa.,Pennsylvania,2
+cn1952-09-28.txt,United States,United States,4
+cn1952-09-28.txt,Rhode Island’s,Rhode Island’s,1
+cn1952-09-28.txt,Annandale,Annandale,1
+cn1952-09-28.txt,Hudson,Hudson,1
+cn1952-09-28.txt,Dallas,Dallas,1
+cn1952-09-28.txt,Texas,Texas,2
+cn1952-09-28.txt,Frankfurt,Frankfurt,1
+cn1952-09-28.txt,Rhine- beck,Rhine- beck,1
+cn1952-09-28.txt,Hyde Park,Hyde Park,1
+cn1952-09-28.txt,Great Britain,Great Britain,1
+cn1952-09-28.txt,Korea,Korea,1
+cn1952-09-28.txt,Denmark,Denmark,1
+cn1952-09-28.txt,France,France,2
+cn1952-09-28.txt,Mala-,Mala-,1
+cn1952-09-28.txt,Sweden,Sweden,1
+cn1952-09-28.txt,the Philippine,the Philippine,1
+cn1952-09-28.txt,Argentina,Argentina,1
+cn1952-09-28.txt,West Indies,West Indies,1
+cn1952-09-28.txt,Brazil,Brazil,1
+cn1952-09-28.txt,the South Atlantic States,the South Atlantic States,1
+cn1952-09-28.txt,United,United,1
+cn1952-09-28.txt,tucky,tucky,1
+cn1952-09-28.txt,Tennessee,Tennessee,1
+cn1952-09-28.txt,Alabama,Alabama,1
+cn1952-09-28.txt,Mississippi,Mississippi,1
+cn1952-09-28.txt,Maine,Maine,1
+cn1952-09-28.txt,Massachusetts,Massachusetts,1
+cn1952-09-28.txt,Rhode Island,Rhode Island,1
+cn1952-09-28.txt,Connecticut,Connecticut,1
+cn1952-09-28.txt,New Jersey,New Jersey,2
+cn1952-09-28.txt,Pennsylvania,Pennsylvania,1
+cn1952-09-28.txt,Ohio,Ohio,1
+cn1952-09-28.txt,Illinois,Illinois,1
+cn1952-09-28.txt,Michigan,Michigan,1
+cn1952-09-28.txt,Minnesota,Minnesota,1
+cn1952-09-28.txt,Missouri,Missouri,1
+cn1952-09-28.txt,Kansas,Kansas,1
+cn1952-09-28.txt,Maryland,Maryland,1
+cn1952-09-28.txt,Virginia,Virginia,1
+cn1952-09-28.txt,West Virginia,West Virginia,1
+cn1952-09-28.txt,North Carolina,North Carolina,1
+cn1952-09-28.txt,Florida,Florida,1
+cn1952-09-28.txt,Oklahoma,Oklahoma,1
+cn1952-09-28.txt,Arizona,Arizona,1
+cn1952-09-28.txt,Oregon,Oregon,1
+cn1952-09-28.txt,Bryn Mawr 5-0570,Bryn Mawr,1
+cn1952-09-28.txt,Dulany,Dulany,1
+cn1952-09-28.txt,V.,V.,1
+cn1952-09-28.txt,Philadel- phia,Philadelphia,1
+cn1952-09-28.txt,Phila- delphia,Philadelphia,1
+cn1952-09-28.txt,N.Y.,New York,1
+cn1952-09-28.txt,Culver City,Culver City,1
+cn1952-09-28.txt,Calif.,California,1
+cn1952-09-28.txt,Winston-Salem,Winston-Salem,1
+cn1952-09-28.txt,America,United States,1
+cn1952-09-28.txt,Hong,Hong,1
+cn1952-09-28.txt,Shanghai,Shanghai,1
+cn1952-09-28.txt,Hong Kong,Hong Kong,1
+cn1952-09-28.txt,Honolulu,Honolulu,1
+cn1952-09-28.txt,China,China,1
+cn1952-09-28.txt,Chesterfield,Chesterfield,1
+cn1952-10-08.txt,PA,Pennsylvania,1
+cn1952-10-08.txt,Bryn Mawr,Bryn Mawr,7
+cn1952-10-08.txt,Pakistan,Pakistan,10
+cn1952-10-08.txt,the United States,United States,4
+cn1952-10-08.txt,California,California,1
+cn1952-10-08.txt,Bonn,Bonn,1
+cn1952-10-08.txt,Leipzig,Leipzig,1
+cn1952-10-08.txt,Berlin,Berlin,1
+cn1952-10-08.txt,Frankfurt,Frankfurt,2
+cn1952-10-08.txt,Haverford,Haverford,3
+cn1952-10-08.txt,Ardmore,Ardmore,2
+cn1952-10-08.txt,Pa.,Pennsylvania,2
+cn1952-10-08.txt,Glen Cove,Glen Cove,3
+cn1952-10-08.txt,New York,New York,4
+cn1952-10-08.txt,Detvold,Detvold,1
+cn1952-10-08.txt,Germany,Germany,1
+cn1952-10-08.txt,Philadelphia,Philadelphia,3
+cn1952-10-08.txt,Russia,Russia,1
+cn1952-10-08.txt,Mt. Holyoke,Mount Holyoke College,1
+cn1952-10-08.txt,Bryn Mawr’s,Bryn Mawr PLURAL,1
+cn1952-10-08.txt,Iowa,Iowa,2
+cn1952-10-08.txt,Toulouse-Lautrec’s,Toulouse-Lautrec’s,1
+cn1952-10-08.txt,Paris,Paris,2
+cn1952-10-08.txt,Tahiti,Tahiti,1
+cn1952-10-08.txt,Tanglewood,Tanglewood,1
+cn1952-10-08.txt,New York 10,New York,1
+cn1952-10-08.txt,N. Y.,New York,1
+cn1952-10-08.txt,Winston-Salem,Winston-Salem,1
+cn1952-10-08.txt,America,United States,1
+cn1952-10-08.txt,Egypt,Egypt,1
+cn1952-10-08.txt,Rome,Rome,1
+cn1952-10-08.txt,St.,St.,1
+cn1952-10-08.txt,New,New UNKNOWN,1
+cn1952-10-08.txt,Stamford,Stamford,1
+cn1952-10-08.txt,Hoboken,Hoboken,1
+cn1952-10-08.txt,Chesterfield,Chesterfield,2
+cn1952-10-08.txt,New Jersey,New Jersey,1
+cn1952-10-08.txt,Providence,Providence,1
+cn1952-10-08.txt,R. I.,Rhode Island,1
+cn1952-10-08.txt,the New England District,the New England District,1
+cn1952-10-08.txt,Detroit,Detroit,1
+cn1952-10-08.txt,Mich.,Michigan,1
+cn1952-10-08.txt,Mo.,Missouri,1
+cn1952-10-08.txt,Kentfield,Kentfield,1
+cn1952-10-08.txt,Calif.,California,1
+cn1952-10-08.txt,West Mark,West Mark,1
+cn1952-10-15.txt,PA,Pennsylvania,1
+cn1952-10-15.txt,Pakistan,Pakistan,28
+cn1952-10-15.txt,the United States,United States,11
+cn1952-10-15.txt,U. S.,United States,1
+cn1952-10-15.txt,the Unit- ed States,United States,1
+cn1952-10-15.txt,New York,New York,5
+cn1952-10-15.txt,Swarthmore,Swarthmore,1
+cn1952-10-15.txt,the United  States,United States,1
+cn1952-10-15.txt,New,New UNKNOWN,1
+cn1952-10-15.txt,Persia,Persia,1
+cn1952-10-15.txt,India,India,4
+cn1952-10-15.txt,Ardmore,Ardmore,2
+cn1952-10-15.txt,Pa.,Pennsylvania,2
+cn1952-10-15.txt,Cairo,Cairo,4
+cn1952-10-15.txt,Egypt,Egypt,9
+cn1952-10-15.txt,America,United States,3
+cn1952-10-15.txt,Nagib,Nagib,1
+cn1952-10-15.txt,Ger-,Ger-,1
+cn1952-10-15.txt,Russia,Russia,1
+cn1952-10-15.txt,Dulles,Dulles,1
+cn1952-10-15.txt,Germany,Germany,2
+cn1952-10-15.txt,Leipzig,Leipzig,1
+cn1952-10-15.txt,Haverford,Haverford,2
+cn1952-10-15.txt,Bryn Mawr,Bryn Mawr,2
+cn1952-10-15.txt,Buenos Aires,Buenos Aires,2
+cn1952-10-15.txt,New Orleans,New Orleans,2
+cn1952-10-15.txt,Argentina,Argentina,1
+cn1952-10-15.txt,Virginia,Virginia,2
+cn1952-10-15.txt,Phila- delphia,Philadelphia,1
+cn1952-10-15.txt,France,France,1
+cn1952-10-15.txt,Paris,Paris,1
+cn1952-10-15.txt,Brooklyn,Brooklyn,1
+cn1952-10-15.txt,bigh,bigh,1
+cn1952-10-15.txt,Pakis- tan,Pakis- tan,1
+cn1952-10-15.txt,East,East,1
+cn1952-10-15.txt,Judaism,Judaism,1
+cn1952-10-15.txt,Czecho- slovakia,Czechoslovakia,1
+cn1952-10-15.txt,Yugoslavia,Yugoslavia,1
+cn1952-10-15.txt,N. J.,New Jersey,2
+cn1952-10-15.txt,Princeton,Princeton,3
+cn1952-10-15.txt,Los Angeles 27,Los Angeles,1
+cn1952-10-15.txt,California,California,1
+cn1952-10-15.txt,New York City,New York City,1
+cn1952-10-15.txt,Mecea,Mecea,1
+cn1952-10-15.txt,New York 22,New York,1
+cn1952-10-15.txt,N. Y.,New York,1
+cn1952-10-15.txt,Jersey,Jersey UKNOWN,1
+cn1952-10-15.txt,New Jersey,New Jersey,1
+cn1952-10-15.txt,Washington,Washington UNKNOWN,1
+cn1952-10-15.txt,D. C.,Washington D.C.,1
+cn1952-10-15.txt,Texas,Texas,1
+cn1952-10-15.txt,Winston-Salem,Winston-Salem,1
+cn1952-10-15.txt,N. C.,North Carolina,1
+cn1952-10-22.txt,PA,Pennsylvania,1
+cn1952-10-22.txt,Berlin,Berlin,1
+cn1952-10-22.txt,Pakistan,Pakistan,1
+cn1952-10-22.txt,Shipley,Shipley,1
+cn1952-10-22.txt,Philadelphia,Philadelphia,2
+cn1952-10-22.txt,Haverford,Haverford,3
+cn1952-10-22.txt,Ardmore,Ardmore,2
+cn1952-10-22.txt,Pa.,Pennsylvania,3
+cn1952-10-22.txt,Bryn Mawr,Bryn Mawr,7
+cn1952-10-22.txt,China,China,1
+cn1952-10-22.txt,the United States,United States,4
+cn1952-10-22.txt,Korea,Korea,3
+cn1952-10-22.txt,North Korea,North Korea,1
+cn1952-10-22.txt,Egypt,Egypt,2
+cn1952-10-22.txt,Great Britain,Great Britain,1
+cn1952-10-22.txt,Germany,Germany,1
+cn1952-10-22.txt,RI,Rhode Island,1
+cn1952-10-22.txt,Lebanon,Lebanon,1
+cn1952-10-22.txt,France,France,1
+cn1952-10-22.txt,Rome,Rome,1
+cn1952-10-22.txt,COOPERSTOWN,Cooperstown,1
+cn1952-10-22.txt,N.Y.,New York,1
+cn1952-10-22.txt,ARDMORE,Ardmore,1
+cn1952-10-22.txt,England,England,1
+cn1952-10-22.txt,America,United States,1
+cn1952-10-22.txt,Winston-Salem,Winston-Salem,1
+cn1952-10-22.txt,N. C.,North Carolina,1
+cn1952-10-29.txt,PA,Pennsylvania,1
+cn1952-10-29.txt,the United States,United States,3
+cn1952-10-29.txt,Ireland,Ireland,2
+cn1952-10-29.txt,Spain,Spain,2
+cn1952-10-29.txt,Austria,Austria,1
+cn1952-10-29.txt,France,France,3
+cn1952-10-29.txt,Washington,Washington UNKNOWN,3
+cn1952-10-29.txt,Dallas,Dallas,1
+cn1952-10-29.txt,Rock,Rock,1
+cn1952-10-29.txt,Missouri,Missouri,1
+cn1952-10-29.txt,Britain,Britain,1
+cn1952-10-29.txt,Boston,Boston,2
+cn1952-10-29.txt,India,India,1
+cn1952-10-29.txt,Ardmore,Ardmore,2
+cn1952-10-29.txt,Pa.,Pennsylvania,2
+cn1952-10-29.txt,England,England,3
+cn1952-10-29.txt,Bryn Mawr,Bryn Mawr,1
+cn1952-10-29.txt,Stratford,Stratford,1
+cn1952-10-29.txt,America,United States,4
+cn1952-10-29.txt,Kasson,Kasson,1
+cn1952-10-29.txt,Minnesota,Minnesota,1
+cn1952-10-29.txt,Lou-,Lou-,1
+cn1952-10-29.txt,Texas,Texas,2
+cn1952-10-29.txt,Louisiana,Louisiana,1
+cn1952-10-29.txt,Iilinois,Illinois,1
+cn1952-10-29.txt,New York,New York,1
+cn1952-10-29.txt,Korea,Korea,3
+cn1952-10-29.txt,Israel,Israel,1
+cn1952-10-29.txt,the Arab States’,Arab States,1
+cn1952-10-29.txt,Russia,Russia,1
+cn1952-10-29.txt,the United States of Amer-,the United States of Amer-,1
+cn1952-10-29.txt,D. C.,Washington D.C.,1
+cn1952-11-05.txt,PA,Pennsylvania,2
+cn1952-11-05.txt,Cairo,Cairo,8
+cn1952-11-05.txt,New York City,New York City,2
+cn1952-11-05.txt,Bryn Mawr,Bryn Mawr,5
+cn1952-11-05.txt,Haverford,Haverford,2
+cn1952-11-05.txt,Pa.,Pennsylvania,3
+cn1952-11-05.txt,Ardmore,Ardmore,1
+cn1952-11-05.txt,the United States,United States,3
+cn1952-11-05.txt,Norristown,Norristown,1
+cn1952-11-05.txt,America,United States,5
+cn1952-11-05.txt,Japan,Japan,1
+cn1952-11-05.txt,Philadelphia,Philadelphia,3
+cn1952-11-05.txt,London,London,1
+cn1952-11-05.txt,Hollywood,Hollywood,1
+cn1952-11-05.txt,United States,United States,1
+cn1952-11-05.txt,Germany,Germany,1
+cn1952-11-05.txt,Pennsylvania,Pennsylvania,1
+cn1952-11-05.txt,Phila- delphia’s,Phila- delphia’s,1
+cn1952-11-05.txt,North Carolina,North Carolina,1
+cn1952-11-05.txt,Kezar Falls,Kezar Falls,1
+cn1952-11-05.txt,Maine,Maine,1
+cn1952-11-05.txt,NEW YORK,New York,1
+cn1952-11-05.txt,Abil- lene,Abil- lene,1
+cn1952-11-05.txt,Kansas,Kansas,1
+cn1952-11-05.txt,Korea,Korea,2
+cn1952-11-05.txt,China,China,1
+cn1952-11-05.txt,Russia,Russia,1
+cn1952-11-05.txt,Moscow,Moscow,1
+cn1952-11-05.txt,New York 10,New York,1
+cn1952-11-05.txt,N. Y.,New York,1
+cn1952-11-05.txt,Chicago,Chicago,1
+cn1952-11-05.txt,St. Louis,St. Louis,1
+cn1952-11-05.txt,Richmond,Richmond,1
+cn1952-11-05.txt,New York State,New York,2
+cn1952-11-05.txt,New,New UNKNOWN,1
+cn1952-11-12.txt,PA,Pennsylvania,2
+cn1952-11-12.txt,Philadelphia,Philadelphia,5
+cn1952-11-12.txt,Beaufort,Beaufort,1
+cn1952-11-12.txt,South Carolina,South Carolina,1
+cn1952-11-12.txt,Haver- ford,Haverford,1
+cn1952-11-12.txt,Bryn Mawr,Bryn Mawr,9
+cn1952-11-12.txt,Pa.,Pennsylvania,4
+cn1952-11-12.txt,Ardmore,Ardmore,1
+cn1952-11-12.txt,the United States,United States,1
+cn1952-11-12.txt,Merion Township,Merion Township,1
+cn1952-11-12.txt,Chicago,Chicago,1
+cn1952-11-12.txt,Washington,Washington UNKNOWN,1
+cn1952-11-12.txt,Wisconsin,Wisconsin,1
+cn1952-11-12.txt,Luxor,Luxor,1
+cn1952-11-12.txt,Karnak,Karnak,1
+cn1952-11-12.txt,LI,LI UNKNOWN,2
+cn1952-11-12.txt,RI,Rhode Island,1
+cn1952-11-12.txt,the United States of America,United States,1
+cn1952-11-12.txt,U. S.,United States,1
+cn1952-11-12.txt,Bryn Mawr’s,Bryn Mawr PLURAL,1
+cn1952-11-12.txt,Surrey,Surrey,1
+cn1952-11-12.txt,England,England,2
+cn1952-11-12.txt,Britain,Britain,1
+cn1952-11-12.txt,America,United States,2
+cn1952-11-12.txt,NEW YORK,New York,2
+cn1952-11-12.txt,Pa,Pennsylvania,1
+cn1952-11-12.txt,MANHASSET,Manhasset,1
+cn1952-11-12.txt,ARDMORE,Ardmore,1
+cn1952-11-12.txt,Paris,Paris,5
+cn1952-11-12.txt,Monmartre,Montmartre,1
+cn1952-11-12.txt,London,London,1
+cn1952-11-12.txt,U.S.F.,U.S.F.,1
+cn1952-11-12.txt,Mallinckrodt,Mallinckrodt,1
+cn1952-11-19.txt,BRYN MAWR,Bryn Mawr,1
+cn1952-11-19.txt,PA,Pennsylvania,1
+cn1952-11-19.txt,Yugoslavia,Yugoslavia,2
+cn1952-11-19.txt,U.S.,United States,2
+cn1952-11-19.txt,Park,Park,1
+cn1952-11-19.txt,the United States,United States,6
+cn1952-11-19.txt,The United States,United States,2
+cn1952-11-19.txt,New York,New York,3
+cn1952-11-19.txt,London,London,1
+cn1952-11-19.txt,Ardmore,Ardmore,2
+cn1952-11-19.txt,Pa.,Pennsylvania,4
+cn1952-11-19.txt,Bryn Mawr,Bryn Mawr,5
+cn1952-11-19.txt,America,United States,4
+cn1952-11-19.txt,Russia,Russia,5
+cn1952-11-19.txt,France,France,3
+cn1952-11-19.txt,Indo-China,Indochina,1
+cn1952-11-19.txt,Korea,Korea,1
+cn1952-11-19.txt,England,England,5
+cn1952-11-19.txt,Tunis,Tunis,1
+cn1952-11-19.txt,Italy,Italy,1
+cn1952-11-19.txt,the U. S.,United States,1
+cn1952-11-19.txt,the United,United States,2
+cn1952-11-19.txt,Philadelphia,Philadelphia,2
+cn1952-11-19.txt,the Student City,the Student City,1
+cn1952-11-19.txt,Zagreb,Zagreb,2
+cn1952-11-19.txt,Dubrava,Dubrava,1
+cn1952-11-19.txt,Rijeka,Rijeka,1
+cn1952-11-19.txt,Sweden,Sweden,1
+cn1952-11-19.txt,Norway,Norway,1
+cn1952-11-19.txt,Denmark,Denmark,1
+cn1952-11-19.txt,Birmingham,Birmingham,2
+cn1952-11-19.txt,Kngland,England,1
+cn1952-11-19.txt,Haverford,Haverford,2
+cn1952-11-19.txt,Australia,Australia,2
+cn1952-11-19.txt,New Zealand,New Zealand,1
+cn1952-11-19.txt,Japan,Japan,3
+cn1952-11-19.txt,Philippines,Philippines,1
+cn1952-11-19.txt,China,China,1
+cn1952-11-19.txt,Austra- lia,Austra- lia,1
+cn1952-11-19.txt,Princeton,Princeton,3
+cn1952-11-19.txt,N. J.,New Jersey,1
+cn1952-11-19.txt,United,United,1
+cn1952-11-19.txt,New,New UNKNOWN,1
+cn1952-11-19.txt,Jersey,Jersey UKNOWN,1
+cn1952-11-19.txt,Staunton,Staunton,1
+cn1952-11-19.txt,Virginia,Virginia,1
+cn1952-11-19.txt,HAVERFORD,Haverford,1
+cn1952-11-19.txt,NEW YORK,New York,2
+cn1952-11-19.txt,MEXICO,Mexico,1
+cn1952-11-19.txt,Mexico,Mexico,1
+cn1952-11-19.txt,Kezar Falls,Kezar Falls,1
+cn1952-11-19.txt,Maine,Maine,1
+cn1952-11-19.txt,United States,United States,2
+cn1952-12-03.txt,BRYN MAWR,Bryn Mawr,1
+cn1952-12-03.txt,PA,Pennsylvania,1
+cn1952-12-03.txt,Paris,Paris,1
+cn1952-12-03.txt,Bryn Mawr,Bryn Mawr,4
+cn1952-12-03.txt,Haverford,Haverford,4
+cn1952-12-03.txt,Ardmore,Ardmore,2
+cn1952-12-03.txt,Pa.,Pennsylvania,3
+cn1952-12-03.txt,South Africa,South Africa,2
+cn1952-12-03.txt,Philippines,Philippines,1
+cn1952-12-03.txt,the United States,United States,4
+cn1952-12-03.txt,India,India,1
+cn1952-12-03.txt,the Indonesian Republic,the Indonesian Republic,1
+cn1952-12-03.txt,Kenya,Kenya,2
+cn1952-12-03.txt,Natal,Natal,1
+cn1952-12-03.txt,England,England,1
+cn1952-12-03.txt,the Soviet Union,Soviet Union,2
+cn1952-12-03.txt,Moscow,Moscow,2
+cn1952-12-03.txt,Russia,Russia,4
+cn1952-12-03.txt,Germany,Germany,1
+cn1952-12-03.txt,Japan,Japan,1
+cn1952-12-03.txt,Italy,Italy,1
+cn1952-12-03.txt,Berlin,Berlin,1
+cn1952-12-03.txt,Korea,Korea,5
+cn1952-12-03.txt,France,France,1
+cn1952-12-03.txt,Philadelphia,Philadelphia,7
+cn1952-12-03.txt,Phila-,Philadelphia,1
+cn1952-12-03.txt,Yugosiavia,Yugosiavia,1
+cn1952-12-03.txt,Zagreb,Zagreb,2
+cn1952-12-03.txt,New York,New York,3
+cn1952-12-03.txt,Yugoslavia,Yugoslavia,6
+cn1952-12-03.txt,Egypt,Egypt,3
+cn1952-12-03.txt,Cairo,Cairo,2
+cn1952-12-03.txt,Hollywood,Hollywood,1
+cn1952-12-03.txt,Pennsylvania,Pennsylvania,1
+cn1952-12-03.txt,Colorado,Colorado,1
+cn1952-12-03.txt,Chi- eago,Chi- eago,1
+cn1952-12-03.txt,Denver,Denver,1
+cn1952-12-03.txt,New,New UNKNOWN,1
+cn1952-12-03.txt,Mexico,Mexico,1
+cn1952-12-03.txt,the  Soviet Union,Soviet Union,1
+cn1952-12-03.txt,BRyn Mawr,Bryn Mawr,1
+cn1952-12-03.txt,Kezar Falls,Kezar Falls,1
+cn1952-12-03.txt,Maine,Maine,1
+cn1952-12-03.txt,Elsinore,Elsinore,1
+cn1952-12-03.txt,United States,United States,1
+cn1952-12-03.txt,the U. of Minnesota,the U. of Minnesota,1
+cn1952-12-03.txt,New Orleans,New Orleans,1
+cn1952-12-03.txt,Birmingham,Birmingham,1
+cn1952-12-03.txt,CHESTER- FIELD,CHESTER- FIELD,1
+cn1952-12-03.txt,Pa,Pennsylvania,1
+cn1952-12-03.txt,Norristown,Norristown,1
+cn1952-12-10.txt,ARDMORE,Ardmore,2
+cn1952-12-10.txt,BRYN MAWR,Bryn Mawr,1
+cn1952-12-10.txt,PA,Pennsylvania,1
+cn1952-12-10.txt,Bryn Mawr,Bryn Mawr,5
+cn1952-12-10.txt,Ardmore,Ardmore,2
+cn1952-12-10.txt,Pa.,Pennsylvania,3
+cn1952-12-10.txt,the United,United States,1
+cn1952-12-10.txt,New York,New York,3
+cn1952-12-10.txt,Morocco,Morocco,1
+cn1952-12-10.txt,Tuni-,Tuni-,1
+cn1952-12-10.txt,France,France,2
+cn1952-12-10.txt,Muncey,Muncey,1
+cn1952-12-10.txt,Indiana,Indiana,1
+cn1952-12-10.txt,Haverford,Haverford,2
+cn1952-12-10.txt,Philadelphia,Philadelphia,1
+cn1952-12-10.txt,Rome,Rome,1
+cn1952-12-10.txt,HADLEYs,HADLEYs,1
+cn1952-12-10.txt,LATIN AMERICA,LATIN AMERICA,1
+cn1952-12-10.txt,MEXICO,Mexico,1
+cn1952-12-10.txt,Mexico,Mexico,1
+cn1952-12-10.txt,NEW YORK,New York,1
+cn1952-12-10.txt,Breoklyn 9,Brooklyn,1
+cn1952-12-10.txt,N.Y.,New York,1
+cn1952-12-10.txt,Kezar Falls,Kezar Falls,1
+cn1952-12-10.txt,Maine,Maine,1
+cn1952-12-17.txt,ARDMORE,Ardmore,1
+cn1952-12-17.txt,BRYN MAWR,Bryn Mawr,1
+cn1952-12-17.txt,PA,Pennsylvania,1
+cn1952-12-17.txt,Bryn Mawr,Bryn Mawr,5
+cn1952-12-17.txt,Boston,Boston,1
+cn1952-12-17.txt,United States,United States,3
+cn1952-12-17.txt,Russia,Russia,2
+cn1952-12-17.txt,the United States,United States,3
+cn1952-12-17.txt,Haverford,Haverford,2
+cn1952-12-17.txt,Ardmore,Ardmore,2
+cn1952-12-17.txt,Pa.,Pennsylvania,4
+cn1952-12-17.txt,Philadelphia,Philadelphia,3
+cn1952-12-17.txt,Kansas,Kansas,1
+cn1952-12-17.txt,Missouri,Missouri,1
+cn1952-12-17.txt,Nebraska,Nebraska,1
+cn1952-12-17.txt,Louisiana,Louisiana,1
+cn1952-12-17.txt,New,New UNKNOWN,1
+cn1952-12-17.txt,Mexico,Mexico,1
+cn1952-12-17.txt,Oklahoma,Oklahoma,1
+cn1952-12-17.txt,Texas,Texas,1
+cn1952-12-17.txt,California,California,1
+cn1952-12-17.txt,Oregon,Oregon,1
+cn1952-12-17.txt,Washington,Washington UNKNOWN,2
+cn1952-12-17.txt,Bryn Mawr,Bryn Mawr,1
+cn1952-12-17.txt,Phila-  ee,Phila-  ee,1
+cn1952-12-17.txt,Pennsylvania,Pennsylvania,1
+cn1952-12-17.txt,Crabbe,Crabbe,1
+cn1952-12-17.txt,Italy,Italy,1
+cn1952-12-17.txt,France,France,2
+cn1952-12-17.txt,oryn Mawr,Bryn Mawr,1
+cn1952-12-17.txt,Magnitogorsk,Magnitogorsk,1
+cn1952-12-17.txt,Moscow,Moscow,1
+cn1952-12-17.txt,the Soviet Union,Soviet Union,1
+cn1952-12-17.txt,Stockholm,Stockholm,1
+cn1952-12-17.txt,N. Y.,New York,1
+cn1952-12-17.txt,New York,New York,1
+cn1952-12-17.txt,"U. S. Foreign Policy,  (",United States,1
+cn1952-12-17.txt,D. C.,Washington D.C.,1
+cn1952-12-17.txt,Sein Mawr,Sein Mawr,1
+cn1952-12-17.txt,Rome,Rome,1
+cn1952-12-17.txt,Chesterfield,Chesterfield,3
+cn1953-01-14.txt,PA,Pennsylvania,1
+cn1953-01-14.txt,New York,New York,2
+cn1953-01-14.txt,the United States,United States,7
+cn1953-01-14.txt,Oklahoma,Oklahoma,2
+cn1953-01-14.txt,Berlin,Berlin,1
+cn1953-01-14.txt,Majorca,Majorca,1
+cn1953-01-14.txt,Spain,Spain,2
+cn1953-01-14.txt,United States,United States,1
+cn1953-01-14.txt,Rome,Rome,1
+cn1953-01-14.txt,Louisville,Louisville,1
+cn1953-01-14.txt,Lebanon,Lebanon,1
+cn1953-01-14.txt,Florence,Florence,1
+cn1953-01-14.txt,Bryn Mawr,Bryn Mawr,2
+cn1953-01-14.txt,Haverford,Haverford,2
+cn1953-01-14.txt,Swarthmore,Swarthmore,1
+cn1953-01-14.txt,Bryn Mawr’s,Bryn Mawr PLURAL,1
+cn1953-01-14.txt,Ardmore,Ardmore,2
+cn1953-01-14.txt,Pa.,Pennsylvania,3
+cn1953-01-14.txt,Geneva,Geneva,1
+cn1953-01-14.txt,Washington,Washington UNKNOWN,1
+cn1953-01-14.txt,the Soviet Union,Soviet Union,3
+cn1953-01-14.txt,Philadelphia,Philadelphia,1
+cn1953-01-14.txt,America,United States,9
+cn1953-01-14.txt,Kiev,Kiev,1
+cn1953-01-14.txt,Russia,Russia,1
+cn1953-01-14.txt,Hollywood,Hollywood,1
+cn1953-01-14.txt,Paris,Paris,1
+cn1953-01-14.txt,Buenos Aires,Buenos Aires,1
+cn1953-01-14.txt,Egypt,Egypt,7
+cn1953-01-14.txt,England,England,1
+cn1953-01-14.txt,Naguib,Naguib,1
+cn1953-01-14.txt,U.S.,United States,1
+cn1953-01-14.txt,France,France,3
+cn1953-01-14.txt,Tours,Tours,1
+cn1953-01-14.txt,Chinon,Chinon,1
+cn1953-01-14.txt,RIDGWAY,RIDGWAY,1
+cn1953-01-14.txt,AMERICA,United States,1
+cn1953-01-14.txt,ARDMORE,Ardmore,1
+cn1953-01-14.txt,Phila- delphia,Philadelphia,1
+cn1953-01-14.txt,Chesterfield,Chesterfield,3
+cn1953-01-14.txt,NEW YORK,New York,1
+cn1953-01-14.txt,N. Y.,New York,1
+cn1953-02-18.txt,ARDMORE,Ardmore,1
+cn1953-02-18.txt,BRYN MAWR,Bryn Mawr,1
+cn1953-02-18.txt,PA,Pennsylvania,1
+cn1953-02-18.txt,San Francisco,San Francisco,1
+cn1953-02-18.txt,California,California,1
+cn1953-02-18.txt,Ardmore,Ardmore,2
+cn1953-02-18.txt,Pa.,Pennsylvania,4
+cn1953-02-18.txt,Cairo,Cairo,2
+cn1953-02-18.txt,The United States,United States,1
+cn1953-02-18.txt,Spain,Spain,2
+cn1953-02-18.txt,Bryn Mawr,Bryn Mawr,2
+cn1953-02-18.txt,Tours,Tours,1
+cn1953-02-18.txt,Paris,Paris,4
+cn1953-02-18.txt,France,France,7
+cn1953-02-18.txt,the U. S.,United States,2
+cn1953-02-18.txt,Hollywood,Hollywood,1
+cn1953-02-18.txt,America,United States,6
+cn1953-02-18.txt,New York,New York,8
+cn1953-02-18.txt,Cathay,Cathay,1
+cn1953-02-18.txt,Italy,Italy,1
+cn1953-02-18.txt,Lyons,Lyons,1
+cn1953-02-18.txt,Portugal,Portugal,1
+cn1953-02-18.txt,Florence,Florence,1
+cn1953-02-18.txt,South Carolina,South Carolina,1
+cn1953-02-18.txt,New,New UNKNOWN,1
+cn1953-02-18.txt,Angouleme,Angouleme,1
+cn1953-02-18.txt,The United States and,United States,1
+cn1953-02-18.txt,England,England,2
+cn1953-02-18.txt,Boston,Boston,4
+cn1953-02-18.txt,Salem,Salem,6
+cn1953-02-18.txt,HAVERFORD,Haverford,1
+cn1953-02-18.txt,Haverford,Haverford,2
+cn1953-02-18.txt,Nova Scotia,Nova Scotia,1
+cn1953-02-18.txt,Florida,Florida,1
+cn1953-02-18.txt,New York 16,New York,1
+cn1953-02-18.txt,N. Y.,New York,1
+cn1953-02-18.txt,Bryn Mawr’s,Bryn Mawr PLURAL,1
+cn1953-02-18.txt,MEXICO,Mexico,1
+cn1953-02-18.txt,United States Eco- nomic Foreign Policy Aid or,United States Eco- nomic Foreign Policy Aid or,1
+cn1953-02-18.txt,New Zealand,New Zealand,1
+cn1953-02-18.txt,New York 3,New York,1
+cn1953-02-18.txt,Maine,Maine,1
+cn1953-02-18.txt,Belmar,Belmar,1
+cn1953-02-18.txt,New Jersey,New Jersey,3
+cn1953-02-18.txt,Newark,Newark,1
+cn1953-02-18.txt,New Brufis-,New Brufis-,1
+cn1953-02-18.txt,United,United,1
+cn1953-02-18.txt,Chesterfield,Chesterfield,2
+cn1953-02-25.txt,PA,Pennsylvania,1
+cn1953-02-25.txt,United States,United States,1
+cn1953-02-25.txt,Bryn Mawr,Bryn Mawr,4
+cn1953-02-25.txt,Pasadena,Pasadena,1
+cn1953-02-25.txt,California,California,1
+cn1953-02-25.txt,Ardmore,Ardmore,2
+cn1953-02-25.txt,Pa.,Pennsylvania,3
+cn1953-02-25.txt,New York,New York,1
+cn1953-02-25.txt,Benelux,Benelux,1
+cn1953-02-25.txt,Yalta,Yalta,1
+cn1953-02-25.txt,the United States,United States,1
+cn1953-02-25.txt,Russia,Russia,2
+cn1953-02-25.txt,the Soviet Union,Soviet Union,1
+cn1953-02-25.txt,China,China,1
+cn1953-02-25.txt,France,France,5
+cn1953-02-25.txt,Rall,Rall,1
+cn1953-02-25.txt,Germany,Germany,1
+cn1953-02-25.txt,Spain,Spain,1
+cn1953-02-25.txt,Haverford,Haverford,1
+cn1953-02-25.txt,Montego Bay,Montego Bay,1
+cn1953-02-25.txt,Jamaica,Jamaica,2
+cn1953-02-25.txt,B.W.,B.W.,1
+cn1953-02-25.txt,ARDMORE,Ardmore,1
+cn1953-02-25.txt,America,United States,1
+cn1953-02-25.txt,New York 17,New York,1
+cn1953-02-25.txt,N. Y.,New York,1
+cn1953-02-25.txt,Chesterfield,Chesterfield,2
+cn1953-03-04.txt,ARDMORE,Ardmore,1
+cn1953-03-04.txt,BRYN MAWR,Bryn Mawr,1
+cn1953-03-04.txt,PA,Pennsylvania,1
+cn1953-03-04.txt,New York,New York,2
+cn1953-03-04.txt,Bryn Mawr,Bryn Mawr,10
+cn1953-03-04.txt,France,France,2
+cn1953-03-04.txt,New Orleans,New Orleans,2
+cn1953-03-04.txt,Washington,Washington UNKNOWN,4
+cn1953-03-04.txt,Bryn Mawr’s,Bryn Mawr PLURAL,4
+cn1953-03-04.txt,Ardmore,Ardmore,2
+cn1953-03-04.txt,Pa.,Pennsylvania,6
+cn1953-03-04.txt,Japan,Japan,3
+cn1953-03-04.txt,the United States,United States,5
+cn1953-03-04.txt,Sapparo,Sapparo,1
+cn1953-03-04.txt,Tokyo,Tokyo,1
+cn1953-03-04.txt,Jap- an,Jap- an,1
+cn1953-03-04.txt,Mitaka,Mitaka,1
+cn1953-03-04.txt,Canada,Canada,1
+cn1953-03-04.txt,Harrisburg,Harrisburg,2
+cn1953-03-04.txt,Philadelphia,Philadelphia,2
+cn1953-03-04.txt,Pittsburgh,Pittsburgh,1
+cn1953-03-04.txt,Wilkes-Barre,Wilkes-Barre,1
+cn1953-03-04.txt,Harris- burg,Harris- burg,1
+cn1953-03-04.txt,Delaware,Delaware,1
+cn1953-03-04.txt,Beav-,Beav-,1
+cn1953-03-04.txt,Fayette,Fayette,1
+cn1953-03-04.txt,Cambria,Cambria,1
+cn1953-03-04.txt,Wash- ington,Washington UNKNOWN,1
+cn1953-03-04.txt,Adams,Adams,1
+cn1953-03-04.txt,Bedford,Bedford,1
+cn1953-03-04.txt,ford,ford UNKNOWN,1
+cn1953-03-04.txt,Clearfield,Clearfield,1
+cn1953-03-04.txt,Columbia,Columbia,1
+cn1953-03-04.txt,Tioga,Tioga,1
+cn1953-03-04.txt,ingdon,ingdon,1
+cn1953-03-04.txt,Indiana,Indiana,1
+cn1953-03-04.txt,Lycoming,Lycoming,1
+cn1953-03-04.txt,Mifflin,Mifflin,1
+cn1953-03-04.txt,Chester,Chester,1
+cn1953-03-04.txt,Wil-  mington,Wil-  mington,1
+cn1953-03-04.txt,China,China,1
+cn1953-03-04.txt,America,United States,2
+cn1953-03-04.txt,U. S.,United States,1
+cn1953-03-04.txt,Atlanta,Atlanta,1
+cn1953-03-04.txt,Boston,Boston,3
+cn1953-03-04.txt,Cincinnati,Cincinnati,1
+cn1953-03-04.txt,Dallas,Dallas,1
+cn1953-03-04.txt,Denver,Denver,1
+cn1953-03-04.txt,Detroit,Detroit,1
+cn1953-03-04.txt,Honolulu,Honolulu,1
+cn1953-03-04.txt,Los Angeles,Los Angeles,1
+cn1953-03-04.txt,St. Louis,St. Louis,1
+cn1953-03-04.txt,St. Paul,St. Paul,1
+cn1953-03-04.txt,Salt Lake City,Salt Lake City,1
+cn1953-03-04.txt,San Francisco,San Francisco,1
+cn1953-03-04.txt,San Juan,San Juan,1
+cn1953-03-04.txt,P. R.,P. R.,1
+cn1953-03-04.txt,Seattle,Seattle,1
+cn1953-03-04.txt,D. C.,Washington D.C.,3
+cn1953-03-04.txt,Paris,Paris,1
+cn1953-03-04.txt,Germany,Germany,1
+cn1953-03-04.txt,Bryn Mawr,Bryn Mawr,1
+cn1953-03-04.txt,Haverford,Haverford,2
+cn1953-03-04.txt,PHILADELPHIA,Philadelphia,1
+cn1953-03-04.txt,Susquehanna,Susquehanna,1
+cn1953-03-04.txt,Brooklyn,Brooklyn,2
+cn1953-03-04.txt,Flatbush,Flatbush,1
+cn1953-03-04.txt,Chesterfield,Chesterfield,2
+cn1953-03-11.txt,PA,Pennsylvania,1
+cn1953-03-11.txt,America,United States,2
+cn1953-03-11.txt,Beaver Dam,Beaver Dam,1
+cn1953-03-11.txt,Wisconsin,Wisconsin,3
+cn1953-03-11.txt,Brno,Brno,1
+cn1953-03-11.txt,Prague,Prague,1
+cn1953-03-11.txt,Czechoslovakia,Czechoslovakia,1
+cn1953-03-11.txt,Haverford,Haverford,5
+cn1953-03-11.txt,Vermont,Vermont,1
+cn1953-03-11.txt,United States,United States,2
+cn1953-03-11.txt,Chestnut Hill,Chestnut Hill,1
+cn1953-03-11.txt,Middlesex County,Middlesex County,1
+cn1953-03-11.txt,Massachusetts,Massachusetts,2
+cn1953-03-11.txt,New York,New York,2
+cn1953-03-11.txt,Connecticut,Connecticut,1
+cn1953-03-11.txt,Hartford,Hartford,1
+cn1953-03-11.txt,New ‘York,New ‘York,1
+cn1953-03-11.txt,Ardmore,Ardmore,2
+cn1953-03-11.txt,Pa.,Pennsylvania,4
+cn1953-03-11.txt,North Carolina,North Carolina,1
+cn1953-03-11.txt,Bryn Mawr,Bryn Mawr,4
+cn1953-03-11.txt,Philadelphia,Philadelphia,1
+cn1953-03-11.txt,Germany,Germany,10
+cn1953-03-11.txt,India,India,1
+cn1953-03-11.txt,Washington,Washington UNKNOWN,1
+cn1953-03-11.txt,D. C.,Washington D.C.,1
+cn1953-03-11.txt,Kussia,Kussia,1
+cn1953-03-11.txt,Krance,Krance,1
+cn1953-03-11.txt,France,France,2
+cn1953-03-11.txt,Russia,Russia,5
+cn1953-03-11.txt,Georgia,Georgia,1
+cn1953-03-11.txt,Beaver,Beaver,1
+cn1953-03-11.txt,NEW Yeas,NEW Yeas,1
+cn1953-03-11.txt,New York 17,New York,1
+cn1953-03-11.txt,N. Y.,New York,1
+cn1953-03-11.txt,New York 22,New York,1
+cn1953-03-11.txt,ARDMORE,Ardmore,1
+cn1953-03-11.txt,the United States,United States,1
+cn1953-03-11.txt,NEW YORK 17,New York,1
+cn1953-03-11.txt,BOSTON,Boston,1
+cn1953-03-11.txt,CHICAGO,Chicago,1
+cn1953-03-11.txt,PROVIDENCE,Providence,1
+cn1953-03-11.txt,INTCLAIR,INTCLAIR,1
+cn1953-03-11.txt,N. J.,New Jersey,1
+cn1953-03-18.txt,PA,Pennsylvania,1
+cn1953-03-18.txt,Haverford,Haverford,3
+cn1953-03-18.txt,Bryn Mawr,Bryn Mawr,5
+cn1953-03-18.txt,Pennsylvania,Pennsylvania,2
+cn1953-03-18.txt,Athens,Athens,5
+cn1953-03-18.txt,Japan,Japan,2
+cn1953-03-18.txt,Belgium,Belgium,1
+cn1953-03-18.txt,Massachusetts,Massachusetts,3
+cn1953-03-18.txt,Boston,Boston,1
+cn1953-03-18.txt,United States,United States,6
+cn1953-03-18.txt,the British Commonwealth,the British Commonwealth,1
+cn1953-03-18.txt,the United States,United States,5
+cn1953-03-18.txt,The United States,United States,1
+cn1953-03-18.txt,China,China,1
+cn1953-03-18.txt,Bryn Mawr’s,Bryn Mawr PLURAL,2
+cn1953-03-18.txt,Ardmore,Ardmore,2
+cn1953-03-18.txt,Pa.,Pennsylvania,4
+cn1953-03-18.txt,Rome,Rome,2
+cn1953-03-18.txt,England,England,3
+cn1953-03-18.txt,the United,United States,1
+cn1953-03-18.txt,Philippines,Philippines,1
+cn1953-03-18.txt,Germany,Germany,1
+cn1953-03-18.txt,Italy,Italy,1
+cn1953-03-18.txt,Russia,Russia,4
+cn1953-03-18.txt,Moscow,Moscow,1
+cn1953-03-18.txt,Arkansas,Arkansas,1
+cn1953-03-18.txt,Britain,Britain,3
+cn1953-03-18.txt,United,United,2
+cn1953-03-18.txt,India,India,1
+cn1953-03-18.txt,America,United States,2
+cn1953-03-18.txt,Greece,Greece,2
+cn1953-03-18.txt,Chestnut Hill,Chestnut Hill,1
+cn1953-03-18.txt,Missouri,Missouri,1
+cn1953-03-18.txt,Korea,Korea,5
+cn1953-03-18.txt,Washington,Washington UNKNOWN,2
+cn1953-03-18.txt,Altoona,Altoona,1
+cn1953-03-18.txt,Harrisburg,Harrisburg,2
+cn1953-03-18.txt,Philadelphia,Philadelphia,2
+cn1953-03-18.txt,Wilkes-Barre,Wilkes-Barre,1
+cn1953-03-18.txt,Pittsburgh,Pittsburgh,1
+cn1953-03-18.txt,Crete,Crete,1
+cn1953-03-18.txt,Thebes,Thebes,1
+cn1953-03-18.txt,New York,New York,4
+cn1953-03-18.txt,White Plains,White Plains,1
+cn1953-03-18.txt,N. Y.,New York,2
+cn1953-03-18.txt,East Orange,East Orange,1
+cn1953-03-18.txt,N. J.,New Jersey,1
+cn1953-03-18.txt,New York 17,New York,1
+cn1953-03-18.txt,Montego Bay,Montego Bay,1
+cn1953-03-18.txt,ARDMORE,Ardmore,1
+cn1953-03-18.txt,New Zealand,New Zealand,1
+cn1953-03-18.txt,New York 3,New York,1
+cn1953-03-18.txt,U.S.,United States,1
+cn1953-03-18.txt,Winston-Salem,Winston-Salem,1
+cn1953-03-25.txt,PA,Pennsylvania,1
+cn1953-03-25.txt,Japan,Japan,8
+cn1953-03-25.txt,Oxford,Oxford,1
+cn1953-03-25.txt,Bryn Mawr,Bryn Mawr,5
+cn1953-03-25.txt,Williamstown,Williamstown,1
+cn1953-03-25.txt,Massachusetts,Massachusetts,1
+cn1953-03-25.txt,Ardmore,Ardmore,2
+cn1953-03-25.txt,Pa.,Pennsylvania,3
+cn1953-03-25.txt,Philadelphia,Philadelphia,3
+cn1953-03-25.txt,England,England,2
+cn1953-03-25.txt,Wisconsin,Wisconsin,1
+cn1953-03-25.txt,California,California,1
+cn1953-03-25.txt,Pendle Hill,Pendle Hill,1
+cn1953-03-25.txt,France,France,1
+cn1953-03-25.txt,Nepal,Nepal,1
+cn1953-03-25.txt,India,India,1
+cn1953-03-25.txt,Annapurna,Annapurna,1
+cn1953-03-25.txt,Annpurna,Annpurna,1
+cn1953-03-25.txt,Paris,Paris,1
+cn1953-03-25.txt,Overbrook,Overbrook,1
+cn1953-03-25.txt,land,land,1
+cn1953-03-25.txt,the United States,United States,1
+cn1953-03-25.txt,Egypt,Egypt,1
+cn1953-03-25.txt,Alaska,Alaska,1
+cn1953-03-25.txt,Wellesley,Wellesley,1
+cn1953-03-25.txt,the U. S.,United States,1
+cn1953-03-25.txt,Haverford,Haverford,2
+cn1953-03-25.txt,Cambridge,Cambridge,1
+cn1953-03-25.txt,Mass.,Massachusetts,1
+cn1953-03-25.txt,CHESTERFIELD,Chesterfield,1
+cn1953-03-25.txt,Chesterfield,Chesterfield,1
+cn1953-04-15.txt,PA,Pennsylvania,1
+cn1953-04-15.txt,the United States,United States,3
+cn1953-04-15.txt,the Philippine Islands,the Philippine Islands,1
+cn1953-04-15.txt,Canada,Canada,5
+cn1953-04-15.txt,St. Paul,St. Paul,1
+cn1953-04-15.txt,N. Y.—in,N. Y.—in,1
+cn1953-04-15.txt,Fayetteville,Fayetteville,1
+cn1953-04-15.txt,Arkan- sas,Arkan- sas,1
+cn1953-04-15.txt,Dallas,Dallas,1
+cn1953-04-15.txt,Texas,Texas,1
+cn1953-04-15.txt,Brooklyn,Brooklyn,4
+cn1953-04-15.txt,N. Y.—in Political Science (,New York,1
+cn1953-04-15.txt,Pittsburgh,Pittsburgh,2
+cn1953-04-15.txt,Pa.,Pennsylvania,6
+cn1953-04-15.txt,Chicago,Chicago,2
+cn1953-04-15.txt,London,London,1
+cn1953-04-15.txt,England,England,4
+cn1953-04-15.txt,Boulogne,Boulogne-sur-Mer,1
+cn1953-04-15.txt,France,France,3
+cn1953-04-15.txt,Berlin,Berlin,2
+cn1953-04-15.txt,Germany,Germany,2
+cn1953-04-15.txt,Connecticut,Connecticut,2
+cn1953-04-15.txt,lieu,lieu,1
+cn1953-04-15.txt,Italy,Italy,1
+cn1953-04-15.txt,Ardmore,Ardmore,2
+cn1953-04-15.txt,Bryn Mawr,Bryn Mawr,3
+cn1953-04-15.txt,Korea,Korea,3
+cn1953-04-15.txt,Russia,Russia,10
+cn1953-04-15.txt,China,China,2
+cn1953-04-15.txt,U. S.,United States,1
+cn1953-04-15.txt,Israel,Israel,1
+cn1953-04-15.txt,U.S.,United States,1
+cn1953-04-15.txt,the Soviet Union,Soviet Union,1
+cn1953-04-15.txt,U.S.S.R.,Soviet Union,1
+cn1953-04-15.txt,Tulsa,Tulsa,1
+cn1953-04-15.txt,Oklahoma,Oklahoma,1
+cn1953-04-15.txt,Stratford-on-Avon,Stratford-on-Avon,1
+cn1953-04-15.txt,Hartford,Hartford,1
+cn1953-04-15.txt,Czechoslovakia,Czechoslovakia,1
+cn1953-04-15.txt,the U. S.,United States,1
+cn1953-04-15.txt,Buenos Aires,Buenos Aires,1
+cn1953-04-15.txt,Argentina,Argentina,1
+cn1953-04-15.txt,Mesina,Mesina,1
+cn1953-04-15.txt,Basle,Basle,1
+cn1953-04-15.txt,Switzerland,Switzerland,1
+cn1953-04-15.txt,New Delhi,New Delhi,1
+cn1953-04-15.txt,In dia,India,1
+cn1953-04-15.txt,Bacon,Bacon,1
+cn1953-04-15.txt,Philippine Islands,Philippine Islands,1
+cn1953-04-15.txt,Toronto,Toronto,1
+cn1953-04-15.txt,N. Y.,New York,6
+cn1953-04-15.txt,Jamaica,Jamaica,2
+cn1953-04-15.txt,Vienna,Vienna,1
+cn1953-04-15.txt,Austria,Austria,1
+cn1953-04-15.txt,fuer,fuer,1
+cn1953-04-15.txt,Alabama,Alabama,1
+cn1953-04-15.txt,Penna,Pennsylvania,8
+cn1953-04-15.txt,MHollidaysburg,Hollidaysburg,1
+cn1953-04-15.txt,New,New UNKNOWN,1
+cn1953-04-15.txt,Hamilton,Hamilton,1
+cn1953-04-15.txt,Ontario,Ontario,1
+cn1953-04-15.txt,Westfield,Westfield,1
+cn1953-04-15.txt,N. J.,New Jersey,3
+cn1953-04-15.txt,New York,New York,6
+cn1953-04-15.txt,Haverford,Haverford,5
+cn1953-04-15.txt,Pelham,Pelham,1
+cn1953-04-15.txt,Bala-Cynwyd,Bala Cynwyd,1
+cn1953-04-15.txt,Los Angeles,Los Angeles,1
+cn1953-04-15.txt,Calif.,California,1
+cn1953-04-15.txt,Kankakee,Kankakee,1
+cn1953-04-15.txt,Illinois,Illinois,1
+cn1953-04-15.txt,vo,vo,1
+cn1953-04-15.txt,Clearfield,Clearfield,1
+cn1953-04-15.txt,Missoula,Missoula,1
+cn1953-04-15.txt,Montana,Montana,1
+cn1953-04-15.txt,Portland,Portland,1
+cn1953-04-15.txt,Oregon,Oregon,1
+cn1953-04-15.txt,Hoyt,Hoyt,1
+cn1953-04-15.txt,New Brunswick,New Brunswick,1
+cn1953-04-15.txt,Bernardsville,Bernardsville,1
+cn1953-04-15.txt,Philadelphia,Philadelphia,3
+cn1953-04-15.txt,Konnarock,Konnarock,1
+cn1953-04-15.txt,Virginia,Virginia,1
+cn1953-04-15.txt,MONTCLAIR,Montclair,1
+cn1953-04-15.txt,Montego Bay,Montego Bay,1
+cn1953-04-15.txt,ARDMORE,Ardmore,1
+cn1953-04-15.txt,Bryn,Bryn UNKNOWN,1
+cn1953-04-15.txt,Mawr,Mawr UNKNOWN,1
+cn1953-04-15.txt,B.M.C,Bryn Mawr,1
+cn1953-04-15.txt,IL,Illinois,1
+cn1953-04-15.txt,Chesterfield,Chesterfield,3
+cn1953-04-15.txt,Florence,Florence,1
+cn1953-04-15.txt,Constantinople,Constantinople,1
+cn1953-04-15.txt,New Zealand,New Zealand,1
+cn1953-04-15.txt,New York 3,New York,1
+cn1953-04-15.txt,Winston-Salem,Winston-Salem,1
+cn1953-04-15.txt,N. C.,North Carolina,1
+cn1953-04-22.txt,PA,Pennsylvania,1
+cn1953-04-22.txt,the United States,United States,4
+cn1953-04-22.txt,Yakutat,Yakutat,1
+cn1953-04-22.txt,Angoon,Angoon,1
+cn1953-04-22.txt,Alaska,Alaska,1
+cn1953-04-22.txt,Montreal,Montreal,1
+cn1953-04-22.txt,Paris,Paris,5
+cn1953-04-22.txt,Hamburg,Hamburg,1
+cn1953-04-22.txt,Heidelberg,Heidelberg,1
+cn1953-04-22.txt,Liverpool,Liverpool,1
+cn1953-04-22.txt,New York,New York,7
+cn1953-04-22.txt,Ardmore,Ardmore,2
+cn1953-04-22.txt,Pa.,Pennsylvania,3
+cn1953-04-22.txt,Bryn Mawr,Bryn Mawr,6
+cn1953-04-22.txt,Haverford,Haverford,4
+cn1953-04-22.txt,Riverdale,Riverdale,1
+cn1953-04-22.txt,the U. S.,United States,1
+cn1953-04-22.txt,U. S.,United States,2
+cn1953-04-22.txt,Hol-,Hol-,1
+cn1953-04-22.txt,Italy,Italy,3
+cn1953-04-22.txt,Norway,Norway,3
+cn1953-04-22.txt,Yucatan,Yucatan,1
+cn1953-04-22.txt,London,London,1
+cn1953-04-22.txt,Austria,Austria,2
+cn1953-04-22.txt,Belgium,Belgium,1
+cn1953-04-22.txt,Denmark,Denmark,1
+cn1953-04-22.txt,land,land,2
+cn1953-04-22.txt,France,France,1
+cn1953-04-22.txt,Germany,Germany,1
+cn1953-04-22.txt,Holland,Holland,1
+cn1953-04-22.txt,Mexico,Mexico,2
+cn1953-04-22.txt,Peru,Peru,2
+cn1953-04-22.txt,Spain,Spain,2
+cn1953-04-22.txt,Sweden,Sweden,1
+cn1953-04-22.txt,Yugosla- via,Yugosla- via,1
+cn1953-04-22.txt,Finland,Finland,2
+cn1953-04-22.txt,Ireland,Ireland,1
+cn1953-04-22.txt,New,New UNKNOWN,1
+cn1953-04-22.txt,Pennsylvania,Pennsylvania,1
+cn1953-04-22.txt,Princeton,Princeton,2
+cn1953-04-22.txt,New Jersey,New Jersey,2
+cn1953-04-22.txt,Towa,Towa,1
+cn1953-04-22.txt,Somerville,Somerville,1
+cn1953-04-22.txt,England,England,1
+cn1953-04-22.txt,New York City,New York City,2
+cn1953-04-22.txt,Massachusetts,Massachusetts,2
+cn1953-04-22.txt,Cleveland,Cleveland,1
+cn1953-04-22.txt,Ohio,Ohio,1
+cn1953-04-22.txt,Morocco,Morocco,1
+cn1953-04-22.txt,Clifton,Clifton,1
+cn1953-04-22.txt,New Jer-,New Jersey,1
+cn1953-04-22.txt,Maryland,Maryland,1
+cn1953-04-22.txt,Philadelphia,Philadelphia,2
+cn1953-04-22.txt,Malletts,Malletts,1
+cn1953-04-22.txt,Vermont,Vermont,1
+cn1953-04-22.txt,Union,Union,1
+cn1953-04-22.txt,Maine,Maine,1
+cn1953-04-22.txt,Brant Beach,Brant Beach,1
+cn1953-04-22.txt,Cohasset,Cohasset,1
+cn1953-04-22.txt,Marlborough,Marlborough,1
+cn1953-04-22.txt,White Plains,White Plains,1
+cn1953-04-22.txt,N. Y.,New York,1
+cn1953-04-22.txt,India,India,4
+cn1953-04-22.txt,Canada,Canada,3
+cn1953-04-22.txt,Pakistan,Pakistan,1
+cn1953-04-22.txt,Thailand,Thailand,1
+cn1953-04-22.txt,Indonesia,Indonesia,1
+cn1953-04-22.txt,Ceylon,Ceylon,1
+cn1953-04-22.txt,Burma,Burma,1
+cn1953-04-22.txt,Malaya,Malaya,1
+cn1953-04-22.txt,ifornia,California,1
+cn1953-04-22.txt,Boston,Boston,1
+cn1953-04-22.txt,Quebec,Quebec,1
+cn1953-04-22.txt,Richmond,Richmond,1
+cn1953-04-22.txt,Charlotte,Charlotte,1
+cn1953-04-22.txt,Montego Bay,Montego Bay,1
+cn1953-04-22.txt,Jamaica,Jamaica,1
+cn1953-04-22.txt,ARDMORE,Ardmore,1
+cn1953-04-22.txt,Charleston,Charleston,1
+cn1953-04-22.txt,Putney,Putney,1
+cn1953-04-22.txt,Chestnut Hill,Chestnut Hill,1
+cn1953-04-22.txt,sylvania,Sylvania,1
+cn1953-05-01.txt,BRYN MAWR,Bryn Mawr,1
+cn1953-05-01.txt,PA,Pennsylvania,1
+cn1953-05-01.txt,New Jersey,New Jersey,16
+cn1953-05-01.txt,Scotland,Scotland,1
+cn1953-05-01.txt,London,London,1
+cn1953-05-01.txt,Paddington,Paddington,1
+cn1953-05-01.txt,Germany,Germany,6
+cn1953-05-01.txt,Russia,Russia,4
+cn1953-05-01.txt,the United States,United States,4
+cn1953-05-01.txt,Summit,Summit,3
+cn1953-05-01.txt,West Bridgewater,West Bridgewater,1
+cn1953-05-01.txt,Pennsylvania,Pennsylvania,26
+cn1953-05-01.txt,Pasadena,Pasadena,4
+cn1953-05-01.txt,California,California,3
+cn1953-05-01.txt,Ardmore,Ardmore,3
+cn1953-05-01.txt,Pa.,Pennsylvania,6
+cn1953-05-01.txt,Czechoslovakia,Czechoslovakia,2
+cn1953-05-01.txt,Italy,Italy,2
+cn1953-05-01.txt,Korea,Korea,5
+cn1953-05-01.txt,Brazil,Brazil,1
+cn1953-05-01.txt,Latvia,Latvia,1
+cn1953-05-01.txt,Lithuania,Lithuania,1
+cn1953-05-01.txt,Poland,Poland,1
+cn1953-05-01.txt,Slovenia,Slovenia,1
+cn1953-05-01.txt,Yugoslavia,Yugoslavia,1
+cn1953-05-01.txt,Bavaria,Bavaria,1
+cn1953-05-01.txt,Chestnut Hill,Chestnut Hill,1
+cn1953-05-01.txt,Philadelphia,Philadelphia,20
+cn1953-05-01.txt,Scarsdale,Scarsdale,3
+cn1953-05-01.txt,New York,New York,33
+cn1953-05-01.txt,New,New UNKNOWN,8
+cn1953-05-01.txt,Chicago,Chicago,1
+cn1953-05-01.txt,lennsylvania,Pennsylvania,1
+cn1953-05-01.txt,Spain,Spain,1
+cn1953-05-01.txt,Virginia,Virginia,11
+cn1953-05-01.txt,Mexico,Mexico,1
+cn1953-05-01.txt,Omaha,Omaha,2
+cn1953-05-01.txt,Nebraska,Nebraska,2
+cn1953-05-01.txt,Forest Hills,Forest Hills,1
+cn1953-05-01.txt,Long Island,Long Island,3
+cn1953-05-01.txt,New York City,New York City,14
+cn1953-05-01.txt,Riverdale,Riverdale,1
+cn1953-05-01.txt,EH Paso,EH Paso,1
+cn1953-05-01.txt,El kaso,El kaso,1
+cn1953-05-01.txt,Texas,Texas,3
+cn1953-05-01.txt,Arlington,Arlington,2
+cn1953-05-01.txt,D. C.,Washington D.C.,8
+cn1953-05-01.txt,Tulsa,Tulsa,1
+cn1953-05-01.txt,Okla- homa,Oklahoma,1
+cn1953-05-01.txt,Wichita,Wichita,1
+cn1953-05-01.txt,Kansas,Kansas,2
+cn1953-05-01.txt,Norwich,Norwich,3
+cn1953-05-01.txt,New Cum-,New Cumberland,1
+cn1953-05-01.txt,Lawrence,Lawrence,1
+cn1953-05-01.txt,Bloomfield Hills,Bloomfield Hills,1
+cn1953-05-01.txt,Michi- gan,Michigan,1
+cn1953-05-01.txt,New Jer-,New Jersey,1
+cn1953-05-01.txt,sey,sey,1
+cn1953-05-01.txt,Pennsyl- vania,Pennsylvania,2
+cn1953-05-01.txt,Pennsylva- nia,Pennsylvania,2
+cn1953-05-01.txt,Montclair,Montclair,1
+cn1953-05-01.txt,Bari,Bari,1
+cn1953-05-01.txt,North Andover,North Andover,1
+cn1953-05-01.txt,Massa- chusetts,Massachusetts,1
+cn1953-05-01.txt,Rowayton,Rowayton,1
+cn1953-05-01.txt,Connecticut,Connecticut,6
+cn1953-05-01.txt,Kurtztown,Kutztown,1
+cn1953-05-01.txt,West Lawn,West Lawn,1
+cn1953-05-01.txt,Washington,Washington UNKNOWN,8
+cn1953-05-01.txt,Norfolk,Norfolk,1
+cn1953-05-01.txt,Farmington,Farmington,1
+cn1953-05-01.txt,Hillside,Hillside,1
+cn1953-05-01.txt,Elizabeth,Elizabeth,1
+cn1953-05-01.txt,Rye,Rye,2
+cn1953-05-01.txt,Malvern,Malvern,1
+cn1953-05-01.txt,Rochester,Rochester,1
+cn1953-05-01.txt,Bradford,Bradford,1
+cn1953-05-01.txt,Vermont,Vermont,3
+cn1953-05-01.txt,Toledo,Toledo,1
+cn1953-05-01.txt,Ohio,Ohio,3
+cn1953-05-01.txt,Massachusetts,Massachusetts,8
+cn1953-05-01.txt,Boston,Boston,1
+cn1953-05-01.txt,Portland,Portland,1
+cn1953-05-01.txt,Oregon,Oregon,1
+cn1953-05-01.txt,Seattle,Seattle,3
+cn1953-05-01.txt,St. Louis,St. Louis,2
+cn1953-05-01.txt,Missouri,Missouri,5
+cn1953-05-01.txt,Wauwatosa,Wauwatosa,2
+cn1953-05-01.txt,Wisconsin,Wisconsin,2
+cn1953-05-01.txt,Albany,Albany,2
+cn1953-05-01.txt,Chatham,Chatham,1
+cn1953-05-01.txt,Cleveland,Cleveland,2
+cn1953-05-01.txt,North Muskegon,North Muskegon,2
+cn1953-05-01.txt,Michigan,Michigan,4
+cn1953-05-01.txt,Grosse Pointe Park,Grosse Pointe Park,1
+cn1953-05-01.txt,Ann Arbor,Ann Arbor,1
+cn1953-05-01.txt,Paris,Paris,4
+cn1953-05-01.txt,France,France,4
+cn1953-05-01.txt,Alexandria,Alexandria,1
+cn1953-05-01.txt,Trenton,Trenton,1
+cn1953-05-01.txt,Okla- homa City,Okla- homa City,1
+cn1953-05-01.txt,Oklahoma,Oklahoma,2
+cn1953-05-01.txt,Oklahoma City,Oklahoma City,1
+cn1953-05-01.txt,Warrenton,Warrenton,1
+cn1953-05-01.txt,Little Neck,Little Neck,1
+cn1953-05-01.txt,Bayside,Bayside,1
+cn1953-05-01.txt,Britain,Britain,1
+cn1953-05-01.txt,United States,United States,1
+cn1953-05-01.txt,Canada,Canada,1
+cn1953-05-01.txt,Marseille,Marseille,1
+cn1953-05-01.txt,Lyon,Lyon,1
+cn1953-05-01.txt,Bryn Mawr,Bryn Mawr,7
+cn1953-05-01.txt,Haverford,Haverford,2
+cn1953-05-01.txt,New York 23,New York,1
+cn1953-05-01.txt,the So- viet Union,the So- viet Union,1
+cn1953-05-01.txt,KNAB,KNAB,1
+cn1953-05-01.txt,Chesterfield,Chesterfield,3
+cn1953-05-01.txt,Woodstock,Woodstock,1
+cn1953-05-01.txt,Sharon,Sharon,2
+cn1953-05-01.txt,ennsylvania,Pennsylvania,2
+cn1953-05-01.txt,St. Joseph,St. Joseph,2
+cn1953-05-01.txt,Brooklyn,Brooklyn,3
+cn1953-05-01.txt,Kew Gardens,Kew Gardens,1
+cn1953-05-01.txt,Garden City,Garden City,1
+cn1953-05-01.txt,Middletown,Middletown,1
+cn1953-05-01.txt,East Northfield,Northfield,1
+cn1953-05-01.txt,New England,New England,1
+cn1953-05-01.txt,Lansdowne,Lansdowne,1
+cn1953-05-01.txt,lowne,lowne,1
+cn1953-05-01.txt,West Seattle,West Seattle,1
+cn1953-05-01.txt,Hong,Hong,1
+cn1953-05-01.txt,China,China,1
+cn1953-05-01.txt,Honolulu,Honolulu,1
+cn1953-05-01.txt,Philadel- shia,Philadelphia,1
+cn1953-05-01.txt,Rockville,Rockville,2
+cn1953-05-01.txt,Maryland,Maryland,3
+cn1953-05-01.txt,Wash-,Washington UNKNOWN,1
+cn1953-05-01.txt,Storrs,Storrs,1
+cn1953-05-01.txt,East Islip,East Islip,1
+cn1953-05-01.txt,Pusan,Pusan,2
+cn1953-05-01.txt,Oak Park,Oak Park,2
+cn1953-05-01.txt,Illinois,Illinois,3
+cn1953-05-01.txt,Brookline,Brookline,2
+cn1953-05-01.txt,Englewood,Englewood,2
+cn1953-05-01.txt,Princeton,Princeton,1
+cn1953-05-01.txt,Baltimore,Baltimore,2
+cn1953-05-01.txt,Stockholm,Stockholm,1
+cn1953-05-01.txt,Sweden,Sweden,1
+cn1953-05-01.txt,Austin,Austin,2
+cn1953-05-01.txt,Ashland,Ashland,1
+cn1953-05-01.txt,Richmond,Richmond,1
+cn1953-05-01.txt,South Otselic,South Otselic,1
+cn1953-05-01.txt,Barrington,Barrington,2
+cn1953-05-01.txt,Lllinois,Illinois,1
+cn1953-05-01.txt,Newtonville,Newtonville,1
+cn1953-05-01.txt,Massachu- setts,Massachusetts,1
+cn1953-05-01.txt,Upper Darby,Upper Darby,1
+cn1953-05-01.txt,New York Alumnae Regional Scholar,New York Alumnae Regional Scholar,1
+cn1953-05-01.txt,Waterville,Waterville,2
+cn1953-05-01.txt,Maine,Maine,3
+cn1953-05-01.txt,Camden,Camden,1
+cn1953-05-01.txt,Altadena,Altadena,1
+cn1953-05-01.txt,Webster Groves,Webster Groves,2
+cn1953-05-01.txt,Cambridge,Cambridge,1
+cn1953-05-01.txt,Winston-Salem,Winston-Salem,1
+cn1953-05-01.txt,N. C.,North Carolina,1
+cn1953-05-01.txt,Randolph,Randolph,1
+cn1953-05-01.txt,Caracas,Caracas,1
+cn1953-05-01.txt,Aruba,Aruba,1
+cn1953-05-01.txt,N. W. I.,N. W. I.,1
+cn1953-05-01.txt,the Dominican Republic,Dominican Republic,1
+cn1953-05-01.txt,Rhode Island,Rhode Island,1
+cn1953-05-01.txt,North Carolina,North Carolina,1
+cn1953-05-01.txt,Delaware,Delaware,1
+cn1953-05-06.txt,ARDMORE,Ardmore,1
+cn1953-05-06.txt,BRYN MAWB,Bryn Mawr,1
+cn1953-05-06.txt,PA,Pennsylvania,1
+cn1953-05-06.txt,Minneapolis,Minneapolis,1
+cn1953-05-06.txt,England,England,2
+cn1953-05-06.txt,Harrisburg,Harrisburg,1
+cn1953-05-06.txt,Pennsylvania,Pennsylvania,2
+cn1953-05-06.txt,Haverford,Haverford,3
+cn1953-05-06.txt,America,United States,3
+cn1953-05-06.txt,the United,United States,1
+cn1953-05-06.txt,New York City,New York City,3
+cn1953-05-06.txt,India,India,1
+cn1953-05-06.txt,Ukraine,Ukraine,1
+cn1953-05-06.txt,Scotland,Scotland,1
+cn1953-05-06.txt,Egypt,Egypt,2
+cn1953-05-06.txt,China,China,1
+cn1953-05-06.txt,Ha-,Ha VARIES,1
+cn1953-05-06.txt,United States,United States,2
+cn1953-05-06.txt,ries,ries,1
+cn1953-05-06.txt,Pa.,Pennsylvania,3
+cn1953-05-06.txt,Ardmore,Ardmore,1
+cn1953-05-06.txt,Dur-,Dur-,1
+cn1953-05-06.txt,North Carolina,North Carolina,2
+cn1953-05-06.txt,Jt,Jt,1
+cn1953-05-06.txt,New York 16,New York,1
+cn1953-05-06.txt,New,New UNKNOWN,1
+cn1953-05-06.txt,New York,New York,6
+cn1953-05-06.txt,Bryn Mawr,Bryn Mawr,1
+cn1953-05-06.txt,Durham,Durham,1
+cn1953-05-06.txt,Paris,Paris,4
+cn1953-05-06.txt,France,France,1
+cn1953-05-06.txt,Toronto,Toronto,1
+cn1953-05-06.txt,Ohio,Ohio,1
+cn1953-05-06.txt,Baltimore,Baltimore,1
+cn1953-05-06.txt,Phila,Philadelphia,1
+cn1953-05-06.txt,Pa,Pennsylvania,1
+cn1953-05-06.txt,BOSTON,Boston,1
+cn1953-05-06.txt,NEW YORK,New York,1
+cn1953-05-06.txt,NTCLAIR,NTCLAIR,1
+cn1953-05-06.txt,N. J.,New Jersey,2
+cn1953-05-06.txt,White Plains,White Plains,1
+cn1953-05-06.txt,N. Y.,New York,1
+cn1953-05-06.txt,East Orange,East Orange,1
+cn1953-05-06.txt,Seville,Seville,1
+cn1953-05-06.txt,Madrid,Madrid,1
+cn1953-05-06.txt,Lisbon,Lisbon,1
+cn1953-05-06.txt,London,London,2
+cn1953-05-06.txt,Malvern,Malvern,1
+cn1953-05-06.txt,Canterbury,Canterbury,1
+cn1953-05-06.txt,Hastings,Hastings,1
+cn1953-05-06.txt,Leyden,Leyden,1
+cn1953-05-06.txt,sterdam,sterdam,1
+cn1953-05-06.txt,Bruges,Bruges,1
+cn1953-05-06.txt,Ghent,Ghent,1
+cn1953-05-06.txt,Geneva,Geneva,1
+cn1953-05-06.txt,Borromean Islands,Borromean Islands,1
+cn1953-05-06.txt,Lucerne,Lucerne,1
+cn1953-05-06.txt,Venice,Venice,1
+cn1953-05-06.txt,Florence,Florence,1
+cn1953-05-06.txt,Rome,Rome,1
+cn1953-05-06.txt,Naples,Naples,1
+cn1953-05-06.txt,Palermo,Palermo,1
+cn1953-05-06.txt,Barcelona,Barcelona,1
+cn1953-05-06.txt,Gibraltar,Gibraltar,1
+cn1953-05-06.txt,Algeciras,Algeciras,1
+cn1953-05-06.txt,Tunis,Tunis,1
+cn1953-05-06.txt,Chesterfield,Chesterfield,4
+cn1953-05-06.txt,New York 21,New York,1
+cn1953-05-06.txt,Maine,Maine,1
+cn1953-05-06.txt,NEW YORK 22,New York,1
+cn1953-05-13.txt,ARDMORE,Ardmore,2
+cn1953-05-13.txt,BRYN MAWR,Bryn Mawr,1
+cn1953-05-13.txt,PA,Pennsylvania,1
+cn1953-05-13.txt,the United States,United States,2
+cn1953-05-13.txt,Stratford,Stratford,1
+cn1953-05-13.txt,Bryn Mawr,Bryn Mawr,4
+cn1953-05-13.txt,New York City,New York City,1
+cn1953-05-13.txt,Pough- keepsie,Pough- keepsie,1
+cn1953-05-13.txt,Pittsburgh,Pittsburgh,1
+cn1953-05-13.txt,Peoria,Peoria,1
+cn1953-05-13.txt,Missouri,Missouri,1
+cn1953-05-13.txt,Ardmore,Ardmore,2
+cn1953-05-13.txt,Pa.,Pennsylvania,4
+cn1953-05-13.txt,Tamaqua,Tamaqua,2
+cn1953-05-13.txt,Hague,Hague,1
+cn1953-05-13.txt,Paris,Paris,1
+cn1953-05-13.txt,Geneva,Geneva,1
+cn1953-05-13.txt,Zurich,Zurich,1
+cn1953-05-13.txt,New  York,New York,2
+cn1953-05-13.txt,N. Y.,New York,1
+cn1953-05-13.txt,London,London,1
+cn1953-05-13.txt,Egypt,Egypt,1
+cn1953-05-13.txt,England,England,1
+cn1953-05-13.txt,Betterton,Betterton,1
+cn1953-05-13.txt,Washington,Washington UNKNOWN,3
+cn1953-05-13.txt,D. C.,Washington D.C.,2
+cn1953-05-13.txt,New York,New York,4
+cn1953-05-13.txt,Panama,Panama,1
+cn1953-05-13.txt,Delaware,Delaware,2
+cn1953-05-13.txt,Padding-,Padding-,1
+cn1953-05-13.txt,Tokyo,Tokyo,1
+cn1953-05-13.txt,Hokkaido,Hokkaido,1
+cn1953-05-13.txt,Yokahama,Yokahama,1
+cn1953-05-13.txt,Kansai,Kansai,1
+cn1953-05-13.txt,Japan,Japan,1
+cn1953-05-13.txt,United States,United States,1
+cn1953-05-13.txt,Phila. 2,Philadelphia,1
+cn1953-05-13.txt,Haverford,Haverford,2
+cn1953-05-13.txt,Philadelphia,Philadelphia,3
+cn1953-05-13.txt,the United,United States,1
+cn1953-05-13.txt,NEW YORK 17,New York,1
+cn1953-05-13.txt,PROVIDENCE,Providence,1
+cn1953-05-13.txt,BOSTON,Boston,1
+cn1953-05-13.txt,CHICAGO,Chicago,1
+cn1953-05-13.txt,INTCLAIR,INTCLAIR,1
+cn1953-05-13.txt,N. J.,New Jersey,1
+cn1953-05-13.txt,New |,New UNKNOWN,1
+cn1953-05-13.txt,Bryn Mawr’s,Bryn Mawr PLURAL,1
+cn1953-05-13.txt,America,United States,1
+cn1953-05-13.txt,Winston-Salem,Winston-Salem,1
+cn1953-05-13.txt,Essex County,Essex County,1
+cn1953-05-13.txt,Yonkers,Yonkers,1
+cn1953-05-13.txt,Brooklyn,Brooklyn,1
+cn1953-05-13.txt,Chesterfield,Chesterfield,1
+cn1953-06-02.txt,PA,Pennsylvania,1
+cn1953-06-02.txt,New York,New York,18
+cn1953-06-02.txt,Pennsyl- vania,Pennsylvania,3
+cn1953-06-02.txt,New,New UNKNOWN,6
+cn1953-06-02.txt,Ohio,Ohio,5
+cn1953-06-02.txt,Mich-,Michigan,1
+cn1953-06-02.txt,Pennsylva- nia,Pennsylvania,3
+cn1953-06-02.txt,New Jeffley,New Jeffley,1
+cn1953-06-02.txt,Florida,Florida,4
+cn1953-06-02.txt,New Jer-,New Jersey,1
+cn1953-06-02.txt,New  _Jersey,New Jersey,1
+cn1953-06-02.txt,Califor- nia,California,2
+cn1953-06-02.txt,Virginia,Virginia,4
+cn1953-06-02.txt,the United States,United States,3
+cn1953-06-02.txt,the United Kingdom,United Kingdom,2
+cn1953-06-02.txt,Ardmore,Ardmore,3
+cn1953-06-02.txt,Pa.,Pennsylvania,10
+cn1953-06-02.txt,Chicago,Chicago,2
+cn1953-06-02.txt,Haverford,Haverford,3
+cn1953-06-02.txt,Boston,Boston,1
+cn1953-06-02.txt,Philadelphia,Philadelphia,4
+cn1953-06-02.txt,Lynn,Lynn,1
+cn1953-06-02.txt,West Virginia,West Virginia,1
+cn1953-06-02.txt,Pennsylvania,Pennsylvania,14
+cn1953-06-02.txt,Norristown,Norristown,1
+cn1953-06-02.txt,Taipei,Taipei,1
+cn1953-06-02.txt,S¥lvanla,S¥lvanla,1
+cn1953-06-02.txt,China,China,1
+cn1953-06-02.txt,Jersey,Jersey UKNOWN,2
+cn1953-06-02.txt,Arkansas,Arkansas,1
+cn1953-06-02.txt,Illinois,Illinois,1
+cn1953-06-02.txt,kansas,Kansas,1
+cn1953-06-02.txt,avera,avera,1
+cn1953-06-02.txt,Philippines,Philippines,1
+cn1953-06-02.txt,New Jersey,New Jersey,4
+cn1953-06-02.txt,Iowa,Iowa,1
+cn1953-06-02.txt,the Dominican Republic,Dominican Republic,1
+cn1953-06-02.txt,Athens,Athens,1
+cn1953-06-02.txt,Greece,Greece,1
+cn1953-06-02.txt,Paris,Paris,1
+cn1953-06-02.txt,Bryn Mawr,Bryn Mawr,7
+cn1953-06-02.txt,New Jer-|sylvania,New Jersey,1
+cn1953-06-02.txt,Massa- Florida,Massa- Florida,1
+cn1953-06-02.txt,New,New UNKNOWN,2
+cn1953-06-02.txt,Connecticut,Connecticut,3
+cn1953-06-02.txt,Canaan,Canaan,1
+cn1953-06-02.txt,New Hampshire,New Hampshire,1
+cn1953-06-02.txt,Nykoping,Nykoping,1
+cn1953-06-02.txt,sachusetts,Massachusetts,1
+cn1953-06-02.txt,tawa,tawa,1
+cn1953-06-02.txt,Ontario,Ontario,1
+cn1953-06-02.txt,Canada,Canada,2
+cn1953-06-02.txt,Sacramento,Sacramento,1
+cn1953-06-02.txt,Sydney,Sydney,1
+cn1953-06-02.txt,Australia,Australia,1
+cn1953-06-02.txt,New York City,New York City,1
+cn1953-06-02.txt,ida,ida,1
+cn1953-06-02.txt,Minnesota,Minnesota,1
+cn1953-06-02.txt,Okla-,Oklahoma,1
+cn1953-06-02.txt,Laurinburg,Laurinburg,1
+cn1953-06-02.txt,North Carolina,North Carolina,1
+cn1953-06-02.txt,Como,Como,1
+cn1953-06-02.txt,Italy,Italy,1
+cn1953-06-02.txt,New Castle,New Castle,1
+cn1953-06-02.txt,Bryn,Bryn UNKNOWN,1
+cn1953-06-02.txt,the District of Columbia,Washington D.C.,1
+cn1953-06-02.txt,New’  York,New York,1
+cn1953-06-02.txt,Pennsyl-  vania,Pennsylvania,1
+cn1953-06-02.txt,New  York,New York,1
+cn1953-06-02.txt,Texas,Texas,1
+cn1953-06-02.txt,New,New UNKNOWN,1
+cn1953-06-02.txt,York,York UNKNOWN,1
+cn1953-06-02.txt,Massachusetts,Massachusetts,1
+cn1953-06-02.txt,California,California,2
+cn1953-06-02.txt,Philadel-,Philadelphia,2
+cn1953-06-02.txt,Turkey,Turkey,1
+cn1953-06-02.txt,Honolulu,Honolulu,1
+cn1953-06-02.txt,New York.|through,New York,1
+cn1953-06-02.txt,Maryland,Maryland,2
+cn1953-06-02.txt,fornia,California,1
+cn1953-06-02.txt,Maine,Maine,1
+cn1953-06-02.txt,New York.|ness,New York,1
+cn1953-06-02.txt,Ottawa,Ottawa,1
+cn1953-06-02.txt,Louisiana,Louisiana,1
+cn1953-06-02.txt,Czechoslo- vakia,Czechoslovakia,1
+cn1953-06-02.txt,New’ York,New York,1
+cn1953-06-02.txt,Uru- guay,Uru- guay,1
+cn1953-09-27.txt,PA,Pennsylvania,1
+cn1953-09-27.txt,Bryn Mawr,Bryn Mawr,6
+cn1953-09-27.txt,Bryn Mawr’s,Bryn Mawr PLURAL,1
+cn1953-09-27.txt,Ardmore,Ardmore,3
+cn1953-09-27.txt,Pa.7,Pennsylvania,1
+cn1953-09-27.txt,Pa.,Pennsylvania,2
+cn1953-09-27.txt,Pennsylvania,Pennsylvania,1
+cn1953-09-27.txt,America,United States,1
+cn1953-09-27.txt,Bryn Mawz,Bryn Mawr,1
+cn1953-09-27.txt,France,France,1
+cn1953-09-27.txt,Chesterfield,Chesterfield,2
+cn1953-10-07.txt,PA,Pennsylvania,1
+cn1953-10-07.txt,Rock,Rock,1
+cn1953-10-07.txt,Washington,Washington UNKNOWN,3
+cn1953-10-07.txt,D. C.,Washington D.C.,1
+cn1953-10-07.txt,Munich,Munich,1
+cn1953-10-07.txt,Germany,Germany,1
+cn1953-10-07.txt,London,London,2
+cn1953-10-07.txt,Michigan,Michigan,1
+cn1953-10-07.txt,Scotland,Scotland,1
+cn1953-10-07.txt,Ardmore,Ardmore,2
+cn1953-10-07.txt,Pa,Pennsylvania,1
+cn1953-10-07.txt,Pa.,Pennsylvania,2
+cn1953-10-07.txt,The United Kingdom of,The United Kingdom of,1
+cn1953-10-07.txt,Great Britain,Great Britain,1
+cn1953-10-07.txt,Canada,Canada,1
+cn1953-10-07.txt,Australia,Australia,1
+cn1953-10-07.txt,New Zea-,New Zealand,1
+cn1953-10-07.txt,Union of South Africa,Union of South Africa,1
+cn1953-10-07.txt,Paki- stan,Paki- stan,1
+cn1953-10-07.txt,Ceylon,Ceylon,1
+cn1953-10-07.txt,England,England,4
+cn1953-10-07.txt,Italy,Italy,2
+cn1953-10-07.txt,Naples,Naples,1
+cn1953-10-07.txt,Greece,Greece,1
+cn1953-10-07.txt,Athens,Athens,2
+cn1953-10-07.txt,Korea,Korea,2
+cn1953-10-07.txt,Russia,Russia,4
+cn1953-10-07.txt,France,France,1
+cn1953-10-07.txt,Iran,Iran,1
+cn1953-10-07.txt,Egypt,Egypt,1
+cn1953-10-07.txt,Britain,Britain,1
+cn1953-10-07.txt,The United States,United States,1
+cn1953-10-07.txt,India,India,1
+cn1953-10-07.txt,Bryn Mawr,Bryn Mawr,2
+cn1953-10-07.txt,America,United States,1
+cn1953-10-07.txt,U. S.,United States,2
+cn1953-10-07.txt,the United States,United States,3
+cn1953-10-07.txt,Philadelphia,Philadelphia,3
+cn1953-10-07.txt,New York,New York,3
+cn1953-10-07.txt,Los Angeles,Los Angeles,1
+cn1953-10-07.txt,California,California,2
+cn1953-10-07.txt,Montgomery,Montgomery,1
+cn1953-10-07.txt,Honolulu,Honolulu,1
+cn1953-10-07.txt,the U. S.,United States,1
+cn1953-10-07.txt,Princeton,Princeton,4
+cn1953-10-07.txt,N. J.,New Jersey,4
+cn1953-10-07.txt,Los Feliz Station,Los Feliz Station,1
+cn1953-10-07.txt,Los Angeles 27,Los Angeles,1
+cn1953-10-07.txt,Columbus,Columbus,1
+cn1953-10-07.txt,China,China,1
+cn1953-10-07.txt,Bronxville,Bronxville,1
+cn1953-10-07.txt,N. Y.,New York,1
+cn1953-10-07.txt,Chesterfield,Chesterfield,2
+cn1953-10-14.txt,BRYN MAWR,Bryn Mawr,1
+cn1953-10-14.txt,PA,Pennsylvania,1
+cn1953-10-14.txt,Casanova,Casanova,1
+cn1953-10-14.txt,Ardmore,Ardmore,2
+cn1953-10-14.txt,Pa.,Pennsylvania,3
+cn1953-10-14.txt,Zurich,Zurich,1
+cn1953-10-14.txt,Philadelphia,Philadelphia,4
+cn1953-10-14.txt,London,London,3
+cn1953-10-14.txt,the United Kingdom,United Kingdom,1
+cn1953-10-14.txt,the United States,United States,2
+cn1953-10-14.txt,Florence,Florence,1
+cn1953-10-14.txt,France,France,2
+cn1953-10-14.txt,Korea,Korea,4
+cn1953-10-14.txt,The U. S.,United States,2
+cn1953-10-14.txt,Russia,Russia,1
+cn1953-10-14.txt,China,China,1
+cn1953-10-14.txt,North Korea,North Korea,2
+cn1953-10-14.txt,the U. S.,United States,2
+cn1953-10-14.txt,India,India,8
+cn1953-10-14.txt,The United States,United States,1
+cn1953-10-14.txt,Red China,Red China,2
+cn1953-10-14.txt,U.'S.,United States,1
+cn1953-10-14.txt,Jamaica,Jamaica,5
+cn1953-10-14.txt,St. Andrews,St. Andrews,1
+cn1953-10-14.txt,Kingston,Kingston,2
+cn1953-10-14.txt,America,United States,3
+cn1953-10-14.txt,New York City,New York City,1
+cn1953-10-14.txt,Philadelpnia,Philadelphia,1
+cn1953-10-14.txt,Ireland,Ireland,1
+cn1953-10-14.txt,Austria,Austria,1
+cn1953-10-14.txt,Spain,Spain,1
+cn1953-10-14.txt,Haverford,Haverford,2
+cn1953-10-14.txt,Bryn Mawr,Bryn Mawr,3
+cn1953-10-14.txt,Brioni Island,Brioni Island,1
+cn1953-10-14.txt,Yugoslavia,Yugoslavia,9
+cn1953-10-14.txt,Zagreb,Zagreb,2
+cn1953-10-14.txt,Croatia,Croatia,1
+cn1953-10-14.txt,Ljubl- jana,Ljubl- jana,1
+cn1953-10-14.txt,Slovenija,Slovenia,1
+cn1953-10-14.txt,Brioni,Brioni,1
+cn1953-10-14.txt,the Soviet Union,Soviet Union,1
+cn1953-10-14.txt,Paris,Paris,3
+cn1953-10-14.txt,ARDMORE,Ardmore,1
+cn1953-10-14.txt,New York,New York,2
+cn1953-10-14.txt,North) Carolina,North Carolina,1
+cn1953-10-14.txt,Canada,Canada,1
+cn1953-10-14.txt,Mexico,Mexico,1
+cn1953-10-14.txt,Avignon,Avignon,1
+cn1953-10-14.txt,Salzburg,Salzburg,1
+cn1953-10-14.txt,Rome,Rome,1
+cn1953-10-14.txt,Madrid,Madrid,1
+cn1953-10-21.txt,ARDMORE,Ardmore,1
+cn1953-10-21.txt,BRYN MAWR,Bryn Mawr,1
+cn1953-10-21.txt,PA,Pennsylvania,1
+cn1953-10-21.txt,U. S.,United States,1
+cn1953-10-21.txt,America,United States,5
+cn1953-10-21.txt,Italy,Italy,10
+cn1953-10-21.txt,France,France,6
+cn1953-10-21.txt,Belgium,Belgium,1
+cn1953-10-21.txt,Netherlands,Netherlands,1
+cn1953-10-21.txt,United States,United States,2
+cn1953-10-21.txt,Britain,Britain,1
+cn1953-10-21.txt,Township,Township,1
+cn1953-10-21.txt,New York,New York,6
+cn1953-10-21.txt,Ardmore,Ardmore,4
+cn1953-10-21.txt,Pa.,Pennsylvania,4
+cn1953-10-21.txt,the United States,United States,5
+cn1953-10-21.txt,Bryn Mawr,Bryn Mawr,4
+cn1953-10-21.txt,Brazil,Brazil,1
+cn1953-10-21.txt,Korea,Korea,1
+cn1953-10-21.txt,the United,United States,2
+cn1953-10-21.txt,the VU. S.,the VU. S.,1
+cn1953-10-21.txt,the U. S.,United States,1
+cn1953-10-21.txt,Lower Merion Township,Lower Merion Township,1
+cn1953-10-21.txt,Montgomery,Montgomery,1
+cn1953-10-21.txt,Charleston,Charleston,1
+cn1953-10-21.txt,Spain,Spain,2
+cn1953-10-21.txt,South Carolina,South Carolina,1
+cn1953-10-21.txt,Washington,Washington UNKNOWN,1
+cn1953-10-21.txt,Trieste,Trieste,14
+cn1953-10-21.txt,Yugoslavia,Yugoslavia,7
+cn1953-10-21.txt,Belgrade,Belgrade,1
+cn1953-10-21.txt,Za- greb,Za- greb,1
+cn1953-10-21.txt,Slovenia,Slovenia,2
+cn1953-10-21.txt,Croatia,Croatia,1
+cn1953-10-21.txt,Istria,Istria,5
+cn1953-10-21.txt,Dalmatia,Dalmatia,2
+cn1953-10-21.txt,Dal- matia,Dal- matia,1
+cn1953-10-21.txt,Greece,Greece,3
+cn1953-10-21.txt,Athens,Athens,1
+cn1953-10-21.txt,Yugosla-,Yugosla-,1
+cn1953-10-21.txt,Zagreb,Zagreb,2
+cn1953-10-21.txt,Germany,Germany,5
+cn1953-10-21.txt,England,England,3
+cn1953-10-21.txt,Philadelphia,Philadelphia,1
+cn1953-10-21.txt,Haverford,Haverford,1
+cn1953-10-21.txt,Cairo,Cairo,6
+cn1953-10-21.txt,Glasgow,Glasgow,1
+cn1953-10-21.txt,Manchester,Manchester,1
+cn1953-10-21.txt,London,London,1
+cn1953-10-21.txt,Maryland,Maryland,1
+cn1953-10-21.txt,Florida,Florida,1
+cn1953-10-21.txt,Texas,Texas,1
+cn1953-10-21.txt,Naples,Naples,1
+cn1953-10-21.txt,Paris,Paris,3
+cn1953-10-21.txt,Lyon,Lyon,1
+cn1953-10-21.txt,Brittany,Brittany,1
+cn1953-10-21.txt,New York City,New York City,1
+cn1953-10-21.txt,Rosemont,Rosemont,2
+cn1953-10-21.txt,Gladwynn,Gladwyne,1
+cn1953-10-21.txt,CHESTERFIELD,Chesterfield,3
+cn1953-10-21.txt,AMERICA,United States,1
+cn1953-10-21.txt,Chesterfield,Chesterfield,3
+cn1953-10-28.txt,PA,Pennsylvania,1
+cn1953-10-28.txt,Britain,Britain,2
+cn1953-10-28.txt,Russia,Russia,7
+cn1953-10-28.txt,Great. Britain,Great Britain,1
+cn1953-10-28.txt,Philadelphia,Philadelphia,4
+cn1953-10-28.txt,America,United States,2
+cn1953-10-28.txt,Phila-,Philadelphia,1
+cn1953-10-28.txt,United States,United States,2
+cn1953-10-28.txt,Iran,Iran,1
+cn1953-10-28.txt,Lebanon,Lebanon,1
+cn1953-10-28.txt,"the United States,|",United States,1
+cn1953-10-28.txt,Parcpe,Parcpe,1
+cn1953-10-28.txt,the United States,United States,9
+cn1953-10-28.txt,Geneva,Geneva,1
+cn1953-10-28.txt,Cuba,Cuba,1
+cn1953-10-28.txt,the United States’,United States,1
+cn1953-10-28.txt,Haverford,Haverford,4
+cn1953-10-28.txt,West Germany,West Germany,1
+cn1953-10-28.txt,Ardmore,Ardmore,3
+cn1953-10-28.txt,Pa.,Pennsylvania,4
+cn1953-10-28.txt,Pennsylvania,Pennsylvania,2
+cn1953-10-28.txt,Singapore,Singapore,1
+cn1953-10-28.txt,Sarawak,Sarawak,1
+cn1953-10-28.txt,Israel,Israel,3
+cn1953-10-28.txt,Jordan,Jordan,2
+cn1953-10-28.txt,Tunis,Tunis,3
+cn1953-10-28.txt,Morocco,Morocco,5
+cn1953-10-28.txt,France,France,7
+cn1953-10-28.txt,US,United States,3
+cn1953-10-28.txt,Pakistan,Pakistan,1
+cn1953-10-28.txt,Bryn Mawr,Bryn Mawr,5
+cn1953-10-28.txt,India,India,5
+cn1953-10-28.txt,Delhi,Delhi,1
+cn1953-10-28.txt,New York,New York,4
+cn1953-10-28.txt,Iraq,Iraq,1
+cn1953-10-28.txt,New York,New York,1
+cn1953-10-28.txt,U. S.,United States,2
+cn1953-10-28.txt,United,United,1
+cn1953-10-28.txt,Libya,Libya,1
+cn1953-10-28.txt,Denver,Denver,1
+cn1953-10-28.txt,England,England,1
+cn1953-10-28.txt,Sweden,Sweden,1
+cn1953-10-28.txt,U.S.,United States,1
+cn1953-10-28.txt,Atlantic City,Atlantic City,1
+cn1953-10-28.txt,Turkey,Turkey,1
+cn1953-10-28.txt,Egypt,Egypt,1
+cn1953-10-28.txt,Cairo,Cairo,1
+cn1953-10-28.txt,The United States,United States,1
+cn1953-10-28.txt,VELVET,VELVET,1
+cn1953-10-28.txt,JERSEY,Jersey UKNOWN,1
+cn1953-10-28.txt,FELT,FELT,1
+cn1953-10-28.txt,LEATHER,LEATHER,1
+cn1953-10-28.txt,Kentucky,Kentucky,1
+cn1953-10-28.txt,Dulles,Dulles,1
+cn1953-10-28.txt,New,New UNKNOWN,1
+cn1953-10-28.txt,Germany,Germany,1
+cn1953-10-28.txt,ARD,Ardmore,1
+cn1953-10-28.txt,Washington,Washington UNKNOWN,2
+cn1953-10-28.txt,Maryland,Maryland,1
+cn1953-10-28.txt,Virginia,Virginia,1
+cn1953-10-28.txt,Washing- ton,Washington UNKNOWN,1
+cn1953-10-28.txt,D. C.,Washington D.C.,1
+cn1953-11-04.txt,ARDMORE,Ardmore,1
+cn1953-11-04.txt,BRYN MAWR,Bryn Mawr,1
+cn1953-11-04.txt,PA,Pennsylvania,1
+cn1953-11-04.txt,the United States,United States,5
+cn1953-11-04.txt,Rus-,Rus-,2
+cn1953-11-04.txt,New York,New York,5
+cn1953-11-04.txt,Bryn Mawr,Bryn Mawr,6
+cn1953-11-04.txt,America,United States,6
+cn1953-11-04.txt,England,England,1
+cn1953-11-04.txt,Haverford,Haverford,2
+cn1953-11-04.txt,the United States’,United States,1
+cn1953-11-04.txt,India,India,3
+cn1953-11-04.txt,Russia,Russia,7
+cn1953-11-04.txt,india,India,1
+cn1953-11-04.txt,Ardmore,Ardmore,3
+cn1953-11-04.txt,Pa.,Pennsylvania,3
+cn1953-11-04.txt,USSR,Soviet Union,2
+cn1953-11-04.txt,Korea,Korea,3
+cn1953-11-04.txt,Germany,Germany,7
+cn1953-11-04.txt,the U. S.’s,the U. S.’s,1
+cn1953-11-04.txt,Lugano,Lugano,1
+cn1953-11-04.txt,Britain,Britain,1
+cn1953-11-04.txt,the U. S.,United States,3
+cn1953-11-04.txt,France,France,5
+cn1953-11-04.txt,Yugoslavia,Yugoslavia,4
+cn1953-11-04.txt,Austria,Austria,1
+cn1953-11-04.txt,Rotterdam,Rotterdam,1
+cn1953-11-04.txt,Yugo-,Yugo-,1
+cn1953-11-04.txt,Ljubljana,Ljubljana,3
+cn1953-11-04.txt,Slovenia,Slovenia,1
+cn1953-11-04.txt,Munich,Munich,1
+cn1953-11-04.txt,Zagreb,Zagreb,4
+cn1953-11-04.txt,Philadelphia,Philadelphia,3
+cn1953-11-04.txt,United States,United States,1
+cn1953-11-04.txt,Aratria,Aratria,1
+cn1953-11-04.txt,Somaliland,Somaliland,1
+cn1953-11-04.txt,Libya,Libya,1
+cn1953-11-04.txt,The United States,United States,1
+cn1953-11-04.txt,The U. S.,United States,1
+cn1953-11-04.txt,China,China,1
+cn1953-11-04.txt,JERSEY,Jersey UKNOWN,1
+cn1953-11-04.txt,FELT,FELT,1
+cn1953-11-04.txt,LEATHER,LEATHER,1
+cn1953-11-04.txt,U. S.,United States,2
+cn1953-11-04.txt,Vermont,Vermont,1
+cn1953-11-04.txt,the United,United States,1
+cn1953-11-04.txt,Kaptol,Kaptol,1
+cn1953-11-04.txt,Chesterfield,Chesterfield,2
+cn1953-11-04.txt,CHESTERFIELD,Chesterfield,1
+cn1953-11-11.txt,ARDMORE,Ardmore,1
+cn1953-11-11.txt,BRYN MAWR,Bryn Mawr,1
+cn1953-11-11.txt,PA,Pennsylvania,1
+cn1953-11-11.txt,India,India,2
+cn1953-11-11.txt,America,United States,2
+cn1953-11-11.txt,Haverford,Haverford,2
+cn1953-11-11.txt,Ardmore,Ardmore,3
+cn1953-11-11.txt,Pa.,Pennsylvania,4
+cn1953-11-11.txt,Bryn Mawr,Bryn Mawr,1
+cn1953-11-11.txt,Mount Holyoke,Mount Holyoke,1
+cn1953-11-11.txt,Norway,Norway,4
+cn1953-11-11.txt,Oslo,Oslo,1
+cn1953-11-11.txt,the United States,United States,1
+cn1953-11-11.txt,the U. S.,United States,2
+cn1953-11-11.txt,VELVET,VELVET,1
+cn1953-11-11.txt,JERSEY,Jersey UKNOWN,1
+cn1953-11-11.txt,FELT,FELT,1
+cn1953-11-11.txt,LEATHER,LEATHER,1
+cn1953-11-11.txt,Boston,Boston,1
+cn1953-11-11.txt,Mass.,Massachusetts,1
+cn1953-11-11.txt,Chile,Chile,1
+cn1953-11-11.txt,Chesterfield,Chesterfield,3
+cn1953-11-11.txt,CHESTERFIELD,Chesterfield,1
+cn1953-11-18.txt,ARDMORE,Ardmore,2
+cn1953-11-18.txt,BRYN MAWR,Bryn Mawr,1
+cn1953-11-18.txt,PA,Pennsylvania,1
+cn1953-11-18.txt,Britain,Britain,1
+cn1953-11-18.txt,the United States,United States,4
+cn1953-11-18.txt,United,United,1
+cn1953-11-18.txt,U. S.,United States,2
+cn1953-11-18.txt,France,France,6
+cn1953-11-18.txt,Paris,Paris,2
+cn1953-11-18.txt,Germany,Germany,1
+cn1953-11-18.txt,United States,United States,2
+cn1953-11-18.txt,India,India,1
+cn1953-11-18.txt,Nepal,Nepal,2
+cn1953-11-18.txt,Connecticut,Connecticut,1
+cn1953-11-18.txt,Dixie,Dixie,1
+cn1953-11-18.txt,Ardmore,Ardmore,3
+cn1953-11-18.txt,Pa.,Pennsylvania,3
+cn1953-11-18.txt,New York City,New York City,1
+cn1953-11-18.txt,Philadelphia,Philadelphia,3
+cn1953-11-18.txt,Egypt,Egypt,1
+cn1953-11-18.txt,Israel,Israel,4
+cn1953-11-18.txt,Italy,Italy,3
+cn1953-11-18.txt,the U. S.,United States,2
+cn1953-11-18.txt,Bryn Mawr,Bryn Mawr,2
+cn1953-11-18.txt,England,England,3
+cn1953-11-18.txt,Edinburgh,Edinburgh,1
+cn1953-11-18.txt,London,London,4
+cn1953-11-18.txt,Stratford-on-Avon,Stratford-on-Avon,1
+cn1953-11-18.txt,Madagascar,Madagascar,1
+cn1953-11-18.txt,Dakar,Dakar,1
+cn1953-11-18.txt,New York,New York,3
+cn1953-11-18.txt,U. S. Policy in the Middle East,U. S. Policy in the Middle East,1
+cn1953-11-18.txt,Manhattan,Manhattan,1
+cn1953-11-18.txt,New.,New UNKNOWN,1
+cn1953-11-18.txt,Ireland,Ireland,1
+cn1953-11-18.txt,JERSEY,Jersey UKNOWN,1
+cn1953-11-18.txt,FELT,FELT,1
+cn1953-11-18.txt,Philippines,Philippines,1
+cn1953-11-18.txt,Carolina,Carolina UNKNOWN,1
+cn1953-11-18.txt,Karachi,Karachi,1
+cn1953-11-18.txt,Boston,Boston,1
+cn1953-11-18.txt,Chesterfield,Chesterfield,3
+cn1953-11-18.txt,CHESTERFIELD,Chesterfield,1
+cn1953-12-09.txt,PA,Pennsylvania,1
+cn1953-12-09.txt,Vermont,Vermont,1
+cn1953-12-09.txt,Philadelphia,Philadelphia,5
+cn1953-12-09.txt,India,India,4
+cn1953-12-09.txt,U. S.,United States,2
+cn1953-12-09.txt,Russia,Russia,2
+cn1953-12-09.txt,Pinata,Pinata,1
+cn1953-12-09.txt,U.S.,United States,1
+cn1953-12-09.txt,United States,United States,1
+cn1953-12-09.txt,China,China,2
+cn1953-12-09.txt,South Korea,South Korea,1
+cn1953-12-09.txt,Burma,Burma,1
+cn1953-12-09.txt,Indonesia,Indonesia,1
+cn1953-12-09.txt,Ardmore,Ardmore,2
+cn1953-12-09.txt,Pa.,Pennsylvania,3
+cn1953-12-09.txt,Moscow,Moscow,1
+cn1953-12-09.txt,Norristown,Norristown,1
+cn1953-12-09.txt,Paoli,Paoli,1
+cn1953-12-09.txt,Pennsylvania,Pennsylvania,1
+cn1953-12-09.txt,America,United States,1
+cn1953-12-09.txt,USSR,Soviet Union,2
+cn1953-12-09.txt,New York City,New York City,3
+cn1953-12-09.txt,Haverford,Haverford,1
+cn1953-12-09.txt,Boston,Boston,1
+cn1953-12-09.txt,Mass.,Massachusetts,1
+cn1953-12-09.txt,New York,New York,3
+cn1953-12-09.txt,Turkey,Turkey,1
+cn1953-12-09.txt,Egypt,Egypt,1
+cn1953-12-09.txt,Arab States,Arab States,1
+cn1953-12-09.txt,the State of Israel,the State of Israel,1
+cn1953-12-09.txt,France,France,2
+cn1953-12-09.txt,the Soviet Union,Soviet Union,1
+cn1953-12-09.txt,Helsinki,Helsinki,1
+cn1953-12-09.txt,Shaw,Shaw,1
+cn1953-12-09.txt,caster,caster,1
+cn1953-12-09.txt,Washington,Washington UNKNOWN,2
+cn1953-12-09.txt,D. C.,Washington D.C.,1
+cn1953-12-09.txt,Alaska,Alaska,1
+cn1953-12-09.txt,Holland,Holland,1
+cn1953-12-09.txt,the United States,United States,1
+cn1953-12-09.txt,New,New UNKNOWN,1
+cn1953-12-09.txt,Japan,Japan,1
+cn1953-12-09.txt,CHESTERFIELD,Chesterfield,2
+cn1953-12-09.txt,Chesterfield,Chesterfield,2
+cn1953-12-16.txt,ARDMORE,Ardmore,1
+cn1953-12-16.txt,BRYN MAWR,Bryn Mawr,1
+cn1953-12-16.txt,PA,Pennsylvania,1
+cn1953-12-16.txt,Haverford,Haverford,4
+cn1953-12-16.txt,Bryn Mawr,Bryn Mawr,4
+cn1953-12-16.txt,Washington,Washington UNKNOWN,1
+cn1953-12-16.txt,D. C.,Washington D.C.,1
+cn1953-12-16.txt,England,England,4
+cn1953-12-16.txt,New York City,New York City,1
+cn1953-12-16.txt,the Soviet Union,Soviet Union,1
+cn1953-12-16.txt,Poland,Poland,1
+cn1953-12-16.txt,Bryn Mawr’s,Bryn Mawr PLURAL,1
+cn1953-12-16.txt,Ardmore,Ardmore,3
+cn1953-12-16.txt,Pa.,Pennsylvania,4
+cn1953-12-16.txt,the United States,United States,2
+cn1953-12-16.txt,Great Britain,Great Britain,1
+cn1953-12-16.txt,India,India,1
+cn1953-12-16.txt,In- donesia,In- donesia,1
+cn1953-12-16.txt,Britain,Britain,6
+cn1953-12-16.txt,U. S. A.,United States,1
+cn1953-12-16.txt,the U. S.,United States,7
+cn1953-12-16.txt,The U. S.,United States,1
+cn1953-12-16.txt,Germany,Germany,1
+cn1953-12-16.txt,Russia,Russia,1
+cn1953-12-16.txt,Philadelphia,Philadelphia,1
+cn1953-12-16.txt,VELVET,VELVET,1
+cn1953-12-16.txt,JERSEY,Jersey UKNOWN,1
+cn1953-12-16.txt,FELT,FELT,1
+cn1953-12-16.txt,LEATHER,LEATHER,1
+cn1953-12-16.txt,PLAIN,Plain UNKNOWN,1
+cn1953-12-16.txt,N. Y. C.,N. Y. C.,1
+cn1953-12-16.txt,Holland,Holland,1
+cn1953-12-16.txt,Soviet,Soviet,1
+cn1953-12-16.txt,Chesterfield,Chesterfield,3
+cn1953-12-16.txt,America,United States,1

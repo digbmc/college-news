@@ -5,16 +5,32 @@ Bryn Mawr College [Digital Scholarship Summer Fellows Program 2021](https://digb
 
 ## Contents
 
-- [Data](/data)
-  - Corpus metadata and text files
-- [Corpus cleaning](/corpus-cleaning)
+- [Corpus](/corpus)
+  - Corpus text files
   - Code used to scrape and process entire corpus
-  - Any text cleaning for different tools and methods
-- [Text mining](/text-mining)
-  - Code for extracting keywords, entities, and other features
-  - Generating data from corpus
-- [Visualization](/visualization)
-  - Code for generating data visualizations
+  - Code used to clean a text file
+- [Data](/data)
+  - CSVs with corpus metadata
+- [Individual Projects](/individual-projects)
+  - Code for each fellow's project
+  - [Linda's project](/cigarettes)
+  - [Marianela's project](/neg-contexts)
+  - [Al's project](/religion)
+  - [Aanandi's project](/south-asia)
+  - [Avery's project](/wartime-locations)
+- [Letters to the Editor](/letters-to-editor)
+  - Code for extracting text file chunks with letters
+  - CSV with letter chunks
+- [Text Mining](/text-mining)
+  - Code for extracting entities
+  - Code for extracting a keyword
+  - Code for extracting multiple keywords
+- [Visualizations](/visualizations)
+  - Code for various visualizations
+  - [Examples](/examples)
+  - [Map](/map)
+  - [Political Topics](/politics)
+  - [Tactile](/tactile)
 
 ## About the project
 
